@@ -3,6 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin
 from dotenv import load_dotenv
+from markdownify import markdownify as md
+import json
 
 load_dotenv(override=True)
 
@@ -10,11 +12,11 @@ load_dotenv(override=True)
 BASE_DOMAINS = os.getenv("BASE_DOMAINS").split(",")
 MAX_DEPTH = int(os.getenv("MAX_DEPTH", 2))
 
-OUTPUT_TEXT_DIR = "data/text"
 OUTPUT_HTML_DIR = "data/html"
+OUTPUT_MD_DIR = "data/markdown"
 
-os.makedirs(OUTPUT_TEXT_DIR, exist_ok=True)
 os.makedirs(OUTPUT_HTML_DIR, exist_ok=True)
+os.makedirs(OUTPUT_MD_DIR, exist_ok=True)
 
 # ================= SESSION =================
 session = requests.Session()
@@ -74,21 +76,18 @@ def save_file(path, content):
         f.write(content)
 
 
-def clean_text(soup):
-    # Remove noisy elements
+def clean_html(soup):
+    # ❌ remove junk
     for tag in soup(["script", "style", "nav", "footer", "header"]):
         tag.decompose()
 
-    text = soup.get_text()
-    lines = [l.strip() for l in text.splitlines() if l.strip()]
-
-    return "\n".join(lines)
+    return soup
 
 
 # ================= MAIN =================
 files = []
 
-# Step 1: Crawl URLs
+# Step 1: Crawl
 for base in BASE_DOMAINS:
     domain = urlparse(base).netloc
     print("\n🔹 Crawling domain:", domain)
@@ -106,39 +105,35 @@ for url in crawled:
             continue
 
         soup = BeautifulSoup(r.content, "html.parser")
+        soup = clean_html(soup)
 
-        # ---------- Save HTML (for LlamaParse) ----------
-        html_filename = url.replace("https://", "").replace("http://", "").replace("/", "_")[:200] + ".html"
-        html_path = os.path.join(OUTPUT_HTML_DIR, html_filename)
-
+        # ---------- Save HTML ----------
+        filename = url.replace("https://", "").replace("http://", "").replace("/", "_")[:200]
+        html_path = os.path.join(OUTPUT_HTML_DIR, filename + ".html")
         save_file(html_path, r.text)
 
-        # ---------- Save Clean Text (optional) ----------
-        cleaned = clean_text(soup)
+        # ---------- Save MARKDOWN (🔥 MAIN) ----------
+        markdown = md(str(soup))
 
-        if not cleaned:
+        if not markdown.strip():
             continue
 
-        text_filename = html_filename.replace(".html", ".txt")
-        text_path = os.path.join(OUTPUT_TEXT_DIR, text_filename)
-
-        save_file(text_path, cleaned)
+        md_path = os.path.join(OUTPUT_MD_DIR, filename + ".md")
+        save_file(md_path, markdown)
 
         files.append({
             "url": url,
             "html": html_path,
-            "text": text_path
+            "markdown": md_path
         })
 
-        print("✅ Saved:", html_filename)
+        print("✅ Saved:", filename)
 
     except Exception as e:
         print("❌ Error:", url, e)
 
 
-# Step 3: Save metadata
-import json
-
+# Step 3: Metadata
 with open("data/crawled_files.json", "w", encoding="utf-8") as f:
     json.dump(files, f, indent=2)
 

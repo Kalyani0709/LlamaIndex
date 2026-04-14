@@ -1,6 +1,7 @@
 import os
 import uuid
 import json
+import time
 from dotenv import load_dotenv
 
 from qdrant_client import QdrantClient
@@ -11,7 +12,7 @@ from sentence_transformers import SentenceTransformer
 # ------------------ LOAD ENV ------------------
 load_dotenv()
 
-# ------------------ EMBEDDING MODEL ------------------
+# ------------------ MODEL ------------------
 model = SentenceTransformer("all-mpnet-base-v2")
 
 # ------------------ QDRANT ------------------
@@ -20,16 +21,14 @@ COLLECTION_NAME = "mopar_collection"
 
 INPUT_FILE = "data/chunked.json"
 
+BATCH_SIZE = 64   # 🔥 safer
+RETRY = 3         # 🔥 production safety
 
-# ------------------ LOAD CHUNKS ------------------
+
+# ------------------ LOAD ------------------
 def load_chunks():
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
-
-
-# ------------------ EMBEDDING ------------------
-def get_embedding(text):
-    return model.encode(text).tolist()
 
 
 # ------------------ CREATE COLLECTION ------------------
@@ -46,47 +45,64 @@ def create_collection(collection_name):
     print("✅ Collection created:", collection_name)
 
 
+# ------------------ UPSERT WITH RETRY ------------------
+def safe_upsert(points):
+    for attempt in range(RETRY):
+        try:
+            qdrant.upsert(
+                collection_name=COLLECTION_NAME,
+                points=points
+            )
+            return
+        except Exception as e:
+            print(f"⚠️ Retry {attempt+1}/{RETRY} failed:", e)
+            time.sleep(2)
+
+    print("❌ Failed batch permanently")
+
+
 # ------------------ ADD DOCUMENTS ------------------
-def add_documents_to_qdrant(docs, collection_name, batch_size=100):
+def add_documents_to_qdrant(docs):
     total = len(docs)
 
-    print(f"\n🚀 Total chunks to upload: {total}")
+    print(f"\n🚀 Total chunks: {total}")
 
-    for i in range(0, total, batch_size):
-        batch = docs[i:i + batch_size]
+    for i in range(0, total, BATCH_SIZE):
+        batch = docs[i:i + BATCH_SIZE]
+
+        print(f"\n📦 Batch {i} → {i + len(batch)}")
+
+        texts = [doc["text"] for doc in batch if doc["text"].strip()]
+
+        # 🔥 FAST: batch embedding
+        embeddings = model.encode(texts, batch_size=16).tolist()
+
         points = []
 
-        print(f"\n📦 Uploading batch {i} → {i + len(batch)}")
-
-        for doc in batch:
+        for doc, emb in zip(batch, embeddings):
             text = doc["text"]
-
-            if not text.strip():
-                continue
-
-            embedding = get_embedding(text)
 
             payload = {
                 "content": text,
-                "source": doc.get("source", "")
+                "metadata": {   # ✅ FIXED
+                    "source": doc.get("metadata", {}).get("source", "")
+                }
             }
 
             points.append(
                 PointStruct(
                     id=str(uuid.uuid4()),
-                    vector=embedding,
+                    vector=emb,
                     payload=payload,
                 )
             )
 
-        qdrant.upsert(
-            collection_name=collection_name,
-            points=points
-        )
+        # 🔥 SAFE UPSERT
+        safe_upsert(points)
 
-        print("✅ Batch uploaded")
+        print("✅ Uploaded")
 
-    print("\n🎉 All batches uploaded successfully!")
+    print("\n🎉 ALL DONE")
 
 
 # ------------------ MAIN ------------------
@@ -94,12 +110,8 @@ if __name__ == "__main__":
     print("Step 1: Create collection")
     create_collection(COLLECTION_NAME)
 
-    print("\nStep 2: Load chunked data")
+    print("\nStep 2: Load chunks")
     docs = load_chunks()
 
-    print(f"\nTotal chunks: {len(docs)}")
-
-    print("\nStep 3: Add to Qdrant")
-    add_documents_to_qdrant(docs, COLLECTION_NAME)
-
-    print("\n✅ DONE")
+    print("\nStep 3: Upload")
+    add_documents_to_qdrant(docs)

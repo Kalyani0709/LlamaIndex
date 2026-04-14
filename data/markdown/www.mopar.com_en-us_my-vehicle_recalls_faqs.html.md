@@ -1,0 +1,488 @@
+Vehicle Recall FAQs | Official Mopar® Site
+
+
+
+
+
+
+
+WELCOME TO MOPAR! YOUR OWNER PROFILE IS NEARLY COMPLETE − PLEASE CHECK YOUR EMAIL TO VERIFY YOUR ACCOUNT
+
+Didn't receive AN email ?
+
+ [Resend Email](#)
+
+###
+
+###
+
+NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
+------------------------------------------------------------------
+
+![direct_connection_logo](/content/dam/mopar/images/direct_connection_logo.png)
+
+[Shop Now](https://dcperformance.com)
+[Learn More](https://www.dodge.com/power-broker-direct-connection.html)
+
+* [![Mopar at your service logo.](/content/dam/mopar/images/header/logos/mopar_logo.svg)](/ramtrucks/en-us.html)
+* [![Mopar at your service logo.](/content/dam/mopar/images/header/logos/header_mopar_logo_text.svg)](/ramtrucks/en-us.html)
+* [![ramtrucks at your service](/content/dam/mopar/images/header/logos/ram_logo.png)](/ramtrucks/en-us.html)
+
+EN / US
+
+* [![https://placehold.co/20x20](/content/dam/mopar/images/mega-nav/united-states.png)
+  es / us](#)
+* [![https://placehold.co/20x20](/content/dam/mopar/images/mega-nav/canada.png)
+  en / ca](#)
+* [![https://placehold.co/20x20](/content/dam/mopar/images/mega-nav/canada.png)
+  fr / ca](#)
+
+,
+**Guest**
+
+EN-US
+[Visit eStore](https://store.mopar.com)
+[Find Tires](/en-us/services/tire-services.html#tirefinder)
+[Schedule Service](#)
+[Find a Dealer](#)
+
+---
+
+
+
+[![https://placehold.co/20x20](/content/dam/mopar/images/mega-nav/united-states.png)
+es-us](#)
+[![https://placehold.co/20x20](/content/dam/mopar/images/mega-nav/canada.png)
+en-ca](#)
+[![https://placehold.co/20x20](/content/dam/mopar/images/mega-nav/canada.png)
+fr-ca](#)
+
+---
+
+---
+
+---
+
+Search
+
+Popular Searches
+
+* [Shop Parts & Accessories](https://store.mopar.com/)
+* [Learn About Uconnect®](/en-us/technology/uconnect.html)
+* [View Owner's Manual](/en-us/my-vehicle/owners-manual.html)
+* [Pair Your Smartphone](/en-us/technology/smartphone-pairing.html)
+* [Purchase EV Charger](https://store.mopar.com/ev-chargers)
+* [Shop Merchandise](https://www.wearmopar.com/)
+* [Find Tires](/en-us/services/tire-services.html#tirefinder)
+* [Dashboard Lights](/en-us/dashboard-warning-lights.html)
+
+Helpful Links
+
+* [EXPLORE FAQs](/en-us/contact-us.html#faq-content)
+* [CONTACT US](/en-us/contact-us.html)
+* [FIND A DEALER](/en-us/service-maintenance/find-dealer.html)
+* [SCHEDULE SERVICE](/en-us/service-maintenance/schedule-a-service.html)
+
+Recall FAQ
+==========
+
+#### Recall FAQ
+
+Our Commitment to Safety: Recall Awareness
+------------------------------------------
+
+Your safety is our No. 1 priority. Watch the video to learn more about the commitment of FCA US to remedy any recall-related repairs on your vehicle, including what you can expect every step of the way.
+
+FCA US LLC regards the safety and security of our customers and their families as paramount. Please see our FAQ list below to learn more about recalls and the precautions we take to keep you safe. If you don't see your concern listed, [chat with us](#) and one of our representatives will help answer any questions you may have.
+
+[Check Your Vin](/ramtrucks/en-us/my-vehicle/recalls/search.html)
+[Search Recent Announcements](#recall-announcements-heading)
+
+Recent Recall Announcements
+---------------------------
+
+* M14 Wheel Studs
+* Airbag Emblem
+* Transmission Shift Cable Bushing
+* Drag Link Recall
+* Tailgate Latch Recall
+* Takata Airbag Recalls
+
+FCA US is recalling some vehicles to correct their service and owner’s manuals, and inspect and replace their wheel studs, as needed. Affected are certain model-year 2012-2021 Ram 3500 heavy-duty pickups, and 4500 and 5500 cab-chassis vehicles.
+
+Routine customer data analysis led to an FCA US investigation that discovered certain service and owner’s manuals contain incorrect lug-nut torque instructions. Accordingly, the corresponding vehicles may have had their lug nuts over-torqued, a condition that could compromise studs and lead to wheel separation.
+
+There is no component defect and torque applied during vehicle assembly is within specification, so the recall condition may only be present in vehicles that have been subject to wheel-removal as part of a service or upfit procedure. The Company is unaware of any related injuries or accidents.
+
+Dealers are currently in possession of correct service instructions, and production vehicles are now being delivered with updated owner’s manuals. The campaign is limited to vehicles equipped with dual rear wheels and flanged lug nuts.
+
+FCA US will advise affected customers when service becomes available.
+
+FCA US is recalling some older-model vehicles in the U.S. to replace the airbag covers on their steering wheels.
+
+An FCA investigation discovered these vehicles are equipped with certain clips, no longer in use, that may — over time — loosen and separate from the plastic emblems they are meant to secure. Should this happen and there is a driver-side air bag deployment, the clips and/or plastic emblems may act as projectiles.
+
+The recall is limited to model-year 2007-2011 Dodge Nitro SUVs, and model-year 2008-2010 Chrysler Town & Country and Dodge Grand Caravan minivans.
+
+What you need to know: In the interim, FCA strongly advises against tampering with the emblems, which are located in the center of the vehicles’ steering wheels. The airbags associated with this campaign are not from Takata.
+
+The recall number is W09. The repair for this recall is now available. Please visit your local dealership for an appointment.
+
+FCA US is voluntarily recalling 2013 – 2016 Dodge Darts sedans equipped with automatic transmissions to replace their shift cable bushings.
+
+The FCA campaign number is **V34.**
+
+An FCA US investigation discovered certain vehicles are equipped with a cable bushing that may degrade after prolonged exposure to high ambient heat and humidity. Should degradation occur, it may prohibit the driver from shifting gears.
+
+The Company is unaware of any related injuries or collisions, but such circumstances raise the risk of unintended vehicle movement. Therefore, customers are reminded to follow the vehicle’s operating instructions before exiting the vehicle. These instructions include shutting off the engine and engaging the parking brake.
+
+In the extremely rare event that the cable bushing becomes disconnected while driving, brake function remains, which helps preserve driver-control.
+
+VINs are currently searchable on our [recalls.mopar.com](http://recalls.mopar.com/) website.
+
+**WHAT YOU NEED TO KNOW**
+
+Parts are now readily available to perform repairs. Owner notifications will mail in September to all affected owners.
+
+When the owner notification is received, any authorized Chrysler, Jeep, Dodge or RAM dealer can repair affected vehicles, free of charge.
+
+FCA US LLC is recalling heavy-duty trucks in the U.S. to address a potential steering-linkage issue.
+
+An FCA US investigation discovered a specific steering-linkage configuration on certain vehicles may separate over time. If this were to occur, the driver may experience steering loss.
+
+The FCA campaign number for this safety recall is V06.
+
+**The Company is aware of one potentially related injury and eight potentially related accidents.**
+
+The recall population is limited to model-year 2013-2018 Ram 3500 pickups and model-year 2014-2018 Ram 2500 pickups and 3500 chassis cabs.
+
+VINs are currently searchable on our [recalls.mopar.com](http://recalls.mopar.com/) website.
+
+The redesigned-for-2019 Ram 1500, North American International Auto Show and *Motor Trend* Truck of the Year Award Winner, is not affected by this safety recall.
+
+**WHAT YOU NEED TO KNOW**
+
+A remedy is currently available to fix all trucks affected by this safety recall.  This remedy will include your dealer inspecting the steering linkage configuration and possibly welding or replacing the drag link assembly.
+
+When the owner notification is received, any authorized Chrysler, Jeep, Dodge or RAM dealer can inspect and repair affected vehicles, free of charge.
+
+After the recall is performed, owners are still able to have an alignment completed by following an approved alignment procedure.
+
+[Toe Adjustment with Welded Drag Link](http://www.chrysler.com/universal/webselfservice/pdf/V06alignment.pdf)
+
+FCA US LLC is voluntarily recalling U.S.-market pickup trucks to upgrade their tailgate locking mechanisms. The power locking mechanisms in the tailgates of certain pickups may break over time. If this were to happen, the vehicle's tailgate may unlatch.
+
+The FCA campaign numbers for these safety recalls is U74 and V44.
+
+The recalls affect certain Ram 1500, 2500 and 3500 pickups from model years 2013 through 2017 and select 2018 vehicles. Trucks equipped with manual tailgate locks are not included in these campaigns.
+
+VINs are currently searchable on our [recalls.mopar.com](http://recalls.mopar.com) website.
+
+The redesigned-for-2019 Ram 1500, North American International Auto Show and Motor Trend Truck of the Year Award Winner, is not affected by these safety recalls. Its tailgate mechanism benefits from a new design that delivers enhanced functionality, such as lift-assist.
+
+##### WHAT YOU NEED TO KNOW
+
+A remedy is currently available to fix tailgate latch assemblies affected by these recalls. Once the notifications are received, any authorized Chrysler, Jeep, Dodge or RAM dealer can repair affected vehicles, free of charge.
+
+FCA US is unaware of any related injuries or accidents.
+
+**In the interim, FCA US reminds owners that all loose cargo should be secured while driving, as stated in the operating manuals of the affected vehicles.**
+
+Further, FCA US pickups offer alternate features to accommodate load security, such as tie-down rings, cleats, high-friction bed-liners, bulkhead dividers, and bed-extenders.
+
+##### FAQs
+
+Why is my vehicle being recalled?
+
+The purpose of the recall is to upgrade the tailgate locking mechanisms. The power locking mechanisms in the tailgates of certain pickups may break over time. If this were to happen, the vehicle's tailgate may unlatch.
+
+Is there anything owners can do in the meantime to ensure their safety prior to the recall being performed?
+
+In the interim, FCA US reminds that all loose cargo should be secured while driving, as stated in the operating manuals of the affected vehicles.
+
+Additionally, FCA US pickups offer alternate features to accommodate load security, such as tie-down rings, cleats, high-friction bed-liners, bulkhead dividers, and bed-extenders.
+
+When will service become available?
+
+A remedy is NOW available to fix tailgate latch assemblies affected by these recalls.
+
+Why isn't the new Ram affected?
+
+The 2019 Ram offers enhanced tailgate functionality, which required the redesign of its tailgate mechanism. Among the enhancements: lift-assist, to reduce the effort required to close it.
+
+##### What You Need to Know
+
+**Parts to remedy ALL FCA US vehicles included in ALL active safety campaigns related to driver and/or passenger airbag inflators manufactured by Takata Corporation are now available.**
+
+**Additionally, front passenger airbag inflators are now available for Safety Recall V01**
+
+**Upon receiving notification, affected owners should contact their dealer to schedule an appointment for their free repair.**
+
+**If affected owners are seeking to have their vehicle repaired before receiving this notification, they can contact their Chrysler, Dodge, Jeep® or RAM dealer to inquire about part availability, and can have their vehicle repaired. All FCA US dealers have access to parts to repair all vehicles included in active safety campaigns related to driver and/or passenger airbag inflators manufactured due by Takata Corporation.**
+
+**If you require assistance in scheduling an appointment for this FREE repair, please call 833-585-0144.**
+
+In 2015 and 2016, Takata Corporation advised the National Highway Traffic Safety Administration (NHTSA) that a significant number of its driver and passenger airbag inflators that contain a non-desiccated phase stabilized ammonium nitrate (PSAN) propellant (an ammonium nitrate propellant without a chemical drying agent) are defective.
+
+Prolonged exposure to high absolute humidity and high temperatures may cause the propellant to degrade.
+
+**Activation of degraded non-desiccated ammonium nitrate may cause an inflator rupture during normal airbag deployment events, possibly propelling metal fragments through the vehicle cabin that could result in serious injury or death to both the driver and vehicle passengers.**
+
+For more information about the Takata Recall expansion, please visit [www.safercar.gov/rs/takata/.](http://www.safercar.gov/rs/takata/.)
+
+##### Frequently Asked Questions
+
+Which vehicles are affected by Takata-related FCA US safety campaigns?
+
+Please visit the [Takata Airbag Inflator Recalls page](/en-us/my-vehicle/recalls/takata-recalls.html) for details regarding affected vehicles.
+
+My vehicle is not currently included in any Takata-related safety campaign. Will it be involved in a future phase?
+
+NHTSA and Takata are prioritizing future recalls based on when the affected inflators are likely to pose an unreasonable risk to safety, considering time, temperature and environmental moisture. Therefore, the recall plan has been structured with phases and three geographic zones based on time in service and climatic conditions. For more information, visit [www.safercar.gov/rs/takata/](https://www.safercar.gov/rs/takata/)
+
+What should I do to determine if my vehicle will be involved in a future phase?
+
+FCA US recommends that you regularly check recall applicability using [recalls.mopar.com](http://recalls.mopar.com) or [www.safercar.gov](https://www.safercar.gov/). You will need to input your 17-digit vehicle identification number (VIN) to obtain specific information about your vehicle.
+
+Are any vehicles currently being manufactured by FCA US equipped with Takata frontal airbag inflators manufactured with PSAN propellant that does not include a desiccant?
+
+FCA US has completed the process of phasing out the use of Takata frontal non-desiccated PSAN airbag inflators as of June 23, 2016. Current model year vehicles produced before this date are not subject to a current recall. Based on multiple independent investigations and NHTSA's independent expert, NHTSA has concluded that the non-desiccated Takata frontal airbag inflators do not pose an unreasonablerisk to safety until they reach a certain level of propellant degradation after long-term exposure to environmental moisture and fluctuating high temperatures. NHTSA and Takata are prioritizing recalls based on when affected inflators are likely to pose an unreasonable risk to safety, considering time, temperature and environmental moisture, which depends in part on a vehicle's operating location. According to NHTSA's current order, all of these components will be recalled by the end of 2018.
+
+What if I have additional questions or concerns?
+
+If you have additional questions or concerns, contact the FCA US Recall Information Center at [833-585-0144](tel:8335850144)
+
+[Learn More](/ramtrucks/en-us/my-vehicle/recalls/takata-recalls.html)
+
+#### SHOP FOR YOUR NEXT VEHICLE
+
+NEED HELP 
+
+### NEED HELP
+
+* [Roadside Assistance](/en-us/assistance/roadside-assistance.html)
+* [For First Responders](/en-us/assistance/first-responders.html)
+* [Chat with Us](https://fcagroup.my.site.com/Mopar/s/)
+* [FAQs](https://fcagroup.my.site.com/Mopar/s/knowledge)
+* [Site Map](/en-us/site-map.html)
+
+RESOURCES 
+
+### RESOURCES
+
+* [Find a Dealer](/en-us/service-maintenance/find-dealer.html)
+* [Mopar® Dealers by State](/en-us/directory.html)
+* [Recalls](/en-us/my-vehicle/recalls/results.html)
+* [Owner's Apps](/en-us/technology/mobile-app.html)
+* [Owners Manual](/en-us/my-vehicle/owners-manual.html)
+* [Maintenance Schedule](/en-us/my-vehicle/maintenance-schedule.html)
+* [Warranty Information](/en-us/my-vehicle/current-model-year-coverage.html)
+* [Lemon Law, Warranty & Repair Help](/en-us/lemon-law.html)
+* [Parts & Accessory Brochures](/en-us/performance-catalogs.html)
+* [Owners Info Sitemap](/en-us/owners-information-sitemap.html)
+* [FlexCare Vehicle Protection](/en-us/care/flexcare-vehicle-protection.html)
+
+For Dealers 
+
+### For Dealers
+
+* [Mopar® Repair Connection](https://www.moparrepairconnection.com/)
+* [Mopar® Dealers](https://www.dealers-mopar.com)
+* [Mopar® CAP](/en-us/mopar-cap.html)
+* [DealerCONNECT](https://dealerconnect.chrysler.com/)
+
+Company 
+
+### Company
+
+* [Careers](http://www.fcagroupcareers.com/Pages/default.aspx)
+* [Legal, Safety & Trademarks](/en-us/legal-trademarks.html)
+* [Copyright](https://www.chrysler.com/universal/Copyright.html)
+* [Terms of Use](https://www.chrysler.com/crossbrand_us/terms-of-use)
+* [Accessibility](https://fcagroup.my.site.com/Mopar/s/article/What-steps-do-you-take-to-ensure-website-accessibility)
+* [Contact](/en-us/contact-us.html)
+
+Privacy Center 
+
+### Privacy Center
+
+* [Privacy Policy](https://www.chrysler.com/universal/privacy.html)
+* [Data Privacy Framework Policy](https://www.chrysler.com/crossbrand_us/dpf_statement)
+* [Manage Your Privacy Choices](https://privacyportal-cdn.onetrust.com/dsarwebform/abdee64f-f547-46bd-97a7-f56d58479fce/1c3a169b-1230-4a2e-b664-8785e3763e2c.html)
+* [Cookie Settings](javascript:Optanon.ToggleInfoDisplay();)
+
+### SERVICE SCHEDULING MADE EASY
+
+Conveniently book an appointment with your preferred dealer
+
+[SIGN IN](/en-us/sign-in.html?redirect=oss)
+[CONTINUE AS GUEST](/en-us/service-maintenance/online-scheduling-service/schedule-an-appointment.html)
+
+Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler?
+[Register Now](/en-us/sign-in.html?tab=register)
+
+Sign in to access (or create) your account for VIN-specific resources,
+personalized content, and more. Otherwise, you may proceed as a guest.
+
+[SIGN IN](/en-us/sign-in.html)
+Skip Sign in
+
+#### Select a Vehicle
+
+###### Add a vehicle by selecting Brand, Year, and Model or sign into your account to add by VIN.
+
+###### By Brand, Year, and Model
+
+Select Brand
+
+Select Brand
+
+Year
+
+Select Year
+Year
+
+Model
+
+Select Model
+Model
+
+MakeMake
+
+alfa
+
+ADD VEHICLE
+
+OR
+
+###### By VIN
+
+###### Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
+
+SIGN IN
+
+REGISTER
+
+##### Please wait while we add your vehicle
+
+  
+
+#####
+
+##### Vehicle Added Successfully!
+
+Your vehicle has been added in your Garage.
+
+![](/content/dam/mopar/images/blank.gif)
+
+###
+
+### Help us try to verify your ownership by providing the details below
+
+NOTE: Provide your first and last name as they appear on the vehicle registration.
+
+\*Indicates required field
+
+We’re sorry
+
+Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
+
+Need additional assistance? [Contact Us](/en-us/contact-us.html).
+
+CLOSE
+
+Great news!
+
+Our latest records now identify you as the current owner of this vehicle.This will now be reflected on your online dashboard.
+
+Need additional assistance? [Contact Us](/en-us/contact-us.html).
+
+GOT IT!
+
+#### Notifications
+
+New 
+All 
+
+Dealer 
+Services 
+Recalls 
+Offers
+
+You are permanently removing this notification from your Owner Site Notification Feed.   
+Do you wish to proceed?
+
+Don’t show this again
+
+REMOVE
+
+CANCEL
+
+To set preferences about the types of site notifications you wish to receive, click here.
+Set Preferences
+
+![](/content/dam/mopar/images/ugly-sweater/gif-sticky-banner.gif)
+
+Our limited-time tire offer is here!
+------------------------------------
+
+
+
+![](/content/dam/mopar/images/ugly-sweater/buy3-adv-sticky-banner.jpg)
+
+Buy 3 Tires Get the 4th for $11
+-------------------------------
+
+Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.  
+  
+Expires April 30th—so browse our tire offerings and contact your dealership today!
+
+[Find Tires](/en-us/services/tire-services.html#tirefinder)
+[Offer Details](/en-us/services/tire-services.html)
+
+View all fca brands
+
+[CHRYSLER](https://www.chrysler.com)
+
+[Dodge](https://www.dodge.com)
+
+[jeep®](https://www.jeep.com)
+
+[Ram](https://www.ramtrucks.com)
+
+[fiat®](https://www.fiatusa.com)
+
+[Alfa Romeo](https://www.alfaromeousa.com)
+
+[Stellantis Pro One](https://www.stellantisfleet.com/)
+
+[![image](https://www.mopar.com/content/dam/mopar/images/global/driveability_logo_horz_White.png)](http://www.fcausautomobility.com/)
+
+* ©2026 FCA US LLC. All Rights Reserved.
+* Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US LLC.
+* ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., used with permission.
+* FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please  [Contact Us](https://fcagroup.my.site.com/Mopar/s/?language=en_US) or call at 1-800-399-2668, for further assistance or to report a problem. Access to <https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US> is subject to FCA US LLC’s Privacy Policy and Terms of Use.
+
+Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content
+
+[Sign In](/ramtrucks/en-us/sign-in.html)
+[Skip Sign In](/ramtrucks/en-us/my-garage/select-vehicle.html)
+
+#### Your preferred dealer has been successfully updated.
+
+DISMISS
+
+#### Your preferred dealer has been successfully updated
+
+DISMISS
+
+### Thanks for visiting
+
+You are now leaving the Mopar® U.S. site and will be logged out of your account.
+
+Continue
+Cancel
+
+#### modal title
+
+#### One moment please
