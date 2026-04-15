@@ -3,8 +3,9 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin
 from dotenv import load_dotenv
-from markdownify import markdownify as md
 import json
+
+from llama_parse import LlamaParse
 
 load_dotenv(override=True)
 
@@ -12,11 +13,17 @@ load_dotenv(override=True)
 BASE_DOMAINS = os.getenv("BASE_DOMAINS").split(",")
 MAX_DEPTH = int(os.getenv("MAX_DEPTH", 2))
 
-OUTPUT_HTML_DIR = "data/html"
-OUTPUT_MD_DIR = "data/markdown"
+OUTPUT_RAW_DIR = "data/raw"
+OUTPUT_PARSED_DIR = "data/parsed"
 
-os.makedirs(OUTPUT_HTML_DIR, exist_ok=True)
-os.makedirs(OUTPUT_MD_DIR, exist_ok=True)
+os.makedirs(OUTPUT_RAW_DIR, exist_ok=True)
+os.makedirs(OUTPUT_PARSED_DIR, exist_ok=True)
+
+# ================= LLAMA PARSE =================
+parser = LlamaParse(
+    api_key=os.getenv("LLAMA_CLOUD_API_KEY"),
+    result_type="markdown"   # can also use "text"
+)
 
 # ================= SESSION =================
 session = requests.Session()
@@ -76,14 +83,6 @@ def save_file(path, content):
         f.write(content)
 
 
-def clean_html(soup):
-    # ❌ remove junk
-    for tag in soup(["script", "style", "nav", "footer", "header"]):
-        tag.decompose()
-
-    return soup
-
-
 # ================= MAIN =================
 files = []
 
@@ -96,45 +95,54 @@ for base in BASE_DOMAINS:
 print("\nTotal URLs found:", len(crawled))
 
 
-# Step 2: Scrape + Save
+# Step 2: Parse with LlamaParse
 for url in crawled:
     try:
+        print(f"\n🔍 Parsing: {url}")
+
+        # Save raw HTML (optional but useful)
         r = session.get(url, timeout=10)
 
         if "text/html" not in r.headers.get("Content-Type", ""):
             continue
 
-        soup = BeautifulSoup(r.content, "html.parser")
-        soup = clean_html(soup)
-
-        # ---------- Save HTML ----------
         filename = url.replace("https://", "").replace("http://", "").replace("/", "_")[:200]
-        html_path = os.path.join(OUTPUT_HTML_DIR, filename + ".html")
-        save_file(html_path, r.text)
 
-        # ---------- Save MARKDOWN (🔥 MAIN) ----------
-        markdown = md(str(soup))
+        raw_path = os.path.join(OUTPUT_RAW_DIR, filename + ".html")
+        save_file(raw_path, r.text)
 
-        if not markdown.strip():
+        # 🔥 LlamaParse
+        html_content = r.text
+
+        temp_file = "temp.html"
+
+        with open(temp_file, "w", encoding="utf-8") as f:
+            f.write(html_content)
+            
+        parsed_docs = parser.load_data(temp_file)
+
+        if not parsed_docs:
             continue
 
-        md_path = os.path.join(OUTPUT_MD_DIR, filename + ".md")
-        save_file(md_path, markdown)
+        parsed_text = "\n\n".join([doc.text for doc in parsed_docs])
+
+        parsed_path = os.path.join(OUTPUT_PARSED_DIR, filename + ".md")
+        save_file(parsed_path, parsed_text)
 
         files.append({
             "url": url,
-            "html": html_path,
-            "markdown": md_path
+            "raw": raw_path,
+            "parsed": parsed_path
         })
 
-        print("✅ Saved:", filename)
+        print("✅ Parsed:", filename)
 
     except Exception as e:
         print("❌ Error:", url, e)
 
 
 # Step 3: Metadata
-with open("data/crawled_files.json", "w", encoding="utf-8") as f:
+with open("data/parsed_files.json", "w", encoding="utf-8") as f:
     json.dump(files, f, indent=2)
 
 print("\n📁 Total files saved:", len(files))

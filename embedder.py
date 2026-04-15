@@ -21,8 +21,14 @@ COLLECTION_NAME = "mopar_collection"
 
 INPUT_FILE = "data/chunked.json"
 
-BATCH_SIZE = 64   # 🔥 safer
-RETRY = 3         # 🔥 production safety
+BATCH_SIZE = 64
+RETRY = 3
+
+
+# ------------------ TEXT CLEANING ------------------
+def clean_text(text):
+    # remove extra spaces/newlines
+    return " ".join(text.split())
 
 
 # ------------------ LOAD ------------------
@@ -72,21 +78,23 @@ def add_documents_to_qdrant(docs):
 
         print(f"\n📦 Batch {i} → {i + len(batch)}")
 
-        texts = [doc["text"] for doc in batch if doc["text"].strip()]
+        # ✅ FIX: avoid mismatch between texts and embeddings
+        valid_docs = [doc for doc in batch if doc["text"].strip()]
 
-        # 🔥 FAST: batch embedding
+        texts = [clean_text(doc["text"]) for doc in valid_docs]
+
+        if not texts:
+            continue
+
+        # 🔥 batch embedding
         embeddings = model.encode(texts, batch_size=16).tolist()
 
         points = []
 
-        for doc, emb in zip(batch, embeddings):
-            text = doc["text"]
-
+        for doc, emb in zip(valid_docs, embeddings):
             payload = {
-                "content": text,
-                "metadata": {   # ✅ FIXED
-                    "source": doc.get("metadata", {}).get("source", "")
-                }
+                "content": doc["text"],
+                "metadata": doc.get("metadata", {})  # ✅ keep full metadata
             }
 
             points.append(
@@ -100,7 +108,7 @@ def add_documents_to_qdrant(docs):
         # 🔥 SAFE UPSERT
         safe_upsert(points)
 
-        print("✅ Uploaded")
+        print("✅ Uploaded batch")
 
     print("\n🎉 ALL DONE")
 
@@ -113,5 +121,5 @@ if __name__ == "__main__":
     print("\nStep 2: Load chunks")
     docs = load_chunks()
 
-    print("\nStep 3: Upload")
+    print("\nStep 3: Upload to Qdrant")
     add_documents_to_qdrant(docs)

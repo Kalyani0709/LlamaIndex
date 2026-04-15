@@ -1,0 +1,479 @@
+
+# WELCOME TO MOPAR!
+
+YOUR OWNER PROFILE IS NEARLY COMPLETE − PLEASE CHECK YOUR EMAIL TO VERIFY YOUR ACCOUNT
+
+Didn't receive AN email?
+
+Resend Email
+
+# NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
+
+Shop Now
+
+Learn More
+
+EN / US
+
+, Guest
+
+# Visit
+
+- eStore
+- Find Tires
+- Schedule Service
+- Find a Dealer
+
+# My Vehicle
+
+- My Dashboard
+- Owner's Manual
+- EV Ownership
+- Warranty Info
+- Connected Services
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
+- VIN Lookup
+
+Cookie Settings
+
+# Dashboard Lights
+
+our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+# Vehicle Health Report
+
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
+
+
+
+
+# VIN Lookup
+
+# Dashboard Lights
+
+# Vehicle Health Report
+
+# Service
+
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
+
+# Mopar® Services
+
+- Express Lane
+- Ram Care
+- Pickup &#x26; Drop-Off
+- Prepaid Oil Changes
+- Cleaner Ingredient Info
+
+# Savings
+
+- Coupons &#x26; Offers
+- Service Rebates
+- DrivePlusSM Mastercard®
+- Jeep® Rewards Mastercard®
+
+# Buy 3 Tires Get the 4th for $1
+
+# Vehicle Financing
+
+# Parts &#x26; Accessories
+
+- Shop the eStore
+- Mopar® Customizer
+- Find Us on Amazon
+- Accessory Brochures
+- EV &#x26; Hybrid Vehicle Chargers
+
+# Genuine Mopar® Parts
+
+- Direct Connection
+- Authentic Accessories
+- Affiliated Accessories
+- Jeep® Performance Parts
+- MopawTM
+- Mopar® Performance
+- bproauto® parts
+
+our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+
+
+
+Assistance
+
+# Roadside Assistance
+
+# Collision Assistance
+
+# Branded Owner's App
+
+# Smartphone Pairing
+
+# Contact Us
+
+# For First Responders
+
+# Lifestyle &#x26; Merchandise
+
+# Merchandise
+
+# Mopar® Blog
+
+# About Mopar®
+
+# Social Media
+
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
+
+# Visit eStore
+
+# Find Tires
+
+# Schedule Appointment
+
+# Schedule Service
+
+# Type Here
+
+# Search
+
+# Popular Searches
+
+- Shop Parts &#x26; Accessories
+- Learn About Uconnect®
+- View Owner's Manual
+- Pair Your Smartphone
+- Purchase EV Charger
+- Shop Merchandise
+- Find Tires
+- Dashboard Lights
+
+# Helpful Links
+
+- EXPLORE FAQs
+- CONTACT US
+- FIND A DEALER
+- SCHEDULE SERVICE
+
+# Mopar Vehicle Protection
+
+Connect with a FlexCare And Mopar® Vehicle Protection Specialist
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+Whether you want to inquire about new coverage or have questions about your current plan, you’ve come to the right place.
+
+Wish to purchase a plan? 1-866-818-9929
+
+
+
+
+# Contact Information
+
+Monday - Friday: 8:00 a.m. - 8:00 p.m. ET
+
+Saturday: 10:00 a.m. - 4:00 p.m. ET
+
+# Request a Follow-Up Call
+
+Have questions about your current plan?
+
+1-800-521-9922 (U.S.)
+
+1-800-465-2001 (Canada)
+
+Monday - Friday: 8:00 a.m. - 8:00 p.m. ET
+
+Saturday: 9:00 a.m. - 5:00 p.m. ET
+
+# Need to access or register for online services for your FlexCare and Mopar® Vehicle Protection Payment Plan?
+
+Click Here
+
+# We'll Call You
+
+Fill out the form below and a FlexCare specialist will contact you.
+
+# Mopar Vehicle Protection
+
+*Indicates required field
+
+First Name*
+
+Last Name*
+
+Phone*
+
+Email Address
+
+Select Year
+
+Year
+
+Select Make
+
+Make
+
+Select Model
+
+Model
+
+Current Plan Number
+
+Offer Code
+
+What's an offer code?
+
+Call Back Time*
+
+Please select a time
+
+We do not intentionally market to children under 16 years of age. By clicking SUBMIT, you verify that you are over 16 years old. We will only call you to discuss FlexCare if you submit this form. FCA US LLC does not make unsolicited offers of FlexCare via telephone.
+
+Submit
+Reset
+
+Show Disclaimers
+
+The information on this website is intended to provide only an outline of the coverages, benefits and exclusions regarding FlexCare and Mopar® Vehicle Protection plans as offered and issued by FCA US LLC or an affiliate. FL Lic. #58869. CA Lic. #0G94472. Service/component repairs made prior to the purchase of a plan are not covered. Complete details and coverage are provided in the plan provision or waiver provided at time of plan purchase. All transactions relating to any plan are governed solely by the plan provision or waiver for the purchased plan.
+
+FlexCare and Mopar Vehicle Protection plans are offered and issued by FCA US LLC unless otherwise noted. FCA Service Contracts LLC is an affiliate of FCA US LLC and, in some instances, may be the obligor and/or administrator of your plan. Extended Vehicle Protection LLC is registered to conduct business in all 50 U.S. states and Puerto Rico and, in some instances, may be the obligor and/or administrator of your plan.
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+FCA US Vehicle means Chrysler, Dodge, Jeep®, Ram, FIAT® or Alfa Romeo brand vehicles only.
+
+
+
+
+
+
+
+# What's an Offer Code?
+
+Did you receive a personalized direct marketing offer from us? It may have included an offer code. If it did, you can enter it here.
+
+# SHOP FOR YOUR NEXT VEHICLE
+
+# NEED HELP
+
+- Roadside Assistance
+- For First Responders
+- Chat with Us
+- FAQs
+- Site Map
+
+# RESOURCES
+
+- Find a Dealer
+- Mopar® Dealers by State
+- Recalls
+- Owner's Apps
+- Owners Manual
+- Maintenance Schedule
+- Warranty Information
+- Lemon Law, Warranty &#x26; Repair Help
+- Parts &#x26; Accessory Brochures
+- Owners Info Sitemap
+- FlexCare Vehicle Protection
+
+# For Dealers
+
+- Mopar® Repair Connection
+- Mopar® Dealers
+- Mopar® CAP
+- DealerCONNECT
+
+# Company
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+- Careers
+- Legal, Safety &#x26; Trademarks
+- Copyright
+
+
+
+
+
+
+# Terms of Use
+
+# Accessibility
+
+# Contact
+
+# Privacy Center
+
+# Privacy Policy
+
+# Data Privacy Framework Policy
+
+# Manage Your Privacy Choices
+
+# Cookie Settings
+
+# SERVICE SCHEDULING MADE EASY
+
+Conveniently book an appointment with your preferred dealer
+
+# SIGN IN
+
+CONTINUE AS GUEST
+
+Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
+
+Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
+
+# SIGN IN
+
+Skip Sign in
+
+# Select a Vehicle
+
+Add a vehicle by selecting Brand, Year, and Model or sign into your account to add by VIN.
+
+# By Brand, Year, and Model
+
+Select Brand
+
+Select Year
+
+Select Model
+
+Make
+
+alfa
+
+ADD VEHICLE
+
+# OR
+
+# By VIN
+
+Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+# SIGN IN
+
+# REGISTER
+
+
+
+
+Please wait while we add your vehicle
+
+# Vehicle Added Successfully!
+
+Your vehicle has been added in your Garage.
+
+Help us try to verify your ownership by providing the details below
+
+NOTE: Provide your first and last name as they appear on the vehicle registration.
+
+*Indicates required field
+
+# We’re sorry
+
+Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
+
+Need additional assistance? Contact Us.
+
+# CLOSE
+
+# Great news!
+
+Our latest records now identify you as the current owner of this vehicle. This will now be reflected on your online dashboard.
+
+Need additional assistance? Contact Us.
+
+# GOT IT!
+
+# Notifications
+
+New  All    Dealer    Services  Recalls  Offers
+
+You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
+
+Don’t show this again
+
+REMOVE
+CANCEL
+To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
+
+# Our limited-time tire offer is here!
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+Buy 3 Tires Get the 4th for $1
+
+
+
+
+
+
+# Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.
+
+Expires April 30th—so browse our tire offerings and contact your dealership today!
+
+# Find Tires Offer Details
+
+# View all fca brands
+
+- CHRYSLER
+- Dodge
+- jeep®
+- Ram
+- fiat®
+- Alfa Romeo
+- Stellantis Pro One
+
+©2026 FCA US LLC. All Rights Reserved.
+
+Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US LLC.
+
+ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., used with permission.
+
+FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US is subject to FCA US LLC’s Privacy Policy and Terms of Use.
+
+Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
+
+Sign In
+Skip Sign In
+Your preferred dealer has been successfully updated.
+
+DISMISS
+Your preferred dealer has been successfully updated
+
+DISMISS
+Thanks for visiting
+
+You are now leaving the Mopar® U.S. site and will be logged out of your account.
+
+Continue
+Cancel
+
+# modal title
+
+One moment please
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+

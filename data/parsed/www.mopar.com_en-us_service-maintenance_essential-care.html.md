@@ -1,0 +1,422 @@
+
+# WELCOME TO MOPAR!
+
+YOUR OWNER PROFILE IS NEARLY COMPLETE − PLEASE CHECK YOUR EMAIL TO VERIFY YOUR ACCOUNT
+
+Didn't receive AN email?
+
+Resend Email
+
+# NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
+
+Shop Now
+Learn More
+
+EN / US
+
+Guest
+
+- Visit eStore
+- Find Tires
+- Schedule Service
+- Find a Dealer
+
+# My Vehicle
+
+- My Dashboard
+- Owner's Manual
+- EV Ownership
+- Warranty Info
+- Connected Services
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
+- VIN Lookup
+
+Cookie Settings
+
+# Dashboard Lights
+
+our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+# Vehicle Health Report
+
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
+
+
+
+# VIN Lookup
+
+# Dashboard Lights
+
+# Vehicle Health Report
+
+# Service
+
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
+
+# Mopar® Services
+
+- Express Lane
+- Ram Care
+- Pickup &#x26; Drop-Off
+- Prepaid Oil Changes
+- Cleaner Ingredient Info
+
+# Savings
+
+- Coupons &#x26; Offers
+- Service Rebates
+- DrivePlusSM Mastercard®
+- Jeep® Rewards Mastercard®
+
+# Buy 3 Tires Get the 4th for $1
+
+# Vehicle Financing
+
+# Parts &#x26; Accessories
+
+- Shop the eStore
+- Mopar® Customizer
+- Find Us on Amazon
+- Accessory Brochures
+- EV &#x26; Hybrid Vehicle Chargers
+
+# Genuine Mopar® Parts
+
+- Direct Connection
+- Authentic Accessories
+- Affiliated Accessories
+- Jeep® Performance Parts
+- MopawTM
+- Mopar® Performance
+- bproauto® parts
+
+our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+
+
+
+# Assistance
+
+- Roadside Assistance
+- Collision Assistance
+- Branded Owner's App
+- Smartphone Pairing
+
+# Contact Us
+
+# For First Responders
+
+# Lifestyle &#x26; Merchandise
+
+- Merchandise
+- Mopar® Blog
+- About Mopar®
+
+# Social Media
+
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
+
+# Visit eStore
+
+- Find Tires
+- Schedule Appointment
+- Schedule Service
+
+# Search
+
+# Popular Searches
+
+- Shop Parts &#x26; Accessories
+- Learn About Uconnect®
+- View Owner's Manual
+- Pair Your Smartphone
+- Purchase EV Charger
+- Shop Merchandise
+- Find Tires
+- Dashboard Lights
+
+# Helpful Links
+
+- EXPLORE FAQs
+- CONTACT US
+- FIND A DEALER
+- SCHEDULE SERVICE
+
+# MyFlexCare SERVICE ESSENTIALS PREP
+
+# AID OIL PLANS
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+Save Money with Prepaid Lube Oil Filter Plans
+
+
+
+
+
+
+# Save time and money when you buy a MyFlexCare SERVICE Essentials prepaid lube, oil and filter plan online!
+
+Whether it's a scheduled appointment with your preferred dealer or just a stop-in for Express Lane service, you’ll be ready for service anytime—performed by those who know your vehicle best.
+
+Buy Now
+
+# MyFlexCare SERVICE ESSENTIALS PREPAID OIL PLAN DETAILS
+
+Services are available at anytime during the plan term. Your engine’s requirements will determine the type of plan offered. Prepaid oil plans can also be purchased at your preferred dealership who may offer a different variety of terms and services.
+
+# Choosing a Prepaid Oil Plan
+
+The best prepaid oil plan for you will depend on your vehicle model and engine as well as your driving style. Generally, the more services you purchase in advance, the more you’ll save. Visit your dealer to learn more or use the Plan Finder below.
+
+# Here's How to Find Your Vin
+
+# What is a VIN?
+
+A VIN is a Vehicle Identification Number. It is a 17-character alphanumeric identifier or a manufacturer’s serial number. Each character in the VIN number has a significant meaning. Together, they create a number that provides information about the vehicle and its unique history.
+
+# Where is the VIN located?
+
+The VIN can be found on the VIN plate located on the driver's side of the dashboard just below the windshield (1). The VIN can also be found on the driver-side doorframe label (2), as well as on documents related to the vehicle's registration, title and insurance.
+
+# Card Verification Code
+
+The Card Verification Code is the three-digit number on the back of your credit card toward the right of the signature panel. For American Express®, it is a separate four-digit number on the front of the card to the right or left.
+
+# FREQUENTLY ASKED QUESTIONS
+
+# Where can I use my prepaid oil plan?
+
+You can obtain service at participating Chrysler, Dodge, Jeep®, Ram and Fiat® dealers. To schedule a service appointment, call your dealer at your convenience or visit a dealer with an Express Lane for drive-up service.
+
+# Does my prepaid oil plan expire?
+
+Yes. Your 1 year/2 service plan will expire 1 year from the date of purchase or when both services have been used, whichever comes first.
+
+
+
+
+
+# Can I transfer my prepaid oil plan if I sell my vehicle before using all of the services?
+
+No. Prepaid oil plans are not transferrable to any other vehicle or vehicle owner for any reason.
+
+# What services are included with prepaid oil plans?
+
+Each prepaid service includes an oil change using the type and quantity of oil recommended for your vehicle, lube, new oil filter.
+
+# What documentation will I receive to confirm my prepaid oil plan purchase?
+
+Once you've completed the online purchase of your prepaid oil plan, you will be provided with a contract number. You will receive a confirmation email shortly thereafter. You can access your plan anytime in the Care section of this website. If it's not available on the website, call us at 1-800-521-9922 and we'll send you a copy.
+
+Each service includes the type and quantity of oil that is specifically recommended for your vehicle by FCA US LLC, as identified by your vehicle identification number (VIN). Dealers reserve the right to apply additional disposal fees.
+
+# VIEW FAQ
+
+# SHOP FOR YOUR NEXT VEHICLE
+
+# NEED HELP
+
+- Roadside Assistance
+- For First Responders
+- Chat with Us
+- FAQs
+- Site Map
+
+# RESOURCES
+
+- Find a Dealer
+- Mopar® Dealers by State
+- Recalls
+- Owner's Apps
+- Owners Manual
+- Maintenance Schedule
+- Warranty Information
+- Lemon Law, Warranty &#x26; Repair Help
+- Parts &#x26; Accessory Brochures
+- Owners Info Sitemap
+- Y FlexCare Vehicle Protection
+
+our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+
+
+
+# Mopar® Repair Connection
+
+# Mopar® Dealers
+
+# Mopar® CAP
+
+# DealerCONNECT
+
+# Company
+
+- Careers
+- Legal, Safety &#x26; Trademarks
+- Copyright
+- Terms of Use
+- Accessibility
+- Contact
+
+# Privacy Center
+
+- Privacy Policy
+- Data Privacy Framework Policy
+- Manage Your Privacy Choices
+- Cookie Settings
+
+# SERVICE SCHEDULING MADE EASY
+
+Conveniently book an appointment with your preferred dealer
+
+SIGN IN
+CONTINUE AS GUEST
+
+Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
+
+Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
+
+SIGN IN
+Skip Sign in
+
+# Select a Vehicle
+
+Add a vehicle by selecting Brand, Year, and Model or sign into your account to add by VIN.
+
+# By Brand, Year, and Model
+
+Select Brand
+
+Select Brand
+
+Select Year
+
+Select Year
+
+Model
+
+Select Model
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+
+
+
+# Select Model
+
+# Make
+
+alfa
+
+# ADD VEHICLE
+
+# OR
+
+By VIN
+
+Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
+
+SIGN IN
+REGISTER
+Please wait while we add your vehicle
+
+# Vehicle Added Successfully!
+
+Your vehicle has been added in your Garage.
+
+Help us try to verify your ownership by providing the details below
+
+NOTE: Provide your first and last name as they appear on the vehicle registration.
+
+*Indicates required field
+
+# We’re sorry
+
+Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
+
+Need additional assistance? Contact Us.
+
+CLOSE
+# Great news!
+
+Our latest records now identify you as the current owner of this vehicle. This will now be reflected on your online dashboard.
+
+Need additional assistance? Contact Us.
+
+GOT IT!
+# Notifications
+
+New  All    Dealer   Services  Recalls          Offers
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
+
+
+
+
+
+
+# Our limited-time tire offer is here!
+
+Buy 3 Tires Get the 4th for $1
+
+Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.
+
+Expires April 30th—so browse our tire offerings and contact your dealership today!
+
+# Find Tires Offer Details
+
+# View all fca brands
+
+- CHRYSLER
+- Dodge
+- jeep®
+- Ram
+- fiat®
+- Alfa Romeo
+- Stellantis Pro One
+
+©2026 FCA US LLC. All Rights Reserved.
+
+Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US LLC.
+
+ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., used with permission.
+
+FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to this link is subject to FCA US LLC’s Privacy Policy and Terms of Use.
+
+Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
+
+Your preferred dealer has been successfully updated.
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+Thanks for visiting.
+
+
+
+
+
+
+# You are now leaving the Mopar® U.S. site and will be logged out of your account.
+
+Continue  Cancel
+
+# modal title
+
+One moment please
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+

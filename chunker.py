@@ -2,17 +2,20 @@ import os
 import json
 import re
 
+INPUT_DIR = "data/parsed"
 OUTPUT_FILE = "data/chunked.json"
 
 CHUNK_SIZE = 800
 OVERLAP = 120
 
 
+# ================= SPLIT BY HEADINGS =================
 def split_sections(text):
-    sections = re.split(r"\n##+ ", text)
+    sections = re.split(r"\n#{1,6} ", text)  # supports H1-H6
     return [s.strip() for s in sections if s.strip()]
 
 
+# ================= SMART CHUNKING =================
 def chunk_text(text):
     words = text.split()
     chunks = []
@@ -30,14 +33,15 @@ def chunk_text(text):
     return chunks
 
 
+# ================= MAIN =================
 def run():
     final_chunks = []
 
-    for file in os.listdir("data/markdown"):
+    for file in os.listdir(INPUT_DIR):
         if not file.endswith(".md"):
             continue
 
-        path = os.path.join("data/markdown", file)
+        path = os.path.join(INPUT_DIR, file)
 
         with open(path, "r", encoding="utf-8") as f:
             content = f.read()
@@ -45,12 +49,19 @@ def run():
         sections = split_sections(content)
 
         for sec in sections:
-            title = sec.split("\n")[0]
+            lines = sec.split("\n")
+            title = lines[0] if lines else "unknown"
 
-            if len(sec.split()) < CHUNK_SIZE:
+            word_count = len(sec.split())
+
+            # 🔥 small section → keep as is
+            if word_count < CHUNK_SIZE:
                 final_chunks.append({
                     "text": sec,
-                    "metadata": {"source": file, "heading": title}
+                    "metadata": {
+                        "source": file,
+                        "heading": title
+                    }
                 })
             else:
                 chunks = chunk_text(sec)
@@ -58,7 +69,10 @@ def run():
                 for c in chunks:
                     final_chunks.append({
                         "text": c,
-                        "metadata": {"source": file, "heading": title}
+                        "metadata": {
+                            "source": file,
+                            "heading": title
+                        }
                     })
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
