@@ -30,7 +30,7 @@ st.markdown("""
 
 # 🔴 Mopar Header
 st.markdown("""
-<div style="text-align: center; margin-bottom: 10px;">
+<div style="text-align: center; margin-bottom: 10px; margin-top: 10px">
     <img src="https://www.mopar.com/content/dam/mopar/images/header/logos/mopar_logo.svg" width="140">
 </div>
 

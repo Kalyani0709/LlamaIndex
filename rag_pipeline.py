@@ -9,11 +9,11 @@ model = SentenceTransformer("all-mpnet-base-v2")
 
 
 # 🔹 Retrieve (IMPROVED)
+import re
+
 def retrieve(query, top_k=10):
-    # 🔹 Step 1: Encode query
     vector = model.encode(query).tolist()
 
-    # 🔹 Step 2: Search in Qdrant
     results = qdrant.query_points(
         collection_name=COLLECTION_NAME,
         query=vector,
@@ -23,41 +23,27 @@ def retrieve(query, top_k=10):
     query_lower = query.lower()
     boosted_results = []
 
-    # 🔹 Step 3: Filter + Boost
     for r in results:
-        text = r.payload.get("content", "").strip()
+        text = r.payload.get("content", "")
         metadata = r.payload.get("metadata", {})
-
         heading = metadata.get("heading", "").lower()
-        word_count = metadata.get("word_count", len(text.split()))
 
-        # ❌ Skip useless tiny chunks (like "Find Tires")
-        if word_count < 10:
-            continue
+        score = r.score or 0
 
-        # ❌ Skip weak matches
-        if r.score and r.score < 0.55:
-            continue
+        if query_lower in heading:
+            score += 0.3
 
-        # 🔥 FAQ BOOST (very important)
-        # If query matches heading → push to top
-        if heading and query_lower in heading:
-            r.score = 1.0
+        if re.search(r"\d{3}[-\s]\d{3}[-\s]\d{4}", text):
+            score += 0.4
 
-        boosted_results.append(r)
+        if "|" in text:
+            score += 0.2
 
-    # 🔹 Step 4: Sort by score (highest first)
-    boosted_results = sorted(
-        boosted_results,
-        key=lambda x: x.score if x.score else 0,
-        reverse=True
-    )
+        boosted_results.append((r, score))
 
-    # 🔹 Step 5: Fallback (if everything filtered out)
-    if not boosted_results:
-        return results
+    boosted_results.sort(key=lambda x: x[1], reverse=True)
 
-    return boosted_results
+    return [r for r, _ in boosted_results]
 
 
 # 🔹 Build context (BETTER)
