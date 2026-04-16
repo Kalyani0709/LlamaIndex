@@ -1,17 +1,25 @@
-import requests
+import os
+import re
+from openai import OpenAI
 from qdrant_client import QdrantClient
 from sentence_transformers import SentenceTransformer
+from dotenv import load_dotenv
+load_dotenv()
 
+# ------------------ CONFIG ------------------
 COLLECTION_NAME = "mopar_collection"
 
 qdrant = QdrantClient(url="http://localhost:6333")
 model = SentenceTransformer("all-mpnet-base-v2")
 
+client = OpenAI(
+    api_key=os.getenv("OPENAI_API_KEY"),
+    base_url=os.getenv("OPENAI_BASE_URL"),
+    timeout=30
+)
 
-# 🔹 Retrieve (IMPROVED)
-import re
-
-def retrieve(query, top_k=10):
+# ------------------ RETRIEVE ------------------
+def retrieve(query, top_k=5):
     vector = model.encode(query).tolist()
 
     results = qdrant.query_points(
@@ -20,50 +28,17 @@ def retrieve(query, top_k=10):
         limit=top_k
     ).points
 
-    query_lower = query.lower()
-    boosted_results = []
-
-    for r in results:
-        text = r.payload.get("content", "")
-        metadata = r.payload.get("metadata", {})
-        heading = metadata.get("heading", "").lower()
-
-        score = r.score or 0
-
-        if query_lower in heading:
-            score += 0.3
-
-        if re.search(r"\d{3}[-\s]\d{3}[-\s]\d{4}", text):
-            score += 0.4
-
-        if "|" in text:
-            score += 0.2
-
-        boosted_results.append((r, score))
-
-    boosted_results.sort(key=lambda x: x[1], reverse=True)
-
-    return [r for r, _ in boosted_results]
+    return results
 
 
-# 🔹 Build context (BETTER)
+# ------------------ BUILD CONTEXT ------------------
 def build_context(results):
     context_blocks = []
 
-    for i, r in enumerate(results[:5]):
+    for r in results[:3]:   # balanced
         text = r.payload.get("content", "").strip()
-        metadata = r.payload.get("metadata", {})
-
-        source = metadata.get("source", "")
-        heading = metadata.get("heading", "")
-
-        block = f"""
-[Chunk {i+1}]
-Source: {source}
-Section: {heading}
-{text}
-"""
-        context_blocks.append(block)
+        if text:
+            context_blocks.append(text)
 
     context = "\n\n".join(context_blocks)
 
@@ -73,64 +48,53 @@ Section: {heading}
     return context
 
 
-# 🔹 Generate answer (FIXED PROMPT)
+# ------------------ GENERATE (OPENAI) ------------------
 def generate_answer(query, context):
-    prompt = f"""
-You are a precise extraction assistant.
-
-Follow this logic STRICTLY:
-
-IMPORTANT RULES:
-- If the answer contains numbers (phone numbers, IDs, codes):
-  → You MUST copy them EXACTLY from the context
-  → DO NOT modify even a single digit
-
-STEP 1:
-If any chunk contains a direct answer to the question:
-- Return that answer EXACTLY as written
-- DO NOT change wording
-- DO NOT convert into steps
-- DO NOT summarize
-- DO NOT add formatting
-- Just copy the answer
-
-STEP 2:
-If no direct answer is found:
-- Then combine relevant information from multiple chunks
-- Keep it clear and structured
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",   # 🔥 fast + accurate
+        messages=[
+            {
+                "role": "system",
+                "content": """You are a strict extraction assistant.
 
 Rules:
-- Prefer exact copying over rewriting
-- Do NOT add extra knowledge
-- If not found → say "I don't know"
+- If the answer exists in the context → return it EXACTLY
+- Do NOT rephrase
+- Do NOT summarize
+- Do NOT add extra explanation
+- Do NOT mention sources or chunks
+- Do NOT change numbers
 
+If multiple answers exist:
+- Return the most relevant one
+
+If answer is not found:
+- Return exactly: I don't know
+"""
+            },
+            {
+                "role": "user",
+                "content": f"""
 Context:
 {context}
 
 Question:
 {query}
-
-Answer:
 """
-    
-    response = requests.post(
-        "http://localhost:11434/api/generate",
-        json={
-            "model": "mistral",
-            "prompt": prompt,
-            "stream": False,
-            "temperature": 0.2
-        },
-        timeout=240
+            }
+        ],
+        temperature=0.0   # 🔥 critical for accuracy
     )
 
-    return response.json()["response"].strip()
+    return response.choices[0].message.content.strip()
 
 
-# 🔹 Main
+# ------------------ MAIN ------------------
 def ask(query):
     results = retrieve(query)
+
     context = build_context(results)
+
     answer = generate_answer(query, context)
 
     return answer, results
