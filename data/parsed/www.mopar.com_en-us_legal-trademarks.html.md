@@ -44,14 +44,16 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
 
-# VIN Lookup
+VIN Lookup
 
 # Dashboard Lights
 
@@ -106,8 +108,8 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
+# Assistance
 
-Assistance
 # Roadside Assistance
 
 # Collision Assistance
@@ -130,11 +132,15 @@ Assistance
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
@@ -143,6 +149,8 @@ Assistance
 # Schedule Appointment
 
 # Schedule Service
+
+# Type Here
 
 # Search
 
@@ -171,6 +179,8 @@ Legal
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 The text, images, graphics, sound files, animation files, video files and their arrangement herein are all subject to Copyright and other intellectual property protection. These objects may not be copied for commercial use or distribution. Unless otherwise indicated, all marks displayed on FCA US LLC Internet sites are subject to the trademark rights of FCA US LLC.
+
+
 
 
 
@@ -267,7 +277,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
 # Recalls
 
 # Owner's Apps
@@ -323,8 +332,6 @@ Skip Sign in
 
 
 
-
-
 # Add a vehicle by selecting Brand, Year, and Model or sign into your account to add by VIN.
 
 # By Brand, Year, and Model
@@ -332,12 +339,13 @@ Skip Sign in
 Select Brand
 
 Select Brand
-
-Year
+alfa
 
 Select Year
 
-Model
+Select Year
+
+Select Model
 
 Select Model
 
@@ -358,7 +366,7 @@ Please wait while we add your vehicle
 
 Your vehicle has been added in your Garage.
 
-Help us try to verify your ownership by providing the details below
+# Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -383,10 +391,7 @@ Our latest records now identify you as the current owner of this vehicle. This w
 
 
 
-
-Need additional assistance? Contact Us.
-
-GOT IT!
+# Need additional assistance? Contact Us.
 
 # Notifications
 
@@ -410,13 +415,13 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-# View all FCA brands
+# View all fca brands
 
 - CHRYSLER
 - Dodge
-- Jeep®
+- jeep®
 - Ram
-- Fiat®
+- fiat®
 - Alfa Romeo
 - Stellantis Pro One
 
@@ -434,8 +439,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 Sign In
 Skip Sign In
-
-
 
 
 

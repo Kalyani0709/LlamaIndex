@@ -10,10 +10,12 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
 Guest
 
@@ -49,7 +51,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-# VIN Lookup
+VIN Lookup
 
 # Dashboard Lights
 
@@ -104,12 +106,16 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
+
 # Assistance
 
-- Roadside Assistance
-- Collision Assistance
-- Branded Owner's App
-- Smartphone Pairing
+# Roadside Assistance
+
+# Collision Assistance
+
+# Branded Owner's App
+
+# Smartphone Pairing
 
 # Contact Us
 
@@ -117,25 +123,35 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-- Merchandise
-- Mopar® Blog
-- About Mopar®
+# Merchandise
+
+# Mopar® Blog
+
+# About Mopar®
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
-- Find Tires
-- Schedule Appointment
-- Schedule Service
+# Find Tires
+
+# Schedule Appointment
+
+# Schedule Service
 
 # Search
+
+# Type Here
 
 # Popular Searches
 
@@ -157,22 +173,22 @@ our interactions and personal data may be collected on our websites and used by 
 
 # The Blog
 
-Banner Image
+# Banner Image
 
-Banner Image
+# Banner Image
 
 # Explore Articles By Topics
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-Showing 20 Articles
+# Showing 20 Articles
 
 
 
 
 
 
-Mopar Or No Car
+# Mopar Or No Car
 
 # Follow Us
 
@@ -283,13 +299,13 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 Select Brand
 
 Select Brand
-Alfa
+alfa
+
+Year
 
 Select Year
 
-Select Year
-
-Select Model
+Model
 
 Select Model
 
@@ -325,12 +341,15 @@ Need additional assistance? Contact Us.
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 CLOSE
+
 # Great news!
 
 
 
 
 
+
+# Vehicle Ownership Notification
 
 Our latest records now identify you as the current owner of this vehicle. This will now be reflected on your online dashboard.
 
@@ -350,7 +369,9 @@ REMOVE
 CANCEL
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
-# Our limited-time tire offer is here!
+# Special Offer
+
+Our limited-time tire offer is here!
 
 Buy 3 Tires Get the 4th for $1
 
@@ -360,7 +381,9 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-# View all FCA brands
+# Brands
+
+View all FCA brands:
 
 - CHRYSLER
 - Dodge
@@ -383,8 +406,6 @@ Your interactions and personal data may be collected on our websites and used by
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
 Sign In Skip Sign In
-
-
 
 
 

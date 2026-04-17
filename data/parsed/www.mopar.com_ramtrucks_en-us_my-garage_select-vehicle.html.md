@@ -44,9 +44,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
@@ -79,9 +81,10 @@ VIN Lookup
 - DrivePlusSM Mastercard®
 - Jeep® Rewards Mastercard®
 
-# Buy 3 Tires Get the 4th for $1
+# Promotions
 
-# Vehicle Financing
+- Buy 3 Tires Get the 4th for $1
+- Vehicle Financing
 
 # Parts &#x26; Accessories
 
@@ -106,7 +109,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
+
+
+# Assistance
 
 # Roadside Assistance
 
@@ -130,11 +135,15 @@ Assistance
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
@@ -143,6 +152,8 @@ Assistance
 # Schedule Appointment
 
 # Schedule Service
+
+# Type Here
 
 # Search
 
@@ -166,6 +177,8 @@ Assistance
 
 # Select A Vehicle
 
+# Select A Vehicle
+
 # Sign in or register
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
@@ -175,13 +188,16 @@ If you're a current owner, sign in or register now to access your exclusive cont
 
 
 
-# Discover More
+
+Discover More
 
 Beautiful design, thrilling performance and curated features, all there to inspire your journey. Discover everything you need to know about the vehicle of your choice.
 
 Let's start with the vehicle's make:
 
 Please select a year Year*
+
+Select Year
 
 Select Model Model
 
@@ -214,9 +230,10 @@ Select Vehicle
 # For Dealers
 
 - Mopar® Repair Connection
-- our interactions and personal data may be collected on our websites and used by us and our Mopar® Dealers partners in accordance with our Privacy Policy.
 - Mopar® CAP
 - DealerCONNECT
+
+our interactions and personal data may be collected on our websites and used by us and our Mopar® Dealers partners in accordance with our Privacy Policy.
 
 
 
@@ -353,9 +370,9 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 - CHRYSLER
 - Dodge
-- Jeep®
+- jeep®
 - Ram
-- Fiat®
+- fiat®
 - Alfa Romeo
 - Stellantis Pro One
 
@@ -365,7 +382,7 @@ Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US L
 
 ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., used with permission.
 
-FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US is subject to FCA US LLC’s Privacy Policy and Terms of Use.
+FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to this link is subject to FCA US LLC’s Privacy Policy and Terms of Use.
 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
@@ -375,17 +392,11 @@ Your preferred dealer has been successfully updated.
 
 DISMISS
 
-Your preferred dealer has been successfully updated
-
-DISMISS
-
 Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-Continue Cancel
 
 
 

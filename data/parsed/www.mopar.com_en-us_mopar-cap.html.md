@@ -23,15 +23,7 @@ STUDENTS SCHOOLS DEALERS CAP IN ACTION
 
 Play Video
 
-mopar cap logo
-
-en / us
-
-es / us
-
-en / ca
-
-fr / ca
+Cookie Settings
 
 
 
@@ -61,9 +53,11 @@ If this sounds like you, let’s jump-start your career! The first step to getti
 
 Take a look at the earning potential as a Mopar® CAP grad. Technicians make a good living, and salary only increases with career growth. This graphic shows the average salary of an FCA technician, as well as other potential career opportunities available. Your future is boundless as a Mopar CAP grad!
 
-Want to learn more?
+# Want to learn more?
 
 Contact Us
+
+# Earning potential graphic.
 
 # Mopar® CAP curriculum
 
@@ -72,8 +66,6 @@ The Mopar® CAP curriculum provides a combination of cutting-edge classroom inst
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 In addition to vehicle technology, diagnostics and repairs, you’ll learn other skills and tools needed for a successful career at a Chrysler, Dodge, Jeep®, Ram, FIAT® or Alfa Romeo dealership:
-
-
 
 
 
@@ -97,7 +89,7 @@ Available through participating community colleges, technical colleges or vocati
 
 Are you wondering if Mopar® CAP is a good fit for your teen or young adult? Do you know an auto enthusiast or someone who loves working with their hands? The narrative of what success looks like has changed greatly. Technicians make a good living, and salary only increases with career growth. Because not everyone desires a four-year degree, discovering the many opportunities available to a Mopar® CAP graduate is worthwhile. Students can complete the program with a certificate or an associate degree within 12-24 months. This also means less potential debt upon graduation when compared with a four-year degree.
 
-# Want to discuss further?
+Want to discuss further?
 
 # CONTACT US
 
@@ -118,7 +110,7 @@ Stay-up-to date on our #HotProductsHotCareers by finding us on Facebook and Inst
 - Tech Authority
 - Matco Tools
 
-
+our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 
 

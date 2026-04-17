@@ -19,7 +19,9 @@ Learn More
 
 Guest
 
-- Visit eStore
+# Visit
+
+- eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -173,7 +175,7 @@ Assistance
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-# for Most Makes and Models
+for Most Makes and Models
 
 
 
@@ -186,7 +188,7 @@ They count on bproauto® parts, engineered to fit, work, and last. From Chrysler
 
 # SEARCH BPROAUTO® PARTS
 
-# Parts that are right for today, and ready for tomorrow.
+Parts that are right for today, and ready for tomorrow.
 
 Shop our most popular parts and products to keep your vehicle performing at its best.
 
@@ -380,6 +382,8 @@ Help us try to verify your ownership by providing the details below
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+*Indicates required field
 
 We’re sorry
 

@@ -10,16 +10,16 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
-Guest
+, Guest
 
-# Visit
-
-- eStore
+- Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -44,9 +44,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
@@ -79,10 +81,9 @@ VIN Lookup
 - DrivePlusSM Mastercard®
 - Jeep® Rewards Mastercard®
 
-# Promotions
+# Buy 3 Tires Get the 4th for $1
 
-- Buy 3 Tires Get the 4th for $1
-- Vehicle Financing
+# Vehicle Financing
 
 # Parts &#x26; Accessories
 
@@ -165,13 +166,15 @@ Assistance
 - FIND A DEALER
 - SCHEDULE SERVICE
 
-# Connect with a FlexCare And Mopar® Vehicle Protection Specialist
+# Mopar Vehicle Protection
+
+Connect with a FlexCare And Mopar® Vehicle Protection Specialist
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Whether you want to inquire about new coverage or have questions about your current plan, you’ve come to the right place.
 
-Wish to purchase a plan? Call 1-866-818-9929
+Wish to purchase a plan? Call: 1-866-818-9929
 
 
 
@@ -182,14 +185,13 @@ Monday - Friday: 8:00 a.m. - 8:00 p.m. ET
 
 Saturday: 10:00 a.m. - 4:00 p.m. ET
 
-OR
-
 # Request a Follow-Up Call
 
 Have questions about your current plan?
 
-- 1-800-521-9922 (U.S.)
-- 1-800-465-2001 (Canada)
+1-800-521-9922 (U.S.)
+
+1-800-465-2001 (Canada)
 
 Monday - Friday: 8:00 a.m. - 8:00 p.m. ET
 
@@ -236,6 +238,8 @@ What's an offer code?
 Call Back Time*
 
 Please select a time
+
+We do not intentionally market to children under 16 years of age. By clicking SUBMIT, you verify that you are over 16 years old. We will only call you to discuss FlexCare if you submit this form. FCA US LLC does not make unsolicited offers of FlexCare via telephone.
 
 Submit
 Reset
@@ -308,8 +312,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 # Privacy Center
 
-# Privacy Center
-
 # Privacy Policy
 
 # Data Privacy Framework Policy
@@ -324,7 +326,7 @@ Conveniently book an appointment with your preferred dealer
 
 # SIGN IN
 
-# CONTINUE AS GUEST
+CONTINUE AS GUEST
 
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
@@ -367,6 +369,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
+
 Please wait while we add your vehicle
 
 # Vehicle Added Successfully!
@@ -385,7 +388,7 @@ Your our records do not yet reflect you as the owner of this vehicle. If you rec
 
 Need additional assistance? Contact Us.
 
-# CLOSE
+CLOSE
 
 # Great news!
 
@@ -393,7 +396,7 @@ Our latest records now identify you as the current owner of this vehicle. This w
 
 Need additional assistance? Contact Us.
 
-# GOT IT!
+GOT IT!
 
 # Notifications
 
@@ -405,6 +408,7 @@ Don’t show this again
 
 REMOVE
 CANCEL
+
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!

@@ -12,10 +12,7 @@ Resend Email
 Shop Now
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
 Guest
 
@@ -59,13 +56,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -109,15 +103,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
+
 # Assistance
 
-# Roadside Assistance
-
-# Collision Assistance
-
-# Branded Owner's App
-
-# Smartphone Pairing
+- Roadside Assistance
+- Collision Assistance
+- Branded Owner's App
+- Smartphone Pairing
 
 # Contact Us
 
@@ -125,11 +117,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-# Merchandise
-
-# Mopar® Blog
-
-# About Mopar®
+- Merchandise
+- Mopar® Blog
+- About Mopar®
 
 # Social Media
 
@@ -141,11 +131,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Visit eStore
 
-# Find Tires
-
-# Schedule Appointment
-
-# Schedule Service
+- Find Tires
+- Schedule Appointment
+- Schedule Service
 
 # Search
 
@@ -169,11 +157,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Your Recalls
 
-# Check Another VIN
+Check Another VIN
 
-# Launch Live Chat
+Launch Live Chat
 
-# Print
+Print
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -188,8 +176,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-Current Safety Recalls
 
 # Current Safety Recalls
 
@@ -225,19 +211,19 @@ Learn More
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-Our Commitment to Safety: Recall Awareness
+# Our Commitment to Safety: Recall Awareness
 
 
 
+# Your safety is our No. 1 priority.
 
+Watch the video to learn more about the commitment of FCA US to remedy any recall-related repairs on your vehicle, including what you can expect every step of the way.
 
-
+Watch Video
 
 # Our Commitment to Safety: Recall Awareness
 
 Your safety is our No. 1 priority. Watch the video to learn more about the commitment of FCA US to remedy any recall-related repairs on your vehicle, including what you can expect every step of the way.
-
-Watch Video
 
 # Recall Reimbursement
 
@@ -251,9 +237,13 @@ If you’re in Puerto Rico and need safety recalls
 
 # Need Help?
 
-Contact Mopar® Customer Care today and one of our representatives will help you find what you're looking for or answer any questions you may have: 1-888-528-4364
+Contact Mopar® Customer Care today and one of our representatives will help you find what you're looking for or answer any questions you may have.
 
-Check Another VIN | Launch Live Chat | Print
+1-888-528-4364
+
+# Check Another VIN
+
+Launch Live Chat Print
 
 # Related Content
 
@@ -268,8 +258,6 @@ Learn More
 Are You Sure You Want to Remove This Record?
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-
 
 
 
@@ -311,7 +299,6 @@ Mile Radius
 # SELECTED:
 
 Clear
-
 - BusinessLink®
 - Certified Pre-Owned Vehicles
 - Express Lane® Oil Change
@@ -331,7 +318,6 @@ Clear
 # SELECTED:
 
 Clear
-
 - All
 - Jeep®
 - Chrysler
@@ -354,15 +340,23 @@ Clear
 
 # Search
 
-| Dealer Name                       | Current location not detected; sho |
-| --------------------------------- | ---------------------------------- |
-| Please enter a location using a C | Based on Your Browser or Device    |
-| Select Vehicle Type               |                                    |
-| ZIP Code                          | Please enter a valid 5-digit ZIP C |
-| Please enter a valid ZIP Code.    | City, State                        |
-| Current Location                  | Location unavailable. Please sele  |
-| Location unavailable. Please sele | Search By                          |
-| All Vehicles                      | Electric Vehicle                   |
+Dealer Name
+
+Current location not detected; please enter a location using a ZIP Code.
+
+Based on Your Browser or Device
+
+# Select Vehicle Type
+
+| ZIP Code                             | Please enter a valid 5-digit ZIP Code. |
+| ------------------------------------ | -------------------------------------- |
+| City, State                          | Current Location                       |
+| Location unavailable. Please select. |                                        |
+
+# Search By
+
+- All Vehicles
+- Electric Vehicle
 
 # NEED HELP
 
@@ -389,7 +383,7 @@ Clear
 # For Dealers
 
 - Mopar® Repair Connection
-- our interactions and personal data may be collected on our websites and used by us and our Mopar® Dealers partners in accordance with our Privacy Policy.
+- Our interactions and personal data may be collected on our websites and used by us and our Mopar® Dealers partners in accordance with our Privacy Policy.
 - Mopar® CAP
 - DealerCONNECT
 
@@ -398,7 +392,7 @@ Clear
 
 
 
-Company
+# Company
 
 # Careers
 
@@ -426,16 +420,14 @@ Company
 
 Conveniently book an appointment with your preferred dealer
 
-# SIGN IN
-
+SIGN IN
 CONTINUE AS GUEST
 
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
 
-# SIGN IN
-
+SIGN IN
 Skip Sign in
 
 # Select a Vehicle
@@ -456,8 +448,6 @@ Model
 
 Select Model
 
-MakeMake
-
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 ADD VEHICLE
@@ -466,7 +456,7 @@ OR
 
 
 
-# By VIN
+By VIN
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
@@ -474,7 +464,7 @@ SIGN IN
 REGISTER
 Please wait while we add your vehicle
 
-# Vehicle Added Successfully!
+Vehicle Added Successfully!
 
 Your vehicle has been added in your Garage.
 
@@ -527,9 +517,9 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 - CHRYSLER
 - Dodge
-- Jeep®
+- jeep®
 - Ram
-- Fiat®
+- fiat®
 - Alfa Romeo
 - Stellantis Pro One
 
@@ -539,7 +529,7 @@ Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US L
 
 ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., used with permission.
 
-FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US is subject to FCA US LLC’s Privacy Policy and Terms of Use.
+FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to this link is subject to FCA US LLC’s Privacy Policy and Terms of Use.
 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
@@ -548,18 +538,14 @@ Sign In Skip Sign In
 Your preferred dealer has been successfully updated.
 
 DISMISS
-
-Your preferred dealer has been successfully updated
-
-DISMISS
-
 Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-Continue Cancel
+Continue
+Cancel
 
 
 

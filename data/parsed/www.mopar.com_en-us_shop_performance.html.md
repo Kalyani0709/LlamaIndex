@@ -10,16 +10,13 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
 EN / US
 
-Guest
+, Guest
 
-# Visit
-
-- eStore
+- Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -59,13 +56,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -123,10 +117,6 @@ Assistance
 
 # For First Responders
 
-# Contact Us
-
-# For First Responders
-
 # Lifestyle &#x26; Merchandise
 
 # Merchandise
@@ -150,8 +140,6 @@ Assistance
 # Schedule Appointment
 
 # Schedule Service
-
-# Type Here
 
 # Search
 
@@ -186,8 +174,6 @@ We know you're always looking for more horsepower, more torque and more laps aro
 # View Parts Limited Warranties
 
 # Parts &#x26; Accessories Catalogs
-
-Pause Autoplay
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -229,9 +215,9 @@ Featuring exclusive content inside and out—including a custom Mopar® Blue ser
 
 Learn More
 
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
 # Direct Connection
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Direct Connection gives you the keys to our entire line of factory-backed performance parts and technical information straight from the factory. Unlock your Dodge muscle car’s full performance potential or build your dream race car from the ground up.
 
@@ -255,7 +241,7 @@ Open on a smoky scene with a muscle car that has its engine revving. Behind the 
 
 It has all the parts and accessories you need to customize and maintain your vehicle.
 
-# Shop Now
+Shop Now
 
 # MORE IN STORE
 
@@ -388,9 +374,7 @@ Please wait while we add your vehicle
 
 Your vehicle has been added in your Garage.
 
-# Help us try to verify your ownership by providing the details below
-
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -423,10 +407,10 @@ New  All    Dealer    Services  Recalls  Offers
 
 You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
-Don’t show this again
-
 REMOVE
 CANCEL
+Don’t show this again
+
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -485,7 +469,7 @@ You are now leaving the Mopar® U.S. site and will be logged out of your account
 Continue
 Cancel
 
-# modal title
+# Modal Title
 
 One moment please
 

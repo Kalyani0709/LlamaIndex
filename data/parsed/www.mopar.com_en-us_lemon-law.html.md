@@ -10,14 +10,18 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
-Guest
+es / us
+
+en / ca
+
+fr / ca
+
+, Guest
 
 - Visit eStore
 - Find Tires
@@ -47,6 +51,10 @@ our interactions and personal data may be collected on our websites and used by 
 - Maintenance Schedule
 - Service Records
 - Recalls &#x26; Campaigns
+
+OK
+
+
 
 
 
@@ -130,17 +138,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Social Media
 
-# Instagram
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
-
-# eStore
+# Visit eStore
 
 # Find Tires
 
@@ -180,7 +184,7 @@ Our commitment starts the moment you purchase your Chrysler, Dodge, Jeep®, Ram,
 
 
 
-Locate Nearest Dealer
+# Locate Nearest Dealer
 
 Attention California residents:
 
@@ -193,11 +197,8 @@ If, however a situation arises that your local dealer management cannot satisfy,
 # Included in Your Complimentary, Multi-Point Vehicle Inspection:
 
 - Exterior Checkup
-- Vehicle Inspection
 - Under Hood Checkup
-- Vehicle Inspection
 - Under Vehicle Checkup
-- Vehicle Inspection
 
 # Step 1
 
@@ -214,8 +215,6 @@ If your concern has not been resolved to your satisfaction, you can submit the m
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 To learn more, visit the NCDS website, or call NCDS at 1-866-662-4639.
-
-
 
 
 
@@ -278,15 +277,15 @@ Privacy Center
 
 Conveniently book an appointment with your preferred dealer
 
-SIGN IN
+# SIGN IN
+
 CONTINUE AS GUEST
 
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
 
-SIGN IN
-Skip Sign in
+SIGN IN Skip Sign in
 
 # Select a Vehicle
 
@@ -296,26 +295,19 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
-Select Brand
-Year
-
 Select Year
-Model
 
 Select Model
-Make
 
 Make
+
 ADD VEHICLE
 
-# OR
-
-# By VIN
+# OR By VIN
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
-SIGN IN
-REGISTER
+SIGN IN REGISTER
 
 Please wait while we add your vehicle
 
@@ -335,7 +327,7 @@ NOTE: Provide your first and last name as they appear on the vehicle registratio
 
 *Indicates required field
 
-# We’re sorry
+We’re sorry
 
 Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
@@ -343,7 +335,7 @@ Need additional assistance? Contact Us.
 
 CLOSE
 
-# Great news!
+Great news!
 
 Our latest records now identify you as the current owner of this vehicle. This will now be reflected on your online dashboard.
 
@@ -355,15 +347,17 @@ GOT IT!
 
 New  All    Dealer    Services  Recalls  Offers
 
-You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
+You are permanently removing this notification from your Owner Site Notification Feed.
 
-REMOVE
-CANCEL
+Do you wish to proceed?
+
 Don’t show this again
+
+REMOVE CANCEL
 
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
-# Our limited-time tire offer is here!
+Our limited-time tire offer is here!
 
 Buy 3 Tires Get the 4th for $1
 
@@ -378,6 +372,8 @@ Find Tires Offer Details
 View all fca brands
 
 CHRYSLER
+
+
 
 
 
@@ -404,8 +400,8 @@ FCA US LLC strives to ensure that its website is accessible to individuals with 
 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content
 
-Sign In Skip Sign In
-
+Sign In
+Skip Sign In
 Your preferred dealer has been successfully updated.
 
 DISMISS
@@ -416,10 +412,10 @@ Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue Cancel
+Continue
+Cancel
 modal title
 
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-

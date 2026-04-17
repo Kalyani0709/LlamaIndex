@@ -10,12 +10,11 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
 EN / US
 
-Guest
+, Guest
 
 - Visit eStore
 - Find Tires
@@ -59,13 +58,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -109,7 +105,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-# Assistance
+Assistance
 
 # Roadside Assistance
 
@@ -180,15 +176,11 @@ Your interactions and personal data may be collected on our websites and used by
 
 Get more out of every mile with our limited-time offer. Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.
 
-Get more out of every mile with our limited-time offer. Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.
-
 # 4.26 Is HEMI® Day—Gear Up with FAST-MOVING MERCH TODAY
 
 Fire up your Mopar® pride with HEMI® gear built for fans of legendary V8 power. From tees to hats, these limited-run styles bring horsepower attitude to your everyday lineup. Shop now while supplies last.
 
 # Celebrating Decades of Trail-Built Toughness
-
-Jeep® brand and Jeep Performance Parts (JPP) by Mopar are heading back to Moab, Utah to celebrate the 60th Easter Jeep Safari with our boldest-ever lineup of trail-ready concept vehicles. Follow us below and see what happens when legendary performance meets the unforgettable red-rock landscape.
 
 Jeep® brand and Jeep Performance Parts (JPP) by Mopar are heading back to Moab, Utah to celebrate the 60th Easter Jeep Safari with our boldest-ever lineup of trail-ready concept vehicles. Follow us below and see what happens when legendary performance meets the unforgettable red-rock landscape.
 
@@ -215,6 +207,7 @@ Follow JPP on Instagram
 No matter where your journey takes you, Mopar® has you covered. Schedule service with your dealer, explore your owner’s manual, find special offers—and much more. Check out everything we have to make owning your vehicle the best experience possible.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
 
 
 
@@ -329,9 +322,9 @@ Your preferred and nearest dealers
 
 Apparel, garage gear and more
 
-# Ready for even more deals on the service you trust?
+# Ready for even more deals on the service you trust? Look no further.
 
-Look no further. VIEW ALL OFFERS
+VIEW ALL OFFERS
 
 # When your vehicle needs service, our specialists are ready to help.
 
@@ -437,15 +430,14 @@ Conveniently book an appointment with your preferred dealer.
 
 
 
-
-
 # SIGN IN CONTINUE AS GUEST
 
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
 
-SIGN IN
+# SIGN IN
+
 Skip Sign in
 
 # Select a Vehicle
@@ -456,16 +448,11 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
-Select Brand
-alfa
-
-Select Year
-
 Select Year
 
 Select Model
 
-Select Model
+Make
 
 ADD VEHICLE
 
@@ -475,8 +462,7 @@ ADD VEHICLE
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
-SIGN IN
-REGISTER
+SIGN IN REGISTER
 
 Please wait while we add your vehicle
 
@@ -488,9 +474,9 @@ Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
-*Indicates required field
-
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+*Indicates required field
 
 
 
@@ -527,7 +513,7 @@ To set preferences about the types of site notifications you wish to receive, cl
 
 # Our limited-time tire offer is here!
 
-Buy 3 Tires Get the 4th for $11
+Buy 3 Tires Get the 4th for $1
 
 Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.
 

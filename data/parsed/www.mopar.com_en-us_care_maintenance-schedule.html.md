@@ -44,13 +44,16 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
-# VIN Lookup
+
+VIN Lookup
 
 # Dashboard Lights
 
@@ -58,10 +61,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Service
 
-- Find a Dealer
-- Schedule Appointment
-- Find Tires
-- FlexCare Vehicle Protection
+# Find a Dealer
+
+# Schedule Appointment
+
+# Find Tires
+
+# FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -107,10 +113,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Assistance
 
-- Roadside Assistance
-- Collision Assistance
-- Branded Owner's App
-- Smartphone Pairing
+# Roadside Assistance
+
+# Collision Assistance
+
+# Branded Owner's App
+
+# Smartphone Pairing
 
 # Contact Us
 
@@ -118,23 +127,31 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-- Merchandise
-- Mopar® Blog
-- About Mopar®
+# Merchandise
+
+# Mopar® Blog
+
+# About Mopar®
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
-- Find Tires
-- Schedule Appointment
-- Schedule Service
+# Find Tires
+
+# Schedule Appointment
+
+# Schedule Service
 
 # Search
 
@@ -158,14 +175,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Your Vehicle Resources
 
-Vehicle Information at Your Fingertips
+# Vehicle Information at Your Fingertips
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Get to know the full capabilities of your vehicle and how to keep it running strong with your online vehicle resource center.
 
 Sign in today to view your complete owner's manual—plus video tutorials, your vehicle’s warranty and everything else in.
-
 
 
 
@@ -261,27 +277,18 @@ Privacy Policy
 
 
 
-
-# Data Privacy Framework Policy
-
-# Manage Your Privacy Choices
-
-# Cookie Settings
-
+Data Privacy Framework Policy
 # SERVICE SCHEDULING MADE EASY
 
 Conveniently book an appointment with your preferred dealer
 
-# SIGN IN
-
+SIGN IN
 CONTINUE AS GUEST
-
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
 
-# SIGN IN
-
+SIGN IN
 Skip Sign in
 
 # Select a Vehicle
@@ -292,13 +299,16 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
+Select Brand
+Alfa
+
+Select Year
+
 Select Year
 
 Select Model
 
-Make
-
-alfa
+Select Model
 
 ADD VEHICLE
 
@@ -308,7 +318,8 @@ ADD VEHICLE
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
-SIGN IN REGISTER
+SIGN IN
+REGISTER
 
 Please wait while we add your vehicle
 
@@ -322,7 +333,9 @@ Your vehicle has been added in your Garage.
 
 
 
-# Help us try to verify your ownership by providing the details below
+
+
+Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -350,9 +363,8 @@ New  All    Dealer      Services  Recalls  Offers
 
 You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
-Don’t show this again
-REMOVE
-CANCEL
+Don’t show this again REMOVE CANCEL
+
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -393,29 +405,22 @@ ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., use
 
 FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US is subject to FCA US LLC’s Privacy Policy and Terms of Use.
 
-# Select a vehicle to explore.
+Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
-Sign in (or create an account) to receive access to even more exciting content
-
-Sign In
-Skip Sign In
+Sign In Skip Sign In
 
 Your preferred dealer has been successfully updated.
 
 DISMISS
-
 Your preferred dealer has been successfully updated
 
 DISMISS
-
 Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue
-Cancel
-
-# modal title
+Continue Cancel
+modal title
 
 One moment please
 

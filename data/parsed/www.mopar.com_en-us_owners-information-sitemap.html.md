@@ -12,10 +12,7 @@ Resend Email
 Shop Now
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
 Guest
 
@@ -61,13 +58,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -125,6 +119,10 @@ Assistance
 
 # For First Responders
 
+# Contact Us
+
+# For First Responders
+
 # Lifestyle &#x26; Merchandise
 
 # Merchandise
@@ -148,6 +146,8 @@ Assistance
 # Schedule Appointment
 
 # Schedule Service
+
+# Type Here
 
 # Search
 
@@ -175,6 +175,8 @@ Find the Chrysler, Jeep, Dodge, Ram and FIAT brand vehicle resources you need qu
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
+Find the Chrysler, Jeep, Dodge, Ram and FIAT brand vehicle resources you need quickly and conveniently—including Owner’s Manuals, Warranty Information, and more. Simply select a brand, model, and model year to get started.
+
 
 
 
@@ -184,7 +186,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 # Jeep
 
-# Select Model: Wrangler
+Select Model: Wrangler
 
 # SHOP FOR YOUR NEXT VEHICLE
 
@@ -202,12 +204,11 @@ Your interactions and personal data may be collected on our websites and used by
 - Mopar® Dealers by State
 - Recalls
 - Owner's Apps
+- Our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 - Owners Manual
 - Maintenance Schedule
 - Warranty Information
 - Lemon Law, Warranty &#x26; Repair Help
-
-our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 
 
@@ -265,10 +266,7 @@ To add a vehicle by selecting Brand, Year, and Model or sign into your account b
 
 
 
-
-
-
-By Brand, Year, and Model
+# By Brand, Year, and Model
 
 # Select Brand
 
@@ -288,7 +286,7 @@ alfa
 
 # ADD VEHICLE
 
-OR
+# OR
 
 # By VIN
 
@@ -328,9 +326,7 @@ GOT IT!
 
 
 
-
-
-# Notifications
+Notifications
 
 You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
@@ -338,6 +334,7 @@ Don’t show this again
 
 REMOVE
 CANCEL
+
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -370,11 +367,15 @@ FCA US LLC strives to ensure that its website is accessible to individuals with 
 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
-Y  Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+Sign In
+Skip Sign In
 
-Our preferred dealer has been successfully updated.
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 DISMISS
+
+
+
 
 
 
@@ -392,3 +393,4 @@ Cancel
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+

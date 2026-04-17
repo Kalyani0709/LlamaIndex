@@ -10,6 +10,7 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
 EN / US
@@ -35,15 +36,15 @@ Guest
 
 Cookie Settings
 
-# Dashboard Lights
-
 our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
@@ -145,9 +146,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Schedule Service
 
-# Search
-
 # Type Here
+
+# Search
 
 # Popular Searches
 
@@ -361,8 +362,6 @@ FlexCare Vehicle Protection
 
 
 
-
-
 # For Dealers
 
 # Mopar® Repair Connection
@@ -486,6 +485,7 @@ Don’t show this again
 
 REMOVE
 CANCEL
+
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -532,7 +532,8 @@ DISMISS
 
 
 
-# Thanks for visiting
+
+Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 

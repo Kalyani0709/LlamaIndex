@@ -12,7 +12,10 @@ Resend Email
 Shop Now
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
 Guest
 
@@ -172,15 +175,15 @@ for Most Makes and Models
 
 
 
-# Whether it’s time for maintenance or you’re facing a repair, trust our certified technicians to get the job done right.
+Whether it’s time for maintenance or you’re facing a repair, trust our certified technicians to get the job done right. They count on bproauto® parts, engineered to fit, work, and last. From Chrysler, Dodge, Jeep®, Ram and FIAT® vehicles to most other major brands, bproauto delivers the quality, value, and warranty technicians rely on. Ask your Service Advisor about bproauto parts at your next service appointment.
 
-They count on bproauto® parts, engineered to fit, work, and last. From Chrysler, Dodge, Jeep®, Ram and FIAT® vehicles to most other major brands, bproauto delivers the quality, value, and warranty technicians rely on. Ask your Service Advisor about bproauto parts at your next service appointment.
+Whether it’s time for maintenance or you’re facing a repair, trust our certified technicians to get the job done right. They count on bproauto® parts, engineered to fit, work, and last. From Chrysler, Dodge, Jeep®, Ram and FIAT® vehicles to most other major brands, bproauto delivers the quality, value, and warranty technicians rely on. Ask your Service Advisor about bproauto parts at your next service appointment.
 
 # SCHEDULE SERVICE
 
 # SEARCH BPROAUTO® PARTS
 
-Parts that are right for today, and ready for tomorrow.
+# Parts that are right for today, and ready for tomorrow.
 
 Shop our most popular parts and products to keep your vehicle performing at its best.
 
@@ -228,11 +231,12 @@ bproauto O.E.-backed steering products deliver a smooth ride and excellent handl
 
 bproauto® O.E.-backed suspension products deliver a smooth ride, excellent handling and comfortable performance.
 
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
 # Tire and Wheel
 
 Upgrade any vehicle’s style and safety with O.E.-quality bproauto® tire and wheel components.
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
 
 
 
@@ -355,7 +359,8 @@ Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
 
-SIGN IN Skip Sign in
+SIGN IN
+Skip Sign in
 
 # Select a Vehicle
 
@@ -363,15 +368,9 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 # By Brand, Year, and Model
 
-Select Brand
-
-Select Year
-
-Select Model
-
-Make
-
-ADD VEHICLE
+| Select Brand | Select Year | Select Model |
+| ------------ | ----------- | ------------ |
+| Make         | alfa        | ADD VEHICLE  |
 
 # OR
 
@@ -379,7 +378,8 @@ ADD VEHICLE
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
-SIGN IN REGISTER
+SIGN IN
+REGISTER
 
 Please wait while we add your vehicle
 
@@ -392,8 +392,6 @@ Help us try to verify your ownership by providing the details below
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-*Indicates required field
 
 We’re sorry
 
@@ -438,55 +436,52 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-# View all fca brands
+# View all FCA brands
 
 - CHRYSLER
 - Dodge
-- jeep®
+- Jeep®
 - Ram
-- fiat®
+- Fiat®
 - Alfa Romeo
 - Stellantis Pro One
 
 ©2026 FCA US LLC. All Rights Reserved.
 
-Y Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US LLC.
+Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US LLC.
 
 ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., used with permission.
 
-our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+Our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to
-
-
+FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report an issue.
 
 
 
 
-# Report a Problem
 
-Access to https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US is subject to FCA US LLC’s Privacy Policy and Terms of Use.
 
-# Select a vehicle to explore.
+report a problem. Access to https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US is subject to FCA US LLC’s Privacy Policy and Terms of Use.
 
-Sign in (or create an account) to receive access to even more exciting content.
+Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content
 
 Sign In
 Skip Sign In
 Your preferred dealer has been successfully updated.
 
 DISMISS
-Your preferred dealer has been successfully updated.
+Your preferred dealer has been successfully updated
 
 DISMISS
-# Thanks for visiting
+Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
 Continue
 Cancel
-# Modal Title
+modal title
 
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+

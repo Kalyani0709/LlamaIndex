@@ -10,11 +10,18 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
 EN / US
 
-Guest
+es / us
+
+en / ca
+
+fr / ca
+
+, Guest
 
 - Visit eStore
 - Find Tires
@@ -35,22 +42,24 @@ Guest
 
 Cookie Settings
 
-Dashboard Lights
+# Dashboard Lights
 
 our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-Vehicle Health Report
+# Vehicle Health Report
 
-Maintenance Schedule
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
-Service Records
-
-Recalls &#x26; Campaigns
-
-
+OK
 
 
-VIN Lookup
+
+
+
+
+# VIN Lookup
 
 # Dashboard Lights
 
@@ -58,13 +67,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -110,13 +116,10 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Assistance
 
-# Roadside Assistance
-
-# Collision Assistance
-
-# Branded Owner's App
-
-# Smartphone Pairing
+- Roadside Assistance
+- Collision Assistance
+- Branded Owner's App
+- Smartphone Pairing
 
 # Contact Us
 
@@ -124,35 +127,25 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-# Merchandise
-
-# Mopar® Blog
-
-# About Mopar®
+- Merchandise
+- Mopar® Blog
+- About Mopar®
 
 # Social Media
 
-# Instagram
-
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
 # Visit eStore
 
-# Find Tires
-
-# Schedule Appointment
-
-# Schedule Service
+- Find Tires
+- Schedule Appointment
+- Schedule Service
 
 # Search
-
-# Type Here
 
 # Popular Searches
 
@@ -276,7 +269,6 @@ Privacy Policy
 
 
 
-
 # Data Privacy Framework Policy
 
 # Manage Your Privacy Choices
@@ -305,9 +297,15 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
+alfa
+
 Select Year
 
+Year
+
 Select Model
+
+Model
 
 ADD VEHICLE
 
@@ -332,7 +330,7 @@ Your vehicle has been added in your Garage.
 
 
 
-# Help us try to verify your ownership by providing the details below
+Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -358,12 +356,12 @@ GOT IT!
 
 New  All    Dealer      Services  Recalls  Offers
 
-You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
+You are permanently removing this notification from your Owner Site Notification Feed.
 
-Don’t show this again
+Do you wish to proceed?
 
-REMOVE
-CANCEL
+Don’t show this again REMOVE CANCEL
+
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -375,6 +373,7 @@ Save on trusted tire brands and professional installation from the Mopar® exper
 Expires April 30th—so browse our tire offerings and contact your dealership today!
 
 Find Tires Offer Details
+
 View all fca brands
 
 - CHRYSLER
@@ -403,22 +402,29 @@ ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., use
 
 FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US is subject to FCA US LLC’s Privacy Policy and Terms of Use.
 
-Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
+# Select a vehicle to explore.
 
-Sign In Skip Sign In
+Sign in (or create an account) to receive access to even more exciting content
+
+Sign In
+Skip Sign In
 
 Your preferred dealer has been successfully updated.
 
 DISMISS
+
 Your preferred dealer has been successfully updated
 
 DISMISS
-Thanks for visiting
+
+# Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue Cancel
-modal title
+Continue
+Cancel
+
+# modal title
 
 One moment please
 

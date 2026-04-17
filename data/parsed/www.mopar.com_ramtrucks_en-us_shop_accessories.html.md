@@ -10,14 +10,18 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
-Guest
+es / us
+
+en / ca
+
+fr / ca
+
+, Guest
 
 - Visit eStore
 - Find Tires
@@ -51,7 +55,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-VIN Lookup
+
+
+# VIN Lookup
 
 # Dashboard Lights
 
@@ -59,13 +65,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -109,15 +112,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
 
-# Roadside Assistance
+# Assistance
 
-# Collision Assistance
-
-# Branded Owner's App
-
-# Smartphone Pairing
+- Roadside Assistance
+- Collision Assistance
+- Branded Owner's App
+- Smartphone Pairing
 
 # Contact Us
 
@@ -125,11 +126,9 @@ Assistance
 
 # Lifestyle &#x26; Merchandise
 
-# Merchandise
-
-# Mopar® Blog
-
-# About Mopar®
+- Merchandise
+- Mopar® Blog
+- About Mopar®
 
 # Social Media
 
@@ -141,11 +140,9 @@ Assistance
 
 # Visit eStore
 
-# Find Tires
-
-# Schedule Appointment
-
-# Schedule Service
+- Find Tires
+- Schedule Appointment
+- Schedule Service
 
 # Search
 
@@ -169,21 +166,17 @@ Assistance
 
 # Authentic Accessories
 
-# About Authentic Accessories
+- About Authentic Accessories
+- Interactive Vehicle Explorer
+- Genuine Mopar Accessories
+- Catalogs
+- Blogs
+- Featured
+- FAQs
 
-# Interactive Vehicle Explorer
+our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-# Genuine Mopar Accessories
 
-Our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-# Catalogs
-
-# Blogs
-
-# Featured
-
-# FAQs
 
 
 
@@ -242,7 +235,6 @@ Your interactions and personal data may be collected on our websites and used by
 # Fender Flares
 
 Shop Now
-
 
 
 
@@ -322,13 +314,6 @@ Shop Now
 
 # Bed Extenders
 
-Shop Now
-
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-
-
-
 
 
 
@@ -348,7 +333,7 @@ Kick-start your new adventure by optimizing your Jeep® Brand Vehicle with genui
 
 Select a brand and model below to get started.
 
-# Explore more Features
+Explore more Features
 
 # Browse Our Accessory Brochures
 
@@ -415,19 +400,25 @@ Your interactions and personal data may be collected on our websites and used by
 
 # Mopar® Accessory Brochure - Jeep® Grand Wagoneer
 
+# Explore More
+
 # Jeep Cherokee
 
 # Mopar® Accessory Brochure - Jeep® Cherokee
+
+# Explore More
 
 # Dodge Durango
 
 # Mopar® Accessory Brochure - Jeep® Compass
 
+# Explore More
+
 # WagoneerS
 
 # Mopar® Accessory Brochure - Jeep® Wagoneer S
 
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+# Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # Explore More
 
@@ -435,26 +426,45 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
+
+
 Mopar® Accessory Brochure - Ram 1500
 
 # Explore More
 
-- Ram ProMaster City
-- Mopar® Accessory Brochure - Ram Heavy Duty
-- Ram ProMaster City
-- Mopar® Accessory Brochure - Ram ProMaster
-- Explore More
-- Fiat 500
-- Mopar® Accessory Brochure - Alfa Romeo Giulia
-- Explore More
-- Ram HD
-- Mopar® Accessory Brochure - Alfa Romeo Stelvio
-- Explore More
-- Ram HD
-- Mopar® Accessory Brochure - Alfa Romeo Tonale
-- Explore More
-- Jeep Vehicle Info
-- Jeep Vehicle Info
+# Ram ProMaster City
+
+# Mopar® Accessory Brochure - Ram Heavy Duty
+
+# Explore More
+
+# Ram ProMaster City
+
+# Mopar® Accessory Brochure - Ram ProMaster
+
+# Explore More
+
+# Fiat 500
+
+# Mopar® Accessory Brochure - Alfa Romeo Giulia
+
+# Explore More
+
+# Ram HD
+
+# Mopar® Accessory Brochure - Alfa Romeo Stelvio
+
+# Explore More
+
+# Ram HD
+
+# Mopar® Accessory Brochure - Alfa Romeo Tonale
+
+# Explore More
+
+# Jeep Vehicle Info
+
+# Jeep Vehicle Info
 
 # MAKE YOUR RIDE A REFLECTION OF YOU WITH A
 
@@ -464,7 +474,7 @@ No matter the activity, functionality or style that fuels your passion, Mopar ha
 
 # Watch Video
 
-Pause Autoplay
+# Pause Autoplay
 
 # Introducing Mopaw
 
@@ -548,6 +558,10 @@ For complete details on Mopar® parts warranty coverage by product type, visit t
 # How to find discontinued Mopar® parts?
 
 We suggest contacting the Parts Department of your authorized Stellantis dealership to explore available inventory or seek additional avenues. If you are searching for restoration or vintage parts, please visit this link.
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+# Latest from Mopar Blogs
 
 
 
@@ -684,7 +698,6 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
-Select Brand
 alfa
 
 Select Year
@@ -747,10 +760,10 @@ New  All    Dealer    Services  Recalls  Offers
 
 You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
-Don’t show this again
-
 REMOVE
 CANCEL
+Don’t show this again
+
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!

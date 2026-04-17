@@ -12,10 +12,7 @@ Resend Email
 Shop Now
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
 Guest
 
@@ -44,11 +41,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
@@ -268,20 +263,9 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 # By Brand, Year, and Model
 
-Select Brand
-
-Select Brand
-alfa
-
-Select Year
-
-Select Year
-
-Select Model
-
-Select Model
-
-ADD VEHICLE
+| Select Brand | Select Year | Select Model |
+| ------------ | ----------- | ------------ |
+| Make         | alfa        | ADD VEHICLE  |
 
 # OR
 
@@ -294,11 +278,11 @@ REGISTER
 
 Please wait while we add your vehicle
 
-Vehicle Added Successfully!
+# Vehicle Added Successfully!
 
 Your vehicle has been added in your Garage.
 
-# Help us try to verify your ownership by providing the details below
+Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -313,6 +297,7 @@ We’re sorry
 
 
 
+# Vehicle Ownership Notification
 
 Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
@@ -336,7 +321,7 @@ You are permanently removing this notification from your Owner Site Notification
 
 Don’t show this again
 
-REMOVE      CANCEL
+REMOVE CANCEL
 
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
@@ -350,25 +335,25 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-View all fca brands
+# View all FCA brands
 
 - CHRYSLER
 - Dodge
-- jeep®
+- Jeep®
 - Ram
-- fiat®
+- Fiat®
 - Alfa Romeo
 - Stellantis Pro One
 
 ©2026 FCA US LLC. All Rights Reserved.
 
-Y Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US LLC.
+Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US LLC.
 
 ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., used with permission.
 
-our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+Our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to
+FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report an issue.
 
 
 
@@ -379,22 +364,20 @@ report a problem. Access to https://fcagroup.my.site.com/Mopar/s/knowledge?langu
 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content
 
-Sign In Skip Sign In
-
+Sign In
+Skip Sign In
 Your preferred dealer has been successfully updated.
 
 DISMISS
-
 Your preferred dealer has been successfully updated
 
 DISMISS
-
 Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue Cancel
-
+Continue
+Cancel
 modal title
 
 One moment please

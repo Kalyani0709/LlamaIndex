@@ -15,11 +15,15 @@ Learn More
 
 EN / US
 
+es / us
+
+en / ca
+
+fr / ca
+
 Guest
 
-# Visit
-
-- eStore
+- Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -47,6 +51,10 @@ our interactions and personal data may be collected on our websites and used by 
 - Maintenance Schedule
 - Service Records
 - Recalls &#x26; Campaigns
+
+OK
+
+
 
 
 
@@ -130,17 +138,23 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
-- Find Tires
-- Schedule Appointment
-- Schedule Service
+# Find Tires
+
+# Schedule Appointment
+
+# Schedule Service
 
 # Search
 
@@ -167,6 +181,7 @@ our interactions and personal data may be collected on our websites and used by 
 Are you the owner of a Chrysler, Jeep®, Dodge, Ram or FIAT® brand vehicle and wish to access or manage your vehicle’s maintenance and repair history? If so, you’ve come to the right place. Just sign in below to get started.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
 
 
 
@@ -212,6 +227,9 @@ Choose File
 No file chosen
 
 Upload
+Cancel
+
+Remove
 Cancel
 
 Vehicle Nickname
@@ -291,7 +309,7 @@ NOTE: Provide your first and last name as they appear on the vehicle registratio
 
 
 
-# We’re sorry
+We’re sorry
 
 Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
@@ -331,7 +349,7 @@ GOT IT!
 - Owners Info Sitemap
 - FlexCare Vehicle Protection
 
-# For Dealers
+For Dealers
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -403,7 +421,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-MakeMake
+# MakeMake
 
 # ADD VEHICLE
 
@@ -454,6 +472,7 @@ Don’t show this again
 
 
 
+
 # Our limited-time tire offer is here!
 
 Buy 3 Tires Get the 4th for $1
@@ -495,9 +514,11 @@ Thanks for visiting
 
 
 
-# You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue  Cancel
+
+You are now leaving the Mopar® U.S. site and will be logged out of your account.
+
+Continue Cancel
 
 # modal title
 

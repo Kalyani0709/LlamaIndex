@@ -15,12 +15,20 @@ Learn More
 
 EN / US
 
-Guest
+es / us
+
+en / ca
+
+fr / ca
+
+, Guest
 
 - Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
+
+# Home
 
 # My Vehicle
 
@@ -42,13 +50,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
 
-OK
+# Service Records
 
-
+# Recalls &#x26; Campaigns
 
 
 
@@ -61,10 +67,13 @@ VIN Lookup
 
 # Service
 
-- Find a Dealer
-- Schedule Appointment
-- Find Tires
-- FlexCare Vehicle Protection
+# Find a Dealer
+
+# Schedule Appointment
+
+# Find Tires
+
+# FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -227,6 +236,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
+
 Please refer to the Warranty Booklet in the glovebox, or you may view your Warranty Information online by visiting https://www.mopar.com/en-us/care/current-model-year-coverage.html, clicking ‘Select Vehicle’, and entering the brand, year, and make of your vehicle.
 
 # VIEW ALL FAQ
@@ -261,22 +271,31 @@ Does your inquiry pertain to any of the areas below? We're ready to help.
 
 # Recall, FlexCare &#x26; More
 
-| Recall                           | 1-800-853-1403                               |                | |
-| -------------------------------- | -------------------------------------------- | -------------- |---|
-| Customer Care (Mailing)          | Po Box 21-8004 | Auburn Hills, Mi 48321-8004 |                |
-| Flexcare Vehicle Protection      | 1-800-521-9922                               |                | |
-| Connected Services               | General Inquiries                            | 1-877-855-8400 | |
-| Uconnect® —General Support       | 1-877-855-8400                               |                | |
-| SiriusXM Guardian™ Customer Care | 1-844-796-4827                               |                | |
-| Uconnect Access Care             | 1-855-792-4241                               |                | |
-| FIAT® Customer Center            | 1-888-242-6342                               |                | |
+| Recall                      | 1-800-853-1403                               | |
+| --------------------------- | -------------------------------------------- |---|
+| Customer Care (Mailing)     | Po Box 21-8004 | Auburn Hills, Mi 48321-8004 |
+| Flexcare Vehicle Protection | 1-800-521-9922                               | |
+
+# Connected Services
+
+| General Inquiries                | 1-877-855-8400 |
+| -------------------------------- | -------------- |
+| Uconnect® —General Support       | 1-877-855-8400 |
+| SiriusXM Guardian™ Customer Care | 1-844-796-4827 |
+| Uconnect Access Care             | 1-855-792-4241 |
 
 our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+# FIAT® Customer Center
+
+1-888-242-6342
+
+
 
 
 
 Jeep® and Ram Connect Customer Care
-# 1-800-777-3600
+1-800-777-3600
 
 # Looking for Vehicle Service?
 
@@ -321,11 +340,12 @@ Check for Recalls
 
 - Find a Dealer
 - Mopar Dealers by State
+- our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 - Recalls
 - Owner's Apps
 - Owners Manual
 
-our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
 
 
 
@@ -429,7 +449,7 @@ Please wait while we add your vehicle
 
 Your vehicle has been added in your Garage.
 
-Help us try to verify your ownership by providing the details below
+# Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -475,7 +495,6 @@ Save on trusted tire brands and professional installation from the Mopar® exper
 Expires April 30th—so browse our tire offerings and contact your dealership today!
 
 Find Tires Offer Details
-
 # View all fca brands
 
 - CHRYSLER
@@ -505,11 +524,11 @@ Your preferred dealer has been successfully updated.
 
 
 
-# Dismiss
+# DISMISS
 
 Your preferred dealer has been successfully updated
 
-# Dismiss
+# DISMISS
 
 Thanks for visiting
 
@@ -517,7 +536,7 @@ You are now leaving the Mopar® U.S. site and will be logged out of your account
 
 Continue
 Cancel
-# Modal Title
+# modal title
 
 One moment please
 

@@ -42,9 +42,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
@@ -103,8 +105,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-
-# Assistance
+Assistance
 
 # Roadside Assistance
 
@@ -128,15 +129,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Social Media
 
-# Instagram
-
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
 # Visit eStore
 
@@ -145,8 +142,6 @@ our interactions and personal data may be collected on our websites and used by 
 # Schedule Appointment
 
 # Schedule Service
-
-# Type Here
 
 # Search
 
@@ -173,8 +168,6 @@ our interactions and personal data may be collected on our websites and used by 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # WHAT IS CONNECTED SERVICES?
-
-
 
 
 
@@ -230,6 +223,16 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
+# STEP 3
+
+Speak with an agent who will complete your activation.
+
+# REGISTER WITH THE IN-VEHICLE ASSIST BUTTON
+
+Register Online
+
+Register for the available Uconnect® Access https://www.driveuconnect.com/uconnectaccess.html. Your trial begins the day you take delivery of your vehicle, so register as soon as possible. To activate the trial and use the services, you must register with Uconnect Access and fulfill minimum subscription requirement.
+
 # STEP 1
 
 From inside your vehicle, push the Assist button on your rearview mirror.
@@ -241,14 +244,6 @@ Select the Uconnect® Care icon on your vehicle touchscreen.
 # Step 3
 
 A helpful Uconnect® Care agent will register your vehicle and handle all the details.
-
-Speak with an agent who will complete your activation.
-
-# REGISTER WITH THE IN-VEHICLE ASSIST BUTTON
-
-Register Online
-
-Register for the available Uconnect® Access https://www.driveuconnect.com/uconnectaccess.html. Your trial begins the day you take delivery of your vehicle, so register as soon as possible. To activate the trial and use the services, you must register with Uconnect Access and fulfill minimum subscription requirement.
 
 Use the computer or web-enabled device to complete your registration for the available Uconnect® Access https://www.driveuconnect.com/uconnectaccess.html. Your trial begins the day you take delivery of your vehicle, so register as soon as possible. To activate the trial and use the services, you must register with Uconnect Access and fulfill minimum subscription requirement.
 
@@ -315,7 +310,7 @@ CHECK FOR UPDATES
 
 # CONTACT CONNECTED SERVICES
 
-# General Inquiries
+General Inquiries
 
 1-877-855-8400
 
@@ -392,7 +387,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-For Dealers
+# For Dealers
 
 # Mopar® Repair Connection
 
@@ -516,7 +511,6 @@ Don’t show this again
 
 REMOVE
 CANCEL
-
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -563,8 +557,7 @@ DISMISS
 
 
 
-
-Thanks for visiting
+# Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 

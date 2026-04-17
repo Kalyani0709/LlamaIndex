@@ -10,19 +10,25 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
-Guest
+es / us
+
+en / ca
+
+fr / ca
+
+, Guest
 
 - Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
+
+# Home
 
 # My Vehicle
 
@@ -53,7 +59,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-# VIN Lookup
+VIN Lookup
 
 # Dashboard Lights
 
@@ -61,10 +67,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Service
 
-- Find a Dealer
-- Schedule Appointment
-- Find Tires
-- FlexCare Vehicle Protection
+# Find a Dealer
+
+# Schedule Appointment
+
+# Find Tires
+
+# FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -108,13 +117,19 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
+Assistance
 
-# Assistance
+# Roadside Assistance
 
-- Roadside Assistance
-- Collision Assistance
-- Branded Owner's App
-- Smartphone Pairing
+# Collision Assistance
+
+# Branded Owner's App
+
+# Smartphone Pairing
+
+# Contact Us
+
+# For First Responders
 
 # Contact Us
 
@@ -122,23 +137,43 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-- Merchandise
-- Mopar® Blog
-- About Mopar®
+# Merchandise
+
+# Mopar® Blog
+
+# About Mopar®
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
+
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
-- Find Tires
-- Schedule Appointment
-- Schedule Service
+# Find Tires
+
+# Schedule Appointment
+
+# Schedule Service
+
+# Type Here
 
 # Search
 
@@ -162,6 +197,8 @@ our interactions and personal data may be collected on our websites and used by 
 
 # DrivePlus℠ Mastercard®
 
+# DrivePlus℠ Mastercard®
+
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 APPLY NOW
@@ -169,23 +206,15 @@ APPLY NOW
 
 
 
+# EARN 5X POINTS 1 ON ALL MOPAR® SERVICE, PARTS AND ACCESSORIES - EVERYDAY
 
-
-EARN 5X POINTS ON ALL MOPAR® SERVICE, PARTS AND ACCESSORIES - EVERYDAY
-
-MANAGE ACCOUNT APPLY NOW SIGN INTO YOUR ACCOUNT
+MANAGE ACCOUNT | APPLY NOW | SIGN INTO YOUR ACCOUNT
 
 Must apply here for this offer. Offers vary elsewhere. *
 
 # SUMMARY OF CREDIT TERMS
 
 # DrivePlus℠ Mastercard®
-
-EARN 5X POINTS ON ALL MOPAR® SERVICE, PARTS AND ACCESSORIES - EVERYDAY
-
-APPLY NOW SIGN INTO YOUR ACCOUNT
-
-Must apply here for this offer. Offers vary elsewhere. *
 
 # EARN &#x26; REDEEM
 
@@ -197,16 +226,17 @@ Must apply here for this offer. Offers vary elsewhere. *
 
 # EARN REWARDS EVERYDAY PLUS, NO ANNUAL FEE
 
-| 5X | 5X POINTS ON DEALERSHIP AND MOPAR® ONLINE PURCHASES.                                                |
-| -- | --------------------------------------------------------------------------------------------------- |
-| 2X | 2X POINTS WHEN YOU USE YOUR CARD WHILE FILLING UP YOUR VEHICLE OR WHILE BOOKING YOUR NEXT VACATION. |
-| 1X | 1X POINT PER DOLLAR SPENT ON ALL OTHER PURCHASES.                                                   |
+| 5X | 5X POINTS 1 ON DEALERSHIP AND MOPAR® ONLINE PURCHASES. |
+| -- | ------------------------------------------------------ |
+| 2X | 2X POINTS 1 ON GAS & TRAVEL PURCHASES                  |
+| 1X | 1X POINT 1 PER DOLLAR SPENT ON ALL OTHER PURCHASES.    |
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Don't forget to put your everyday purchases on your card to earn points on every purchase you make.
 
 Driveplus Mastercard
+
 
 
 
@@ -261,7 +291,7 @@ $1,000 Bonus Certificate
 
 Earn a $1,000 bonus certificate toward your next new FCA US LLC vehicle when you spend $7,500 in your reward year.
 
-SPEND $500 ON MOPAR SERVICE, PARTS OR ACCESSORIES IN THE FIRST BILLING CYCLE AND EARN:
+# SPEND $500 ON MOPAR SERVICE, PARTS OR ACCESSORIES IN THE FIRST BILLING CYCLE AND EARN:
 
 | Offer                    | Redemption Value |
 | ------------------------ | ---------------- |
@@ -273,7 +303,7 @@ Plus Service, Parts or Accessories Everyday Special Financing
 
 # Apply Today to Start Earning Unlimited Rewards!
 
-Select Your Preferred Brand to Apply Now:
+# Select Your Preferred Brand to Apply Now:
 
 - Mopar
 - Dodge
@@ -362,10 +392,8 @@ Mopar® Repair Connection
 
 
 Mopar® Dealers
-
-# Mopar® CAP
-
-# DealerCONNECT
+Mopar® CAP
+DealerCONNECT
 
 # Company
 
@@ -514,13 +542,14 @@ Thanks for visiting
 
 
 
-You are now leaving the Mopar® U.S. site and will be logged out of your account.
-# Continue
 
-# Cancel
+# You are now leaving the Mopar® U.S. site and will be logged out of your account.
+
+Continue  Cancel
 
 # modal title
 
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+

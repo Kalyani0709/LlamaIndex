@@ -56,10 +56,13 @@ VIN Lookup
 
 # Service
 
-- Find a Dealer
-- Schedule Appointment
-- Find Tires
-- FlexCare Vehicle Protection
+# Find a Dealer
+
+# Schedule Appointment
+
+# Find Tires
+
+# FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -259,6 +262,7 @@ Privacy Policy
 
 
 
+
 # Data Privacy Framework Policy
 
 # Manage Your Privacy Choices
@@ -269,14 +273,16 @@ Privacy Policy
 
 Conveniently book an appointment with your preferred dealer
 
-SIGN IN
+# SIGN IN
+
 CONTINUE AS GUEST
 
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
 
-SIGN IN
+# SIGN IN
+
 Skip Sign in
 
 # Select a Vehicle
@@ -287,15 +293,13 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
-alfa
-
 Select Year
-
-Year
 
 Select Model
 
-Model
+Make
+
+alfa
 
 ADD VEHICLE
 
@@ -305,8 +309,7 @@ ADD VEHICLE
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
-SIGN IN
-REGISTER
+SIGN IN REGISTER
 
 Please wait while we add your vehicle
 
@@ -320,13 +323,13 @@ Your vehicle has been added in your Garage.
 
 
 
-Help us try to verify your ownership by providing the details below
+# Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
 *Indicates required field
 
-We’re sorry
+# We’re sorry
 
 Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
@@ -334,7 +337,7 @@ Need additional assistance? Contact Us.
 
 CLOSE
 
-Great news!
+# Great news!
 
 Our latest records now identify you as the current owner of this vehicle. This will now be reflected on your online dashboard.
 
@@ -346,17 +349,15 @@ GOT IT!
 
 New  All    Dealer      Services  Recalls  Offers
 
-You are permanently removing this notification from your Owner Site Notification Feed.
-
-Do you wish to proceed?
+You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
 Don’t show this again
 
-REMOVE      CANCEL
-
+REMOVE
+CANCEL
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
-Our limited-time tire offer is here!
+# Our limited-time tire offer is here!
 
 Buy 3 Tires Get the 4th for $1
 
@@ -365,7 +366,6 @@ Save on trusted tire brands and professional installation from the Mopar® exper
 Expires April 30th—so browse our tire offerings and contact your dealership today!
 
 Find Tires Offer Details
-
 View all fca brands
 
 - CHRYSLER
@@ -401,17 +401,20 @@ Sign In Skip Sign In
 Your preferred dealer has been successfully updated.
 
 DISMISS
-Your preferred dealer has been successfully updated
+
+Your preferred dealer has been successfully updated.
 
 DISMISS
-Thanks for visiting
+
+Thanks for visiting.
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
 Continue Cancel
+
 modal title
 
-One moment please
+One moment please.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 

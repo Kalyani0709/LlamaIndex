@@ -15,14 +15,20 @@ Learn More
 
 EN / US
 
-Guest
+es / us
 
-# Visit
+en / ca
 
-- eStore
+fr / ca
+
+, Guest
+
+- Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
+
+# Home
 
 # My Vehicle
 
@@ -44,9 +50,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
@@ -109,13 +117,15 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
+Assistance
 
-# Assistance
+# Roadside Assistance
 
-- Roadside Assistance
-- Collision Assistance
-- Branded Owner's App
-- Smartphone Pairing
+# Collision Assistance
+
+# Branded Owner's App
+
+# Smartphone Pairing
 
 # Contact Us
 
@@ -123,9 +133,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-- Merchandise
-- Mopar® Blog
-- About Mopar®
+# Merchandise
+
+# Mopar® Blog
+
+# About Mopar®
 
 # Social Media
 
@@ -137,9 +149,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Visit eStore
 
-- Find Tires
-- Schedule Appointment
-- Schedule Service
+# Find Tires
+
+# Schedule Appointment
+
+# Schedule Service
 
 # Search
 
@@ -170,9 +184,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-
-# Mopar® Features
+# Mopar® Genuine Parts and Accessories
 
 Mopar® features a full selection of genuine parts and accessories—with the performance, customization, and quality you expect—imagined with 85+ years of know-how and designed specifically for your Jeep®, Chrysler, Ram, Dodge, and FIAT® brand vehicle. Shop now or explore below to learn more.
 
@@ -235,12 +247,13 @@ Learn More
 
 Whether you want to personalize your vehicle or keep it performing at its best, we’ve got you covered.
 
-- Accessories
-- Air Intake &#x26; Fuel Delivery
-- Brakes &#x26; Brake Parts
-- Filters
-- Cooling Systems
-- Exterior
+| Accessories                | Shop Now |
+| -------------------------- | ------------- |
+| Air Intake & Fuel Delivery | Shop Now |
+| Brakes & Brake Parts       | Shop Now |
+| Filters                    | Shop Now |
+| Cooling Systems            | Shop Now |
+| Exterior                   | Shop Now |
 
 # DO-IT-YOURSELF RESOURCES &#x26; MORE
 
@@ -258,7 +271,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 At Mopar®, our product offerings are always evolving to meet the needs of your vehicle—whether it be new, vintage, or anywhere in between. Explore other popular categories below.
 
-- EV/PHEV Chargers
+# EV/PHEV Chargers
 
 
 
@@ -312,6 +325,8 @@ Why use Mopar® parts?
 
 
 
+
+# Mopar® Parts
 
 Mopar® parts are designed and engineered by the same teams that design and engineer Chrysler, Jeep®, Dodge, Ram and FIAT brand vehicles. In addition, all parts are subject to rigorous testing to ensure adherence to our OEM standards.
 
@@ -415,13 +430,15 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
+
+
 # MakeMake
 
 # ADD VEHICLE
 
 # OR
 
-# By VIN
+By VIN
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
@@ -475,7 +492,7 @@ Save on trusted tire brands and professional installation from the Mopar® exper
 
 Expires April 30th—so browse our tire offerings and contact your dealership today!
 
-# Find Tires Offer Details
+Find Tires Offer Details
 
 # View all FCA brands
 
@@ -497,8 +514,6 @@ FCA US LLC strives to ensure that its website is accessible to individuals with 
 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
-Sign In Skip Sign In
-
 Your preferred dealer has been successfully updated.
 
 DISMISS
@@ -510,15 +525,12 @@ Thanks for visiting
 
 
 
+# You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
+Continue  Cancel
 
-You are now leaving the Mopar® U.S. site and will be logged out of your account.
-
-Continue
-Cancel
 # modal title
 
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-

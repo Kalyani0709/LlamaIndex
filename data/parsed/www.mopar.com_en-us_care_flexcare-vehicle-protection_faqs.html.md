@@ -12,10 +12,7 @@ Resend Email
 Shop Now
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
 Guest
 
@@ -44,11 +41,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
@@ -61,13 +56,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -184,6 +176,7 @@ All Sections
 
 
 
+# Mopar® Vehicle Protection and FlexCare
 
 All Chrysler, Dodge, Jeep®, Ram, FIAT® and Alfa Romeo vehicles, and most - but not all - competitive make vehicles are eligible for genuine Mopar® Vehicle Protection or FlexCare. You may purchase a plan for your vehicle by visiting an authorized dealer or calling 1-866-818-9929. If you are interested in Mopar Vehicle Protection or FlexCare for a competitive make, please visit your authorized dealer to inquire about eligibility.
 
@@ -312,14 +305,11 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-# Roadside Assistance and Reimbursement Requests
-
 If your plan includes Roadside Assistance and you require help, please call 1-800-521-2779. In most cases, Roadside Assistance should be able to dispatch the required help on a 'Sign-and-Go' basis. If this is not possible and you will have to incur out-of-pocket expenses, you should notify a specialist at 1-800-521-2779 to confirm eligibility and obtain an authorization number. Then, submit a reimbursement request with the following information:
 
-- The original paid bill from the tow or repair facility describing services rendered. Please keep a copy for your records.
-- The Roadside Assistance authorization number.
-- A valid Mopar® Vehicle Protection or FlexCare contract number.
+- The original paid bill from the tow or repair facility describing services rendered. Please keep a copy for your records
+- The Roadside Assistance authorization number
+- A valid Mopar® Vehicle Protection or FlexCare contract number
 
 Please mail your request for reimbursement to:
 
@@ -337,14 +327,14 @@ Roadside Assistance is provided by Cross Country Motor Club.
 
 If your plan includes Road Hazard Tire Protection, or Road Hazard Tire and Wheel Protection, please arrange for service at time of occurrence by calling 1-800-521-2779 to confirm eligibility and obtain an authorization number. Then, submit a reimbursement request with the following information:
 
-- The original paid bill from the tow or repair facility describing services rendered. Please keep a copy for your records.
-- The Road Hazard authorization number.
-- A valid Mopar® Vehicle Protection or FlexCare contract number.
+- The original paid bill from the tow or repair facility describing services rendered. Please keep a copy for your records
+- The Road Hazard authorization number
+- A valid Mopar® Vehicle Protection or FlexCare contract number
 
 You may submit your request for reimbursement by:
 
 - Sending an email to MVPWarrantyClaim@fcagroup.com OR
-- Sending a Fax to 1-833-990-0064.
+- Sending a Fax to 1-833-990-0064
 
 # If I've already submitted a reimbursement request, how do I inquire about its status?
 
@@ -368,8 +358,6 @@ Your interactions and personal data may be collected on our websites and used by
 Please mail the completed transfer form with the transfer fee to:
 
 Mopar Vehicle Protection/FlexCare
-
-
 
 
 
@@ -428,15 +416,10 @@ Your interactions and personal data may be collected on our websites and used by
 
 # Roadside Assistance
 
-# For First Responders
-
-# Chat with Us
-
-# FAQs
-
-# Site Map
-
-# RESOURCES
+- For First Responders
+- Chat with Us
+- FAQs
+- Site Map
 
 # RESOURCES
 
@@ -454,14 +437,10 @@ Your interactions and personal data may be collected on our websites and used by
 
 # For Dealers
 
-# For Dealers
-
 - Mopar® Repair Connection
 - Mopar® Dealers
 - Mopar® CAP
 - DealerCONNECT
-
-# Company
 
 # Company
 
@@ -474,12 +453,10 @@ Your interactions and personal data may be collected on our websites and used by
 
 # Privacy Center
 
-# Privacy Center
-
 - Privacy Policy
 - Data Privacy Framework Policy
 - Manage Your Privacy Choices
-- Cookie Settings
+- Y Cookie Settings
 
 our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -493,6 +470,7 @@ Conveniently book an appointment with your preferred dealer
 
 SIGN IN
 CONTINUE AS GUEST
+
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
@@ -547,7 +525,7 @@ NOTE: Provide your first and last name as they appear on the vehicle registratio
 
 *Indicates required field
 
-# We’re sorry
+We’re sorry
 
 Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
@@ -555,7 +533,7 @@ Need additional assistance? Contact Us.
 
 CLOSE
 
-# Great news!
+Great news!
 
 Our latest records now identify you as the current owner of this vehicle. This will now be reflected on your online dashboard.
 
@@ -569,13 +547,11 @@ New  All    Dealer    Services  Recalls  Offers
 
 You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
-Don’t show this again
+Don’t show this again REMOVE CANCEL
 
-REMOVE
-CANCEL
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
-# Our limited-time tire offer is here!
+Our limited-time tire offer is here!
 
 Buy 3 Tires Get the 4th for $1
 
@@ -585,7 +561,7 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-# View all fca brands
+View all fca brands
 
 - CHRYSLER
 - Dodge
@@ -596,6 +572,10 @@ Find Tires Offer Details
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
+Stellantis Pro One
+
+image
+
 
 
 
@@ -604,15 +584,11 @@ Your interactions and personal data may be collected on our websites and used by
 ©2026 FCA US LLC. All Rights Reserved.
 Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US LLC.
 ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., used with permission.
-
 FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US is subject to FCA US LLC’s Privacy Policy and Terms of Use.
 
-# Select a vehicle to explore.
+Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content
 
-Sign in (or create an account) to receive access to even more exciting content
-
-Sign In
-Skip Sign In
+Sign In Skip Sign In
 
 Your preferred dealer has been successfully updated.
 
@@ -622,16 +598,14 @@ Your preferred dealer has been successfully updated
 
 DISMISS
 
-# Thanks for visiting
+Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue
-Cancel
+Continue Cancel
 
-# modal title
+modal title
 
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-

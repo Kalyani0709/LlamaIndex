@@ -15,7 +15,7 @@ Learn More
 
 EN / US
 
-, Guest
+Guest
 
 # Visit
 
@@ -44,16 +44,14 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
 
-VIN Lookup
+# VIN Lookup
 
 # Dashboard Lights
 
@@ -61,13 +59,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -212,7 +207,8 @@ Interested in purchasing? Call 1-866-818-9929
 
 # DODGE COMPLETE PERFORMANCE PACKAGE FEATURES
 
-- BUMPER-TO-BUMPER COVERAGE FOR 6 YEARS &#x26; 75,000 MILES Coverage of over 5,000 critical components PLUS Factory Required Maintenance including most wear items like Tires, Brakes, Wheel Repairs &#x26; more.
+| BUMPER-TO-BUMPER COVERAGE FOR 6 YEARS & 75,000 MILES | Coverage of over 5,000 critical components PLUS Factory Required Maintenance including most wear items like Tires, Brakes, Wheel Repairs & more. |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 With Flexcare, you can rely on:
 
@@ -326,7 +322,7 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 Select Brand
 
 Select Brand
-Alfa
+alfa
 
 Select Year
 
@@ -408,9 +404,9 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-# FCA Brands
+# Explore FCA Brands
 
-View all fca brands
+View all fca brands:
 
 - CHRYSLER
 - Dodge

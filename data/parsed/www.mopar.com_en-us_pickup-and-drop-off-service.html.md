@@ -10,6 +10,7 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
 EN / US
@@ -47,7 +48,8 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-# VIN Lookup
+
+VIN Lookup
 
 # Dashboard Lights
 
@@ -102,7 +104,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
+# Assistance
 
 # Roadside Assistance
 
@@ -139,8 +141,6 @@ Assistance
 # Schedule Appointment
 
 # Schedule Service
-
-# Type Here
 
 # Search
 
@@ -286,6 +286,8 @@ Learn More
 8. Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 9. Provide convenient mobile, online and in-vehicle service scheduling and communication and a proactive service approach including remote Diagnostics &#x26; over the air (OTA) updates.
 10. Provide complementary WiFi and phone charging stations and high-quality beverages &#x26; snacks.
+
+
 
 
 
@@ -449,8 +451,6 @@ Save on trusted tire brands and professional installation from the Mopar® exper
 
 
 
-
-
 # Find Tires Offer Details
 
 Expires April 30th—so browse our tire offerings and contact your dealership today!
@@ -486,8 +486,6 @@ You are now leaving the Mopar® U.S. site and will be logged out of your account
 
 Continue
 Cancel
-modal title
-
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.

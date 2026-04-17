@@ -12,7 +12,10 @@ Resend Email
 Shop Now
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
 Guest
 
@@ -41,9 +44,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
@@ -108,13 +113,10 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Assistance
 
-# Roadside Assistance
-
-# Collision Assistance
-
-# Branded Owner's App
-
-# Smartphone Pairing
+- Roadside Assistance
+- Collision Assistance
+- Branded Owner's App
+- Smartphone Pairing
 
 # Contact Us
 
@@ -122,31 +124,23 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-# Merchandise
-
-# Mopar® Blog
-
-# About Mopar®
+- Merchandise
+- Mopar® Blog
+- About Mopar®
 
 # Social Media
 
-# Instagram
-
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
 # Visit eStore
 
-# Find Tires
-
-# Schedule Appointment
-
-# Schedule Service
+- Find Tires
+- Schedule Appointment
+- Schedule Service
 
 # Search
 
@@ -223,7 +217,6 @@ SHOP FOR YOUR NEXT VEHICLE
 
 
 
-
 # NEED HELP
 
 # Roadside Assistance
@@ -267,7 +260,7 @@ SHOP FOR YOUR NEXT VEHICLE
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-# Privacy Policy
+Privacy Policy
 
 
 
@@ -328,13 +321,13 @@ Your vehicle has been added in your Garage.
 
 
 
-Help us try to verify your ownership by providing the details below
+# Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
 *Indicates required field
 
-We’re sorry
+# We’re sorry
 
 Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
@@ -342,7 +335,7 @@ Need additional assistance? Contact Us.
 
 CLOSE
 
-Great news!
+# Great news!
 
 Our latest records now identify you as the current owner of this vehicle. This will now be reflected on your online dashboard.
 
@@ -354,17 +347,15 @@ GOT IT!
 
 New  All    Dealer      Services  Recalls  Offers
 
-You are permanently removing this notification from your Owner Site Notification Feed.
-
-Do you wish to proceed?
+You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
 Don’t show this again
 
-REMOVE      CANCEL
-
+REMOVE
+CANCEL
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
-Our limited-time tire offer is here!
+# Our limited-time tire offer is here!
 
 Buy 3 Tires Get the 4th for $1
 
@@ -373,16 +364,12 @@ Save on trusted tire brands and professional installation from the Mopar® exper
 Expires April 30th—so browse our tire offerings and contact your dealership today!
 
 Find Tires Offer Details
-
 View all fca brands
 
-CHRYSLER
-
-Dodge
-
-jeep
-
-Ram
+- CHRYSLER
+- Dodge
+- Jeep
+- Ram
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 

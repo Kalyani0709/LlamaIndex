@@ -15,11 +15,15 @@ Learn More
 
 EN / US
 
+es / us
+
+en / ca
+
+fr / ca
+
 Guest
 
-# Visit
-
-- eStore
+- Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -44,11 +48,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
@@ -61,10 +63,13 @@ VIN Lookup
 
 # Service
 
-- Find a Dealer
-- Schedule Appointment
-- Find Tires
-- FlexCare Vehicle Protection
+# Find a Dealer
+
+# Schedule Appointment
+
+# Find Tires
+
+# FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -108,7 +113,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
+# Assistance
 
 # Roadside Assistance
 
@@ -174,10 +179,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-# Buy 3 Tires Get the 4th for $1
-
-Get more out of every mile with our limited-time offer. Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.
+Buy 3 Tires Get the 4th for $1
 
 Get more out of every mile with our limited-time offer. Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.
 
@@ -186,8 +188,6 @@ Get more out of every mile with our limited-time offer. Save on trusted tire bra
 Fire up your Mopar® pride with HEMI® gear built for fans of legendary V8 power. From tees to hats, these limited-run styles bring horsepower attitude to your everyday lineup. Shop now while supplies last.
 
 # Celebrating Decades of Trail-Built Toughness
-
-Jeep® brand and Jeep Performance Parts (JPP) by Mopar are heading back to Moab, Utah to celebrate the 60th Easter Jeep Safari with our boldest-ever lineup of trail-ready concept vehicles. Follow us below and see what happens when legendary performance meets the unforgettable red-rock landscape.
 
 Jeep® brand and Jeep Performance Parts (JPP) by Mopar are heading back to Moab, Utah to celebrate the 60th Easter Jeep Safari with our boldest-ever lineup of trail-ready concept vehicles. Follow us below and see what happens when legendary performance meets the unforgettable red-rock landscape.
 
@@ -214,6 +214,7 @@ Follow JPP on Instagram
 No matter where your journey takes you, Mopar® has you covered. Schedule service with your dealer, explore your owner’s manual, find special offers—and much more. Check out everything we have to make owning your vehicle the best experience possible.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
 
 
 
@@ -281,29 +282,51 @@ Manuals, Warranty &#x26; More
 
 A truly personalized ownership experience awaits you.
 
+xcvbn
+
+cvbn
+
+xcvbn
+
+cvbn
+
+cvbn
+
 # CUSTOM DASHBOARD
 
 Get important alerts and recall notifications, access your connected services, check out your warranty coverage--and more. All personalized and tailored to you and your vehicle.
+
+Personalized Accessible 24/7
 
 # YOUR PROFILE &#x26; GARAGE
 
 Create and update your account, manage the vehicles in your garage, and view all of your coverage and subscriptions, anytime, anywhere. Even link your social account for easy access.
 
+Easy to Manage All About You
+
 # DIGITAL GLOVEBOX
 
 All of your important vehicle resources, only a click away. Get to know your vehicle's features, access your owner's manual and warranty, explore helpful how-to-videos, and much more.
+
+Handy &#x26; Convenient Anytime, Anywhere
 
 # VEHICLE SERVICE RECORDS
 
 Forget the paperwork and access your vehicle's maintenance history online and all in one place. View dealer service records automatically and add other new service records with ease.
 
+Saves Time All in One Place
+
 # PERSONALIZED CONTENT &#x26; MORE
 
 Find valuable offers from your dealership. Explore merchandise and product offers featuring your favorite brand. View your branded credit card points and more. It's all about you.
 
-Not signed up yet? Register or sign-in now to take your ownership journey to a new level.
+Special Features Tailored to You
 
-# SIGN IN
+# Not signed up yet?
+
+Register or sign-in now to take your ownership journey to a new level.
+
+SIGN IN
 
 # CUSTOMIZE WITHOUT COMPROMISE
 
@@ -348,9 +371,9 @@ Explore the site or contact us by chat or phone - whichever works best for you.
 
 # Vehicle Health Report
 
-# Check For Recalls
+Check For Recalls
 
-# Maintenance Schedule
+Maintenance Schedule
 
 # There's more of Us to Discover
 
@@ -381,14 +404,14 @@ Your interactions and personal data may be collected on our websites and used by
 
 # ED HELP
 
-# Roadside Assistance
+Roadside Assistance
 
 
 
 
 
 
-For First Responders
+# For First Responders
 
 # RESOURCES
 
@@ -456,11 +479,16 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
+Select Brand
+alfa
+
+Select Year
+
 Select Year
 
 Select Model
 
-Make
+Select Model
 
 ADD VEHICLE
 
@@ -470,11 +498,12 @@ ADD VEHICLE
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
-SIGN IN REGISTER
+SIGN IN
+REGISTER
 
 Please wait while we add your vehicle
 
-# Vehicle Added Successfully!
+Vehicle Added Successfully!
 
 Your vehicle has been added in your Garage.
 
@@ -575,7 +604,7 @@ You are now leaving the Mopar® U.S. site and will be logged out of your account
 Continue
 Cancel
 
-# Modal Title
+# modal title
 
 One moment please
 

@@ -10,16 +10,16 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
 Guest
 
-- Visit eStore
+# Visit
+
+- eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -59,13 +59,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -109,15 +106,12 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
+# Assistance
 
-# Roadside Assistance
-
-# Collision Assistance
-
-# Branded Owner's App
-
-# Smartphone Pairing
+- Roadside Assistance
+- Collision Assistance
+- Branded Owner's App
+- Smartphone Pairing
 
 # Contact Us
 
@@ -125,11 +119,9 @@ Assistance
 
 # Lifestyle &#x26; Merchandise
 
-# Merchandise
-
-# Mopar® Blog
-
-# About Mopar®
+- Merchandise
+- Mopar® Blog
+- About Mopar®
 
 # Social Media
 
@@ -141,11 +133,9 @@ Assistance
 
 # Visit eStore
 
-# Find Tires
-
-# Schedule Appointment
-
-# Schedule Service
+- Find Tires
+- Schedule Appointment
+- Schedule Service
 
 # Search
 
@@ -169,19 +159,17 @@ Assistance
 
 # Account Management
 
-Back to Login
-
-Forgot password?
-
-Don't have an account? Create an account.
-
-Already have an account? Sign in.
-
-Cancel Profile Update? Sign in.
+- Back to Login
+- Forgot password?
+- Don't have an account? Create an account.
+- Already have an account? Sign in.
+- Cancel Profile Update? Sign in.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Welcome to Mopar.com. You will receive an email shortly with instructions on completing your registration.
+
+
 
 
 
@@ -230,11 +218,9 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
 # Recalls
 
-# Owner's Apps
-
+- Owner's Apps
 - Owners Manual
 - Maintenance Schedule
 - Warranty Information
@@ -334,6 +320,8 @@ Your records do not yet reflect you as the owner of this vehicle. If you recentl
 
 Need additional assistance? Contact Us.
 
+CLOSE
+
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # Great news!
@@ -372,13 +360,13 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-# View all FCA brands
+# View all fca brands
 
 - CHRYSLER
 - Dodge
-- Jeep®
+- jeep®
 - Ram
-- Fiat®
+- fiat®
 - Alfa Romeo
 - Stellantis Pro One
 
@@ -401,10 +389,11 @@ Skip Sign In
 
 
 
-Your preferred dealer has been successfully updated.
+
+# Your preferred dealer has been successfully updated.
 
 DISMISS
-Your preferred dealer has been successfully updated
+# Your preferred dealer has been successfully updated
 
 DISMISS
 Thanks for visiting
@@ -418,3 +407,4 @@ Cancel
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+

@@ -19,6 +19,8 @@ Learn More
 
 Guest
 
+# EN-US
+
 - Visit eStore
 - Find Tires
 - Schedule Service
@@ -44,16 +46,14 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
 
-# VIN Lookup
+VIN Lookup
 
 # Dashboard Lights
 
@@ -61,10 +61,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Service
 
-- Find a Dealer
-- Schedule Appointment
-- Find Tires
-- FlexCare Vehicle Protection
+# Find a Dealer
+
+# Schedule Appointment
+
+# Find Tires
+
+# FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -108,9 +111,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-# Assistance
+Assistance
 
 # Roadside Assistance
+
+Here for you 24/7/365
+
+At Mopar, we know that you might need a little help sometimes, and we're here for you - whether you're dealing with a flat tire, a dead battery or other mechanical issues. When you're in need of Roadside Assistance, our customer service teams are here for you 24 hours a day, 7 days a week.
 
 # Collision Assistance
 
@@ -140,11 +147,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Visit eStore
 
-# Find Tires
+Find Tires
 
-# Schedule Appointment
+Schedule Appointment
 
-# Schedule Service
+Schedule Service
 
 # Search
 
@@ -168,15 +175,7 @@ Type Here
 - FIND A DEALER
 - SCHEDULE SERVICE
 
-# Roadside Assistance
-
-Here for you 24/7/365
-
-At Mopar, we know that you might need a little help sometimes, and we're here for you—whether you're dealing with a flat tire, a dead battery or other mechanical issues. When you're in need of Roadside Assistance, our customer service teams are here for you 24 hours a day, 7 days a week.
-
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-
 
 
 
@@ -239,11 +238,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-will reimburse you for the reasonable amounts you actually paid, based on the usual and customary charges for that service in the area where they were provided. Refer to your warranty manual for instructions.
-
-# Find A Dealer
-
 # Coverage Details
 
 FCA US LLC offers full Roadside Assistance, which includes towing to the nearest FCA US LLC dealer and flat tire, lockout and fuel delivery* service for all vehicles. Coverage terms vary. See below for details.
@@ -284,6 +278,7 @@ Chrysler Pacifica Hybrid Electric Vehicles that cannot be driven due to failure 
 
 
 
+# Winching
 
 Winching is provided for covered vehicles that are located within 10 feet from a paved public road. If additional winching is required, then the cost thereof must be borne by the driver of the covered vehicle.
 
@@ -402,7 +397,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
 # Add a vehicle by selecting Brand, Year, and Model or sign into your account to add by VIN.
 
 # By Brand, Year, and Model
@@ -437,7 +431,7 @@ Please wait while we add your vehicle
 
 Your vehicle has been added in your Garage.
 
-Help us try to verify your ownership by providing the details below
+# Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -466,18 +460,6 @@ Need additional assistance? Contact Us.
 
 # Notifications
 
-# New
-
-# All
-
-# Dealer
-
-# Services
-
-# Recalls
-
-# Offers
-
 You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
 Don’t show this again
@@ -495,6 +477,7 @@ Save on trusted tire brands and professional installation from the Mopar® exper
 Expires April 30th—so browse our tire offerings and contact your dealership today!
 
 Find Tires Offer Details
+
 # View all fca brands
 
 - CHRYSLER
@@ -517,6 +500,7 @@ Select a vehicle to explore. Sign in (or create an account) to receive access to
 
 Sign In
 Skip Sign In
+
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Your preferred dealer has been successfully updated.

@@ -15,11 +15,15 @@ Learn More
 
 EN / US
 
-Guest
+es / us
 
-# Visit
+en / ca
 
-- eStore
+fr / ca
+
+, Guest
+
+- Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -61,10 +65,13 @@ VIN Lookup
 
 # Service
 
-- Find a Dealer
-- Schedule Appointment
-- Find Tires
-- FlexCare Vehicle Protection
+# Find a Dealer
+
+# Schedule Appointment
+
+# Find Tires
+
+# FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -104,7 +111,6 @@ VIN Lookup
 - bproauto® parts
 
 our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
 
 
 
@@ -312,7 +318,14 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
+Select Brand
+alfa
+
 Select Year
+
+Select Year
+
+Select Model
 
 Select Model
 
@@ -332,7 +345,6 @@ Please wait while we add your vehicle
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Vehicle Added Successfully!
-
 
 
 
@@ -366,9 +378,7 @@ GOT IT!
 
 New  All    Dealer    Services  Recalls  Offers
 
-You are permanently removing this notification from your Owner Site Notification Feed.
-
-Do you wish to proceed?
+You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
 Don’t show this again
 
@@ -391,8 +401,6 @@ Find Tires Offer Details
 View all fca brands
 
 CHRYSLER
-
-
 
 
 
@@ -433,7 +441,7 @@ You are now leaving the Mopar® U.S. site and will be logged out of your account
 
 Continue
 Cancel
-modal title
+# modal title
 
 One moment please
 

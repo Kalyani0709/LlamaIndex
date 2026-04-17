@@ -10,16 +10,16 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
 Guest
 
-# Visit
-
-- eStore
+- Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -44,16 +44,14 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
 
-# VIN Lookup
+VIN Lookup
 
 # Dashboard Lights
 
@@ -81,10 +79,9 @@ our interactions and personal data may be collected on our websites and used by 
 - DrivePlusSM Mastercard®
 - Jeep® Rewards Mastercard®
 
-# Promotions
+# Buy 3 Tires Get the 4th for $1
 
-- Buy 3 Tires Get the 4th for $1
-- Vehicle Financing
+# Vehicle Financing
 
 # Parts &#x26; Accessories
 
@@ -104,7 +101,7 @@ our interactions and personal data may be collected on our websites and used by 
 - Mopar® Performance
 - bproauto® parts
 
-Our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 
 
@@ -207,6 +204,14 @@ With available EV/PHEV charging stations for both daily commutes and longer trav
 
 # Filter by Service
 
+brands
+
+Mile Radius
+
+Selected below
+
+Clear
+
 - BusinessLink®
 - Certified Pre-Owned Vehicles
 - Express Lane® Oil Change
@@ -304,6 +309,8 @@ Some charging networks require users to create an account or purchase a membersh
 
 # How much does it cost to charge an EV?
 
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
 
 
 
@@ -351,7 +358,8 @@ RAM PROMASTER EV
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-THE NEXT GENERATION OF PERFORMANCE
+# THE NEXT GENERATION OF PERFORMANCE
+
 DODGE HORNET R/T HYBRID
 
 
@@ -396,7 +404,9 @@ DODGE HORNET R/T HYBRID
 - Copyright
 - Terms of Use
 - Accessibility
-- our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+- Contact
+
+our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # Privacy Center
 
@@ -435,15 +445,20 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 Select Brand
 
 Select Brand
-Year
 
 Select Year
-Model
+
+Select Year
 
 Select Model
+
+Select Model
+
 ADD VEHICLE
 
-# OR By VIN
+# OR
+
+# By VIN
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
@@ -461,8 +476,7 @@ Vehicle Added Successfully!
 
 
 
-
-Your vehicle has been added in your Garage.
+# Your vehicle has been added in your Garage.
 
 Help us try to verify your ownership by providing the details below
 
@@ -492,10 +506,8 @@ New  All    Dealer    Services  Recalls  Offers
 
 You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
-Don’t show this again
+Don’t show this again REMOVE CANCEL
 
-REMOVE
-CANCEL
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -539,16 +551,21 @@ ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., use
 
 FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US is subject to FCA US LLC’s Privacy Policy and Terms of Use.
 
-Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
+# Select a vehicle to explore.
+
+Sign in (or create an account) to receive access to even more exciting content
 
 Sign In
 Skip Sign In
+
 Your preferred dealer has been successfully updated.
 
 DISMISS
+
 Your preferred dealer has been successfully updated
 
 DISMISS
+
 Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.

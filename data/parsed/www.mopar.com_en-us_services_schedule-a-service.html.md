@@ -44,9 +44,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
@@ -109,7 +111,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
+# Assistance
 
 # Roadside Assistance
 
@@ -133,11 +135,15 @@ Assistance
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
@@ -148,6 +154,8 @@ Assistance
 # Schedule Service
 
 # Search
+
+# Type Here
 
 # Popular Searches
 
@@ -171,7 +179,9 @@ Assistance
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-# YOU ARE SCHEDULING AN APPOINTMENT WITH:
+YOU ARE SCHEDULING AN APPOINTMENT WITH:
+
+
 
 
 
@@ -215,9 +225,9 @@ Using the Find a Dealer search, look for dealers with the "Online Scheduling Ava
 
 Not all dealers participate in the online service scheduling program. Next time you call to make an appointment, let your dealer know you're interested in scheduling service online in the future.
 
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
 # How do I add my VIN to my Mopar® account?
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 
 
@@ -242,6 +252,8 @@ Tell us which Online Service Scheduling Dealer is right for you.
 
 Selected below
 
+Clear
+
 - BusinessLink®
 - Certified Pre-Owned Vehicles
 - Express Lane® Oil Change
@@ -259,7 +271,9 @@ Selected below
 - Drop-Off Service
 - Body Shop and Free Estimates
 
-Selected below
+# Selected below
+
+Clear
 
 - ALL
 - Jeep®
@@ -268,7 +282,9 @@ Selected below
 - Dodge
 - Ram Trucks
 
-Selected below
+# Selected below
+
+Clear
 
 - 10 Miles
 - 25 Miles
@@ -287,17 +303,23 @@ Search
 
 # Dealer Name
 
+# ZIP Code
+
 Current location not detected; sho Please enter a valid ZIP Code.
 
-Please enter a location using a Current Location Based on Your Browser or Device Location unavailable. Please sea
+Please enter a location using a C Current Location
+
+Based on Your Browser or Device Location unavailable. Please sea
 
 # Select Vehicle Type
 
 All Vehicles
 
-Please enter a valid 5-digit ZIP Code
+Please enter a valid 5-digit ZIP C
 
-City, State Location unavailable. Please sele
+# City, State
+
+Location unavailable. Please sele
 
 # Search By
 
@@ -451,8 +473,8 @@ You are permanently removing this notification from your Owner Site Notification
 
 Don’t show this again
 
-REMOVE CANCEL
-
+REMOVE
+CANCEL
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -472,7 +494,7 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 # Find Tires Offer Details
 
-# View all FCA brands
+View all fca brands
 
 - CHRYSLER
 - Dodge
@@ -504,7 +526,7 @@ You are now leaving the Mopar® U.S. site and will be logged out of your account
 
 Continue Cancel
 
-# modal title
+modal title
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 

@@ -12,10 +12,7 @@ Resend Email
 Shop Now
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
 Guest
 
@@ -44,11 +41,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
@@ -108,15 +103,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
+
 # Assistance
 
-# Roadside Assistance
-
-# Collision Assistance
-
-# Branded Owner's App
-
-# Smartphone Pairing
+- Roadside Assistance
+- Collision Assistance
+- Branded Owner's App
+- Smartphone Pairing
 
 # Contact Us
 
@@ -124,33 +117,23 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-# Merchandise
-
-# Mopar® Blog
-
-# About Mopar®
+- Merchandise
+- Mopar® Blog
+- About Mopar®
 
 # Social Media
 
-# Instagram
-
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
 # Visit eStore
 
-# Find Tires
-
-# Schedule Appointment
-
-# Schedule Service
-
-# Type Here
+- Find Tires
+- Schedule Appointment
+- Schedule Service
 
 # Search
 
@@ -176,14 +159,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-YOU ARE SCHEDULING AN APPOINTMENT WITH:
+# YOU ARE SCHEDULING AN APPOINTMENT WITH:
 
 
 
 
 
-
-# SCHEDULE SERVICE NOW
+SCHEDULE SERVICE NOW
 
 # Here's How to Find Your Vin
 
@@ -223,15 +205,18 @@ Using the Find a Dealer search, look for dealers with the "Online Scheduling Ava
 
 Not all dealers participate in the online service scheduling program. Next time you call to make an appointment, let your dealer know you're interested in scheduling service online in the future.
 
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
 # How do I add my VIN to my Mopar® account?
 
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 
 
 
-Navigate to Your Garage and select Add a Vehicle. If you already have your vehicle added without a VIN you will need to remove your vehicle and add it again with your VIN.
+
+
+# Navigate to Your Garage and select Add a Vehicle.
+
+If you already have your vehicle added without a VIN you will need to remove your vehicle and add it again with your VIN.
 
 # Looking for Electric Vehicle (EV) service?
 
@@ -245,9 +230,7 @@ Tell us which Online Service Scheduling Dealer is right for you.
 
 # service filters
 
-brands
-
-Mile Radius
+# brands
 
 Selected below
 
@@ -270,7 +253,7 @@ Clear
 - Drop-Off Service
 - Body Shop and Free Estimates
 
-Selected below
+# Selected below
 
 Clear
 
@@ -280,6 +263,8 @@ Clear
 - FIAT®
 - Dodge
 - Ram Trucks
+
+# Mile Radius
 
 Selected below
 
@@ -298,8 +283,6 @@ Search
 
 
 
-
-
 # Dealer Name
 
 Current location not detected; sho Please enter a valid ZIP Code.
@@ -310,7 +293,7 @@ Please enter a location using a Current Location Based on Your Browser or Device
 
 All Vehicles
 
-Please enter a valid 5-digit ZIP Code
+Please enter a valid 5-digit ZIP C
 
 City, State Location unavailable. Please sele
 
@@ -356,8 +339,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-
 # Careers
 
 # Legal, Safety &#x26; Trademarks
@@ -384,14 +365,16 @@ Your interactions and personal data may be collected on our websites and used by
 
 Conveniently book an appointment with your preferred dealer
 
-SIGN IN
+# SIGN IN
+
 CONTINUE AS GUEST
 
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
 
-SIGN IN
+# SIGN IN
+
 Skip Sign in
 
 # Select a Vehicle
@@ -402,19 +385,17 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
-Select Brand
-
-Select Year
-
 Select Year
 
 Select Model
 
-Select Model
+Make
+
+alfa
 
 ADD VEHICLE
 
-# OR
+OR
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -426,7 +407,9 @@ Please sign in or register if you're a current owner and wish to add a vehicle b
 
 
 
-# Vehicle Management
+# Sign In
+
+# Register
 
 Please wait while we add your vehicle
 
@@ -464,8 +447,7 @@ You are permanently removing this notification from your Owner Site Notification
 
 Don’t show this again
 
-REMOVE
-CANCEL
+REMOVE CANCEL
 
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
@@ -486,7 +468,7 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 # Find Tires Offer Details
 
-# View all FCA brands
+# View all fca brands
 
 - CHRYSLER
 - Dodge
@@ -506,20 +488,21 @@ FCA US LLC strives to ensure that its website is accessible to individuals with 
 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
-Sign In
-Skip Sign In
+Sign In Skip Sign In
+
 Your preferred dealer has been successfully updated.
 
 DISMISS
+
 Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue
-Cancel
+Continue Cancel
 
-# modal title
+modal title
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 One moment please
+

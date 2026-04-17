@@ -10,13 +10,16 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
 EN / US
 
-Guest
+, Guest
 
-- Visit eStore
+# Visit
+
+- eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -127,15 +130,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Social Media
 
-# Instagram
-
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
 # Visit eStore
 
@@ -146,8 +145,6 @@ our interactions and personal data may be collected on our websites and used by 
 # Schedule Service
 
 # Search
-
-# Type Here
 
 # Popular Searches
 
@@ -179,8 +176,6 @@ our interactions and personal data may be collected on our websites and used by 
 Our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # Back to EV Ownership Resources
-
-
 
 
 
@@ -305,7 +300,9 @@ Your interactions and personal data may be collected on our websites and used by
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-# Careers
+Careers
+
+
 
 
 
@@ -352,8 +349,6 @@ Select Model
 
 Make
 
-alfa
-
 ADD VEHICLE
 
 OR
@@ -364,11 +359,9 @@ Please sign in or register if you're a current owner and wish to add a vehicle b
 
 
 
+# SIGN IN
 
-
-# Sign In
-
-# Register
+# REGISTER
 
 Please wait while we add your vehicle
 
@@ -376,7 +369,7 @@ Please wait while we add your vehicle
 
 Your vehicle has been added in your Garage.
 
-# Help us try to verify your ownership by providing the details below
+Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -408,14 +401,11 @@ Don’t show this again
 
 REMOVE
 CANCEL
-
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-
 
 
 
@@ -428,7 +418,7 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 # Find Tires Offer Details
 
-# View all fca brands
+# View all FCA brands
 
 - CHRYSLER
 - Dodge

@@ -1,7 +1,7 @@
 
 # WELCOME TO MOPAR!
 
-# YOUR OWNER PROFILE IS NEARLY COMPLETE − PLEASE CHECK YOUR EMAIL TO VERIFY YOUR ACCOUNT
+YOUR OWNER PROFILE IS NEARLY COMPLETE − PLEASE CHECK YOUR EMAIL TO VERIFY YOUR ACCOUNT
 
 Didn't receive AN email?
 
@@ -10,10 +10,12 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
 Guest
 
@@ -42,16 +44,14 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
 
-VIN Lookup
+# VIN Lookup
 
 # Dashboard Lights
 
@@ -130,15 +130,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Social Media
 
-# Instagram
-
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
 # Visit eStore
 
@@ -180,7 +176,8 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-More About FlexCare
+
+# More About FlexCare
 
 FlexCare is the only vehicle protection provider endorsed by Stellantis and honored at all authorized Chrysler, Dodge, Jeep®, Ram, FIAT®, and Alfa Romeo brand dealers in the United States, Canada and Mexico. We offer factory-backed coverage provided by certified, factory trained technicians. Who better to protect your vehicle than the company who built it?
 
@@ -196,19 +193,25 @@ FlexCare is the only vehicle protection provider endorsed by Stellantis and hono
 
 # Protection Plans
 
-# Prepaid Maintenance
+# Protect Your Vehicle Today!
 
-# Convenience, Lease and GAP Plans
+Visit your dealer or call 1-866-818-9929 to speak with a sales consultant.
 
-# Protection Plans
+# Plans Available
 
-Protect Your Vehicle Today! Visit your dealer or call 1-866-818-9929 to speak with a sales consultant.
+| Plan Type                      | Description           | Action       |
+| ------------------------------ | --------------------- | ------------ |
+| New Vehicle - Gas and Diesel   | Extended Care Premium | Compare |
+| Pre-Owned - Gas and Diesel     | Extended Care Plus    | Compare |
+| New Vehicle - Battery Electric | Extended Care         | Compare |
 
-| Plan                  | Description                                                                                                                                                                                 | Action                            | |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |---|
-| Extended Care Premium | If it's mechanical, it's covered. Get mechanical repair coverage beyond the factory warranty on over 5,000 components. Available with a variety of time and mileage terms, and deductibles. | Visit Dealer \| Call Us |
-| Extended Care Plus    | Get mechanical repair coverage beyond the factory warranty on over 800 major components. Available with a variety of time and mileage terms, and deductibles.                               | Visit Dealer \| Call Us |
-| Extended Care         | Cover your engine, transmission, driveline, steering and air conditioning beyond the factory warranty. Available with a variety of time and mileage terms, and deductibles.                 | Visit Dealer \| Call Us |
+# Coverage Details
+
+Extended Care Premium: If it's mechanical, it's covered. Get mechanical repair coverage beyond the factory warranty on over 5,000 components. Available with a variety of time and mileage terms, and deductibles.
+
+Extended Care Plus: Get mechanical repair coverage beyond the factory warranty on over 800 major components. Available with a variety of time and mileage terms, and deductibles.
+
+Extended Care: Cover your engine, transmission, driveline, steering and air conditioning beyond the factory warranty. Available with a variety of time and mileage terms, and deductibles.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -254,20 +257,15 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-# Drive worry-free by prepaying for a selection of maintenance services tailored to your specific needs.
-
-Available with a variety of time and mileage terms for both gas and diesel powered vehicles.
-
-Protect your vehicle today! Visit your dealer or call 1-866-818-9929 to speak with a sales consultant.
+Drive worry-free by prepaying for a selection of maintenance services tailored to your specific needs. Available with a variety of time and mileage terms for both gas and diesel powered vehicles. Protect your vehicle today! Visit your dealer or call 1-866-818-9929 to speak with a sales consultant.
 
 # MyFlexCare
 
-| MyFlexCare SERVICE Premium                                    | Compare | Visit Dealer | Call Us |
-| ------------------------------------------------------------- | ------------ | ----------------- | ------------ |
-| MyFlexCare SERVICE Plus                                       | Compare | Visit Dealer | Call Us |
-| MyFlexCare SERVICE Essentials                                 | Compare | Visit Dealer | Call Us |
-| MyFlexCare SERVICE Essentials (Lube, Oil and Oil Filter Only) | Compare | Visit Dealer | Call Us |
+| SERVICE Premium                                    | Compare | Visit Dealer | Call Us |
+| -------------------------------------------------- | ------------ | ----------------- | ------------ |
+| SERVICE Plus                                       | Compare | Visit Dealer | Call Us |
+| SERVICE Essentials                                 | Compare | Visit Dealer | Call Us |
+| SERVICE Essentials (Lube, Oil and Oil Filter Only) | Compare | Visit Dealer | Call Us |
 
 # Convenience, Lease and GAP Plans
 
@@ -285,9 +283,6 @@ Visit Dealer
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # Auto Appearance
-
-
-
 
 
 
@@ -431,12 +426,12 @@ Proportioning Valve
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-# Seals and Gaskets
+# Other Components
 
-# Sensors and Relays
-
-# Wheel Bearing Assemblies
-
+Pump Motor Assembly
+Seals and Gaskets
+Sensors and Relays
+Wheel Bearing Assemblies
 
 
 
@@ -512,53 +507,53 @@ Your interactions and personal data may be collected on our websites and used by
 
 # What’s covered?
 
-| Extended Care                                                                                                | Extended Care Plus | Extended Premium |
-| ------------------------------------------------------------------------------------------------------------ | ------------------ | ---------------- |
-| Charging Area                                                                                                |                    |                  |
-| Cigar Lighter Assembly                                                                                       |                    |                  |
-| Coil Pack Assembly                                                                                           |                    |                  |
-| Compass Sensor Module                                                                                        |                    |                  |
-| Coolant Recovery Bottle and Hose                                                                             |                    |                  |
-| Coolant Temperature Switch                                                                                   |                    |                  |
-| Cooling Fan, Clutch and Motor                                                                                |                    |                  |
-| Cooling System Hoses and Clamps                                                                              |                    |                  |
-| Daytime Running Lights Module                                                                                |                    |                  |
-| Distributor                                                                                                  |                    |                  |
-| Electronic Fuel Injection System (Excluding Clogged Injectors)                                               |                    |                  |
-| Electronic Stability Program                                                                                 |                    |                  |
-| Engine Control Module                                                                                        |                    |                  |
-| Engine Oil Cooler, Hoses and Lines                                                                           |                    |                  |
-| Evaporation Canister and Hoses                                                                               |                    |                  |
-| Factory Installed Radios and Speakers                                                                        |                    |                  |
-| Fuel Pump                                                                                                    |                    |                  |
-| Fuel Tank and Lines                                                                                          |                    |                  |
-| Fuel Tank Filler Cap and Door                                                                                |                    |                  |
-| Fuel Tank Sending Unit                                                                                       |                    |                  |
-| Fuse/Relay Block                                                                                             |                    |                  |
-| Garage Door Opener Transmitter                                                                               |                    |                  |
-| Generator/Alternator                                                                                         |                    |                  |
-| Generator/Alternator Pulley, Bracket and Adaptor                                                             |                    |                  |
-| Glow Plugs                                                                                                   |                    |                  |
-| Hands Free Cellular Telematics                                                                               |                    |                  |
-| Heated Seat Control Module                                                                                   |                    |                  |
-| Heated Seat Element Pads and Module                                                                          |                    |                  |
-| Hill Descent Control                                                                                         |                    |                  |
-| Hill Start Assist                                                                                            |                    |                  |
-| Horn and Horn Pad                                                                                            |                    |                  |
-| Ignition Coil                                                                                                |                    |                  |
-| Low Tire Pressure Sensors                                                                                    |                    |                  |
-| Manually Operated Electrical Switches                                                                        |                    |                  |
-| Memory Seat Control Module                                                                                   |                    |                  |
-| Mopar® Accessories (Authorized Chrysler, Dodge, Jeep®, Ram, FIAT® or Alfa Romeo Facility Installations Only) |                    |                  |
-| Occupant Classification System Module                                                                        |                    |                  |
-| Oil Pressure Sending Unit/Switch                                                                             |                    |                  |
-| Park Neutral Position Switch                                                                                 |                    |                  |
-| ParkSense® Rear Back Up Warning System                                                                       |                    |                  |
-| ParkSense® Rear Back Up Monitor System                                                                       |                    |                  |
-| Power Door/Liftgate Motor                                                                                    |                    |                  |
-| Power Folding Seat Motors                                                                                    |                    |                  |
-| Power Sliding Door/Liftgate Module                                                                           |                    |                  |
-| Powertrain Control Module                                                                                    |                    |                  |
+| Extended Care Premium                                                                                        | Extended Care Plus | Extended Care |
+| ------------------------------------------------------------------------------------------------------------ | ------------------ | ------------- |
+| Charging Area                                                                                                |                    |               |
+| Cigar Lighter Assembly                                                                                       |                    |               |
+| Coil Pack Assembly                                                                                           |                    |               |
+| Compass Sensor Module                                                                                        |                    |               |
+| Coolant Recovery Bottle and Hose                                                                             |                    |               |
+| Coolant Temperature Switch                                                                                   |                    |               |
+| Cooling Fan, Clutch and Motor                                                                                |                    |               |
+| Cooling System Hoses and Clamps                                                                              |                    |               |
+| Daytime Running Lights Module                                                                                |                    |               |
+| Distributor                                                                                                  |                    |               |
+| Electronic Fuel Injection System (Excluding Clogged Injectors)                                               |                    |               |
+| Electronic Stability Program                                                                                 |                    |               |
+| Engine Control Module                                                                                        |                    |               |
+| Engine Oil Cooler, Hoses and Lines                                                                           |                    |               |
+| Evaporation Canister and Hoses                                                                               |                    |               |
+| Factory Installed Radios and Speakers                                                                        |                    |               |
+| Fuel Pump                                                                                                    |                    |               |
+| Fuel Tank and Lines                                                                                          |                    |               |
+| Fuel Tank Filler Cap and Door                                                                                |                    |               |
+| Fuel Tank Sending Unit                                                                                       |                    |               |
+| Fuse/Relay Block                                                                                             |                    |               |
+| Garage Door Opener Transmitter                                                                               |                    |               |
+| Generator/Alternator                                                                                         |                    |               |
+| Generator/Alternator Pulley, Bracket and Adaptor                                                             |                    |               |
+| Glow Plugs                                                                                                   |                    |               |
+| Hands Free Cellular Telematics                                                                               |                    |               |
+| Heated Seat Control Module                                                                                   |                    |               |
+| Heated Seat Element Pads and Module                                                                          |                    |               |
+| Hill Descent Control                                                                                         |                    |               |
+| Hill Start Assist                                                                                            |                    |               |
+| Horn and Horn Pad                                                                                            |                    |               |
+| Ignition Coil                                                                                                |                    |               |
+| Low Tire Pressure Sensors                                                                                    |                    |               |
+| Manually Operated Electrical Switches                                                                        |                    |               |
+| Memory Seat Control Module                                                                                   |                    |               |
+| Mopar® Accessories (Authorized Chrysler, Dodge, Jeep®, Ram, FIAT® or Alfa Romeo Facility Installations Only) |                    |               |
+| Occupant Classification System Module                                                                        |                    |               |
+| Oil Pressure Sending Unit/Switch                                                                             |                    |               |
+| Park Neutral Position Switch                                                                                 |                    |               |
+| ParkSense® Rear Back Up Warning System                                                                       |                    |               |
+| ParkSense® Rear Back Up Monitor System                                                                       |                    |               |
+| Power Door/Liftgate Motor                                                                                    |                    |               |
+| Power Folding Seat Motors                                                                                    |                    |               |
+| Power Sliding Door/Liftgate Module                                                                           |                    |               |
+| Powertrain Control Module                                                                                    |                    |               |
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -569,19 +564,43 @@ Your interactions and personal data may be collected on our websites and used by
 
 # What’s covered?
 
-| Extended Care                        | Extended Premium                             | Extended Care Plus                   |
-| ------------------------------------ | -------------------------------------------- | ------------------------------------ |
-| Quarter Vent Window Motor            | Radiator                                     | Radiator Cap                         |
-| Radiator Fan Shroud                  | Radiator Hoses, Upper and Lower              | Rear Seat Video Systems              |
-| Rear Window Wiper Motor              | Remote Start Systems (OEM)                   | Satellite Radio System               |
-| Satellite Television System          | Seals and Gaskets                            | Security Alarm System                |
-| Sensor, Charge/Air Inlet Temperature | Serpentine Belt Tensioner                    | Sliding Door Alert Warning System    |
-| Speed Control Vacuum Reservoir       | Speed Control/Throttle Body Cables and Hoses | Starter Motor and Solenoid           |
-| Temperature Sending Unit/Switch      | Thermostat and Gasket/O-Ring                 | Tire Pressure Monitor/Warning System |
-| Traction Control System              | Trailer Sway Damping System                  | Transmission Control Module          |
-| Turbocharger Coolant Tube/Line       | Uconnect® Hands-Free Communication System    | USB Port                             |
-| Voltage Regulator                    | Washer Fluid Reservoir and Pump/Motor        | Water Pump and Housing               |
-| Water Pump Transfer Tube and O-Rings | Windshield Wiper Motor                       | Wiper Control Module                 |
+# Extended Care
+
+| Extended Premium                             | Extended Care Plus |
+| -------------------------------------------- | ------------------ |
+| Quarter Vent Window Motor                    |                    |
+| Radiator                                     |                    |
+| Radiator Cap                                 |                    |
+| Radiator Fan Shroud                          |                    |
+| Radiator Hoses, Upper and Lower              |                    |
+| Rear Seat Video Systems                      |                    |
+| Rear Window Wiper Motor                      |                    |
+| Remote Start Systems (OEM)                   |                    |
+| Satellite Radio System                       |                    |
+| Satellite Television System                  |                    |
+| Seals and Gaskets                            |                    |
+| Security Alarm System                        |                    |
+| Sensor, Charge/Air Inlet Temperature         |                    |
+| Serpentine Belt Tensioner                    |                    |
+| Sliding Door Alert Warning System            |                    |
+| Speed Control Vacuum Reservoir               |                    |
+| Speed Control/Throttle Body Cables and Hoses |                    |
+| Starter Motor and Solenoid                   |                    |
+| Temperature Sending Unit/Switch              |                    |
+| Thermostat and Gasket/O-Ring                 |                    |
+| Tire Pressure Monitor/Warning System         |                    |
+| Traction Control System                      |                    |
+| Trailer Sway Damping System                  |                    |
+| Transmission Control Module                  |                    |
+| Turbocharger Coolant Tube/Line               |                    |
+| Uconnect® Hands-Free Communication System    |                    |
+| USB Port                                     |                    |
+| Voltage Regulator                            |                    |
+| Washer Fluid Reservoir and Pump/Motor        |                    |
+| Water Pump and Housing                       |                    |
+| Water Pump Transfer Tube and O-Rings         |                    |
+| Windshield Wiper Motor                       |                    |
+| Wiper Control Module                         |                    |
 
 # ENGINE
 
@@ -672,65 +691,61 @@ Your interactions and personal data may be collected on our websites and used by
 
 # Extended Care
 
-| Extended Premium            | Extended Plus | Care |
-| --------------------------- | ------------- | ---- |
-| Seat Manual Height Adjuster |               |      |
-| Seat Manual Track Adjuster  |               |      |
-| Seat Recliner Assembly      |               |      |
-| Stow ‘n Go® Seat Mechanisms |               |      |
+| Extended Care Premium       | Extended Care Plus | Extended Care |
+| --------------------------- | ------------------ | ------------- |
+| Seat Manual Height Adjuster |                    |               |
+| Seat Manual Track Adjuster  |                    |               |
+| Seat Recliner Assembly      |                    |               |
+| Stow ‘n Go® Seat Mechanisms |                    |               |
 
 # POWER GROUP
 
-| Decklid Release Cable                                   |   |   |
-| ------------------------------------------------------- | - | - |
-| Power Antenna                                           |   |   |
-| Power Door Locks and Linkage (Excluding Latch Assembly) |   |   |
-| Power Seat Motors                                       |   |   |
-| Power Sliding Door Motors                               |   |   |
-| Power Window Flex Track                                 |   |   |
-| Power Window Motors                                     |   |   |
-| Rear Window Defroster                                   |   |   |
+Decklid Release Cable
+Power Antenna
+Power Door Locks and Linkage (Excluding Latch Assembly)
+Power Seat Motors
+Power Sliding Door Motors
+Power Window Flex Track
+Power Window Motors
+Rear Window Defroster
 
 # SAFETY &#x26; SECURITY
 
-| Air Bags                                  |   |   |
-| ----------------------------------------- | - | - |
-| Air Bag Clock Spring                      |   |   |
-| Air Bag Sensors                           |   |   |
-| Door Lock Cylinders                       |   |   |
-| Hazard Warning Lamps and Relays           |   |   |
-| Ignition Switch Lock Cylinder             |   |   |
-| Seat Belt Assemblies                      |   |   |
-| Trunk Emergency Release Cable & Mechanism |   |   |
+Air Bags
+Air Bag Clock Spring
+Air Bag Sensors
+Door Lock Cylinders
+Hazard Warning Lamps and Relays
+Ignition Switch Lock Cylinder
+Seat Belt Assemblies
+Trunk Emergency Release Cable &#x26; Mechanism
 
 # STEERING
 
-| Power Steering Cooler and Tubes              |   |   |
-| -------------------------------------------- | - | - |
-| Power Steering Gear                          |   |   |
-| Power Steering Pump                          |   |   |
-| Power Steering Pump Bracket and Pulley       |   |   |
-| Power Steering Pump Reservoir and Cap        |   |   |
-| Rack and Pinion Assembly                     |   |   |
-| Seals and Gaskets                            |   |   |
-| Seals and Gaskets for Listed Components      |   |   |
-| Steering Column Assembly                     |   |   |
-| Steering Damper                              |   |   |
-| Steering Gear Housing and All Internal Parts |   |   |
-| Steering Shaft Lower Coupling                |   |   |
-| Steering Wheel Tilt Lever                    |   |   |
+Power Steering Cooler and Tubes
+Power Steering Gear
+Power Steering Pump
+Power Steering Pump Bracket and Pulley
+Power Steering Pump Reservoir and Cap
+Rack and Pinion Assembly
+Seals and Gaskets
+Seals and Gaskets for Listed Components
+Steering Column Assembly
+Steering Damper
+Steering Gear Housing and All Internal Parts
+Steering Shaft Lower Coupling
+Steering Wheel Tilt Lever
 
 # SUSPENSION
 
-| Auxiliary Springs                 |   |   |
-| --------------------------------- | - | - |
-| Axle Trac Bar                     |   |   |
-| Bushing Stabilizer Bar            |   |   |
-| Control Arm Bushings              |   |   |
-| Control Arms                      |   |   |
-| Cushion Stabilizer Bar            |   |   |
-| Front Axle Crossmember            |   |   |
-| Front Axle Vent and Hose Assembly |   |   |
+Auxiliary Springs
+Axle Trac Bar
+Bushing Stabilizer Bar
+Control Arm Bushings
+Control Arms
+Cushion Stabilizer Bar
+Front Axle Crossmember
+Front Axle Vent and Hose Assembly
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -743,58 +758,60 @@ Your interactions and personal data may be collected on our websites and used by
 
 # Extended Care
 
-# Extended Care Plus
+# Extended Care Premium
 
-Front Control Arm Bushings
-Front Control Arms
-Front Spring Bushing
-Front Spring Hanger
-Front Spring Interliner
-Front Spring Seat
-Front Spring Shackle
-Front Stabilizer/Sway Bar Link
-Front Upper and Lower Ball Joints
-Front Upper and Lower Control Arms
-Lateral Link Arm
-Link Stabilizer Bar
-Rear Auxiliary Springs
-Rear Axle Trac Bar
-Rear Camber, Spring, Toe, Links
-Rear Coil Springs
-Rear Lateral Link Arm
-Rear Leaf Springs
-Rear Shock Mount Plate
-Rear Springs
-Rear Spring Bushing
-Rear Spring Hanger
-Rear Spring Interliner
-Rear Spring Shackle
-Rear Stabilizer/Sway Bar
-Rear Stabilizer/Sway Bar Bushing
-Rear Stabilizer/Sway Bar Link
-Rear Trailing Arm Assembly
-Shock Absorbers
-Shock Mount Plate
-Stabilizer/Sway Bar
-Strut Assemblies
-Suspension Knuckles
-U-Bolt Rear Spring
+# Plus Care
+
+- Front Control Arm Bushings
+- Front Control Arms
+- Front Spring Bushing
+- Front Spring Hanger
+- Front Spring Interliner
+- Front Spring Seat
+- Front Spring Shackle
+- Front Stabilizer/Sway Bar Link
+- Front Upper and Lower Ball Joints
+- Front Upper and Lower Control Arms
+- Lateral Link Arm
+- Link Stabilizer Bar
+- Rear Auxiliary Springs
+- Rear Axle Trac Bar
+- Rear Camber, Spring, Toe, Links
+- Rear Coil Springs
+- Rear Lateral Link Arm
+- Rear Leaf Springs
+- Rear Shock Mount Plate
+- Rear Springs
+- Rear Spring Bushing
+- Rear Spring Hanger
+- Rear Spring Interliner
+- Rear Spring Shackle
+- Rear Stabilizer/Sway Bar
+- Rear Stabilizer/Sway Bar Bushing
+- Rear Stabilizer/Sway Bar Link
+- Rear Trailing Arm Assembly
+- Shock Absorbers
+- Shock Mount Plate
+- Stabilizer/Sway Bar
+- Strut Assemblies
+- Suspension Knuckles
+- U-Bolt Rear Spring
 
 # TRANSMISSION (AUTOMATIC)
 
-Automatic Transmission Case and All Internal Parts
-Drive/Flex Plate
-Seals and Gaskets
-Torque Converter
-Transmission Control Module
-Transmission Cooler, Hoses, Lines
-Transmission Oil Pan
-Transmission Range Switch
-Transmission Shifter Interlock Solenoid
+- Automatic Transmission Case and All Internal Parts
+- Drive/Flex Plate
+- Seals and Gaskets
+- Torque Converter
+- Transmission Control Module
+- Transmission Cooler, Hoses, Lines
+- Transmission Oil Pan
+- Transmission Range Switch
+- Transmission Shifter Interlock Solenoid
 
 # TRANSMISSION (CVT)
 
-Bell Housing
+- Bell Housing
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -805,36 +822,22 @@ Your interactions and personal data may be collected on our websites and used by
 
 # What’s covered?
 
-| Extended Care Premium                                     | Extended Care Plus     | Extended Care |
-| --------------------------------------------------------- | ---------------------- | ------------- |
-| Clutch Hydraulic Fluid Reservoir Hose                     |                        |               |
-| Clutch Hydraulic Fluid Reservoir                          |                        |               |
-| Clutch Hydraulic Tube                                     |                        |               |
-| Clutch Master Cylinder                                    |                        |               |
-| Clutch Release Cable                                      |                        |               |
-| Clutch Release Fork                                       |                        |               |
-| Clutch Slave Cylinder                                     |                        |               |
-| Continuously Variable Transmission and All Internal Parts |                        |               |
-| CVT Belt                                                  |                        |               |
-| CVT Neutral, Safety, Backup Switch                        |                        |               |
-| Forward and Reverse Clutch                                |                        |               |
-| Gear Shift Lever Assembly                                 |                        |               |
-| Gear Shift Linkage                                        |                        |               |
-| Input Speed Sensor                                        |                        |               |
-| Manual Transmission Case and All Internal Parts           |                        |               |
-| Output Speed Sensor                                       |                        |               |
-| Planetary Gearset                                         |                        |               |
-| Primary Variator                                          |                        |               |
-| Seals and Gaskets                                         | Listed Components Only |               |
-| Secondary Variator                                        |                        |               |
-| Shifter Lock Cable                                        |                        |               |
+| Extended Care Premium                 | Extended Care Plus                                        | Extended Care                                   |
+| ------------------------------------- | --------------------------------------------------------- | ----------------------------------------------- |
+| Clutch Hydraulic Fluid Reservoir Hose | Clutch Hydraulic Fluid Reservoir                          | Clutch Hydraulic Tube                           |
+| Clutch Master Cylinder                | Clutch Release Cable                                      | Clutch Release Fork                             |
+| Clutch Slave Cylinder                 | Continuously Variable Transmission and All Internal Parts | CVT Belt                                        |
+| CVT Neutral, Safety, Backup Switch    | Forward and Reverse Clutch                                | Gear Shift Lever Assembly                       |
+| Gear Shift Linkage                    | Input Speed Sensor                                        | Manual Transmission Case and All Internal Parts |
+| Output Speed Sensor                   | Planetary Gearset                                         | Primary Variator                                |
+| Seals and Gaskets                     | Listed Components Only                                    |                                                 |
+| Secondary Variator                    | Shifter Lock Cable                                        |                                                 |
 
 # Additional Benefits
 
 All Extended Care Plans Also Include These Additional Benefits:
 
-# DETAILS (EXPANDABLE/COLLAPSIBLE)
-
+DETAILS (EXPANDABLE/COLLAPSIBLE)
 - 24-hour “Sign-and-Go” Towing and Roadside Assistance (up to $100 per occurrence). Benefits include towing, flat-tire change (with your good spare), battery jump, out-of-gas fuel delivery (maximum 2 gallons) and lockout service (i.e., keys locked in car or frozen lock).
 - First Day Rental: $45 First Day Car Rental Allowance or Taxi Reimbursement for any same-day dealership mechanical repair or maintenance service (excluding bodywork).
 - Car Rental Allowance: Up to $45 per day ($175 maximum per occurrence) for Car Rental or Taxi Reimbursement anytime a component covered by the plan or Manufacturer’s Basic or Powertrain Warranty fails, causing the vehicle to be inoperable and repairs take overnight.
@@ -897,66 +900,68 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
+
+
 # What’s covered?
 
 # Extended Care
 
-# Extended Premium
-
-# Plus Care
-
-- Door, Hood and Trunklid Hinges
-- Hood Latch Release Cable
-- Hood Props
-- Liftgate Props
-- Spare Tire Hanger/Carrier
-- Spare Tire Jack
-- Washer Hoses and Nozzles
-- Wiper Arm Linkage
+| Extended Premium               | Plus Care |
+| ------------------------------ | --------- |
+| Door, Hood and Trunklid Hinges |           |
+| Hood Latch Release Cable       |           |
+| Hood Props                     |           |
+| Liftgate Props                 |           |
+| Spare Tire Hanger/Carrier      |           |
+| Spare Tire Jack                |           |
+| Washer Hoses and Nozzles       |           |
+| Wiper Arm Linkage              |           |
 
 # BRAKES
 
-- Adjustable Brake Pedal Assembly
-- Assist Booster
-- Brake Fluid Reservoir
-- Brake Lines, Hoses and Fittings
-- Brake System Hydraulic Assembly and Controller
-- Disc Brake Calipers and Mounting Hardware
-- Master Cylinder
-- Parking Brake Cable
-- Parking Brake Components
-- Parking Brake Handle
-- Parking Brake Cable Adjuster
-- Proportioning Valve
-- Pump Motor Assembly
-- Seals and Gaskets
-- Sensors and Relays
-- Wheel Bearing Assemblies
-- Wheel Cylinders
+| Adjustable Brake Pedal Assembly                |   |
+| ---------------------------------------------- | - |
+| Assist Booster                                 |   |
+| Brake Fluid Reservoir                          |   |
+| Brake Lines, Hoses and Fittings                |   |
+| Brake System Hydraulic Assembly and Controller |   |
+| Disc Brake Calipers and Mounting Hardware      |   |
+| Master Cylinder                                |   |
+| Parking Brake Cable                            |   |
+| Parking Brake Components                       |   |
+| Parking Brake Handle                           |   |
+| Parking Brake Cable Adjuster                   |   |
+| Proportioning Valve                            |   |
+| Pump Motor Assembly                            |   |
+| Seals and Gaskets                              |   |
+| Sensors and Relays                             |   |
+| Wheel Bearing Assemblies                       |   |
+| Wheel Cylinders                                |   |
 
 # DRIVELINE/TRANSAXLE
 
-- Axle Housing and All Internal Parts
-- Axle Shaft Assemblies
-- Axle Shaft Bearings
-- Axle Shafts
-- Constant Velocity Joints and Boots
-- Differential Carrier Assembly and All Internal Parts
-- Differential Cover
-- Disconnect Housing Assembly
-- Drive Shaft Assemblies
-- Drive Shaft Center Bearings
-- End Cover
-- Front and Rear Axle Housing Assemblies and All Internal Parts
-- Front Wheel Bearings
-- Oil Pan
-- Output Ball Bearing
-- Output Flange
-- Overrunning Clutch
-- Pinion Spacer and Shim
-- Power Transfer Unit and All Internal Parts
-
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+| Axle Housing and All Internal Parts                                                         |   |
+| ------------------------------------------------------------------------------------------- | - |
+| Axle Shaft Assemblies                                                                       |   |
+| Axle Shaft Bearings                                                                         |   |
+| Axle Shafts                                                                                 |   |
+| Constant Velocity Joints and Boots                                                          |   |
+| Differential Carrier Assembly and All Internal Parts                                        |   |
+| Differential Cover                                                                          |   |
+| Disconnect Housing Assembly                                                                 |   |
+| Drive Shaft Assemblies                                                                      |   |
+| Drive Shaft Center Bearings                                                                 |   |
+| End Cover                                                                                   |   |
+| Front and Rear Axle Housing Assemblies and All Internal Parts                               |   |
+| Front Wheel Bearings                                                                        |   |
+| Oil Pan                                                                                     |   |
+| Output Ball Bearing                                                                         |   |
+| Your interactions and personal data may be collected on our websites and used by us and our |   |
+| partners in accordance with our Privacy Policy.                                             |   |
+| Output Flange                                                                               |   |
+| Overrunning Clutch                                                                          |   |
+| Pinion Spacer and Shim                                                                      |   |
+| Power Transfer Unit and All Internal Parts                                                  |   |
 
 
 
@@ -967,7 +972,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 # Extended Care
 
-| Extended Premium                                         | Plus Care              |
+| Extended Premium                                         | Extended Plus Care     |
 | -------------------------------------------------------- | ---------------------- |
 | PRNDL Position Switch                                    |                        |
 | Rear Axle Housing and All Internal Parts                 |                        |
@@ -1087,20 +1092,58 @@ Your interactions and personal data may be collected on our websites and used by
 
 # Extended Care
 
-| Traction Control System | Trailer Sway Damping System | Transmission Control Module | Turbocharger Coolant Tube/Line | Uconnect® Hands-Free Communication System | USB Port | Voltage Regulator | Washer Fluid Reservoir and Pump/Motor | Water Pump and Housing | Water Pump Transfer Tube and O-Rings | Windshield Wiper Motor | Wiper Control Module |
-| ----------------------- | --------------------------- | --------------------------- | ------------------------------ | ----------------------------------------- | -------- | ----------------- | ------------------------------------- | ---------------------- | ------------------------------------ | ---------------------- | -------------------- |
+# Extended Premium Plus Care
+
+Traction Control System
+Trailer Sway Damping System
+Transmission Control Module
+Turbocharger Coolant Tube/Line
+Uconnect® Hands-Free Communication System
+USB Port
+Voltage Regulator
+Washer Fluid Reservoir and Pump/Motor
+Water Pump and Housing
+Water Pump Transfer Tube and O-Rings
+Windshield Wiper Motor
+Wiper Control Module
 
 # ENGINE
 
-| Air Cleaner Assembly (Excluding Element)    | Core Plugs                       | Cylinder Block and All Internal Parts | Cylinder Head Assemblies                 | Engine Supports/Mounts | Flex Plate/Drive Plate | Flywheel with Starter Ring Gear | Fuel Injection Pump (Diesel Engines Only) | Fuel Injectors (Excluding Clogged Injectors) | Harmonic Balancer         | Hose, Secondary Air Supply | Hoses and Clamps                              |
-| ------------------------------------------- | -------------------------------- | ------------------------------------- | ---------------------------------------- | ---------------------- | ---------------------- | ------------------------------- | ----------------------------------------- | -------------------------------------------- | ------------------------- | -------------------------- | --------------------------------------------- |
-| Idler Pulley                                | Intake and Exhaust Manifolds     | Oil Filter Adapter Housing            | Oil Pan                                  | Oil Pump               | Pulleys and Sprockets  | Pump, Air                       | Pump, Leak Detection and Hoses/Lines      | Seals and Gaskets                            | Serpentine Belt Tensioner | Supercharger               | Timing Case, Chain, Gears, Belt and Sprockets |
-| Turbocharger Housing and All Internal Parts | Turbocharger Waste Gate Actuator | Valve Covers                          | Valve, Exhaust Gas Recirculation Control | Water Pump and Housing |                        |                                 |                                           |                                              |                           |                            |                                               |
+Air Cleaner Assembly (Excluding Element)
+Core Plugs
+Cylinder Block and All Internal Parts
+Cylinder Head Assemblies
+Engine Supports/Mounts
+Flex Plate/Drive Plate
+Flywheel with Starter Ring Gear
+Fuel Injection Pump (Diesel Engines Only)
+Fuel Injectors (Excluding Clogged Injectors)
+Harmonic Balancer
+Hose, Secondary Air Supply
+Hoses and Clamps
+Idler Pulley
+Intake and Exhaust Manifolds
+Oil Filter Adapter Housing
+Oil Pan
+Oil Pump
+Pulleys and Sprockets
+Pump, Air
+Pump, Leak Detection and Hoses/Lines
+Seals and Gaskets
+Serpentine Belt Tensioner
+Supercharger
+Timing Case, Chain, Gears, Belt and Sprockets
+Turbocharger Housing and All Internal Parts
+Turbocharger Waste Gate Actuator
+Valve Covers
+Valve, Exhaust Gas Recirculation Control
+Water Pump and Housing
 
 # INSTRUMENT PANEL
 
-| Amp/Voltmeter Gauge | Clock | Electronic Instrument Cluster |
-| ------------------- | ----- | ----------------------------- |
+Amp/Voltmeter Gauge
+Clock
+Electronic Instrument Cluster
 
 In your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -1108,10 +1151,9 @@ In your interactions and personal data may be collected on our websites and used
 
 
 
-
 # What’s covered?
 
-| Extended Care | Extended Premium   | Extended Plus Care |
+| Extended Care | Extended Premium   | Extended Care Plus |
 | ------------- | ------------------ | ------------------ |
 | Fuel Gauge    | Oil Pressure Gauge | Speedometer        |
 | Tachometer    | Temperature Gauge  | Turbo Gauge        |
@@ -1164,9 +1206,6 @@ In your interactions and personal data may be collected on our websites and used
 - Seat Belt Assemblies
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-
-
 
 
 
@@ -1226,68 +1265,25 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-
 # What’s covered?
 
 # Extended Care
 
-# Extended Premium
-
-# Plus Care
-
-| Rear Spring Interliner           |                        |
-| -------------------------------- | ---------------------- |
-| Rear Spring Shackle              |                        |
-| Rear Stabilizer/Sway Bar         |                        |
-| Rear Stabilizer/Sway Bar Bushing |                        |
-| Rear Stabilizer/Sway Bar Link    |                        |
-| Rear Trailing Arm Assembly       |                        |
-| Shock Absorbers                  |                        |
-| Shock Mount Plate                |                        |
-| Stabilizer/Sway Bar              | Listed Components Only |
-| Strut Assemblies                 | Listed Components Only |
-| Suspension Knuckles              |                        |
-| U-Bolt Rear Spring               |                        |
+| Rear Spring Interliner | Rear Spring Shackle    | Rear Stabilizer/Sway Bar | Rear Stabilizer/Sway Bar Bushing | Rear Stabilizer/Sway Bar Link | Rear Trailing Arm Assembly | Shock Absorbers | Shock Mount Plate | Stabilizer/Sway Bar | Listed Components Only |
+| ---------------------- | ---------------------- | ------------------------ | -------------------------------- | ----------------------------- | -------------------------- | --------------- | ----------------- | ------------------- | ---------------------- |
+| Strut Assemblies       | Listed Components Only | Suspension Knuckles      | U-Bolt Rear Spring               |                               |                            |                 |                   |                     |                        |
 
 # TRANSMISSION (AUTOMATIC)
 
-| Automatic Transmission Case and All Internal Parts |                        |
-| -------------------------------------------------- | ---------------------- |
-| Drive/Flex Plate                                   |                        |
-| Seals and Gaskets                                  | Listed Components Only |
-| Torque Converter                                   |                        |
-| Transmission Control Module                        |                        |
-| Transmission Cooler, Hoses, Lines                  |                        |
-| Transmission Oil Pan                               |                        |
-| Transmission Range Switch                          |                        |
-| Transmission Shifter Interlock Solenoid            |                        |
+| Automatic Transmission Case and All Internal Parts | Drive/Flex Plate | Seals and Gaskets | Listed Components Only | Torque Converter | Transmission Control Module | Transmission Cooler, Hoses, Lines | Transmission Oil Pan | Transmission Range Switch | Transmission Shifter Interlock Solenoid |
+| -------------------------------------------------- | ---------------- | ----------------- | ---------------------- | ---------------- | --------------------------- | --------------------------------- | -------------------- | ------------------------- | --------------------------------------- |
 
 # TRANSMISSION (CVT)
 
-| Bell Housing                                              |                        |
-| --------------------------------------------------------- | ---------------------- |
-| Clutch Hydraulic Fluid Reservoir Hose                     |                        |
-| Clutch Hydraulic Fluid Reservoir                          |                        |
-| Clutch Hydraulic Tube                                     |                        |
-| Clutch Master Cylinder                                    |                        |
-| Clutch Release Cable                                      |                        |
-| Clutch Release Fork                                       |                        |
-| Clutch Slave Cylinder                                     |                        |
-| Continuously Variable Transmission and All Internal Parts |                        |
-| CVT Belt                                                  |                        |
-| CVT Neutral, Safety, Backup Switch                        |                        |
-| Forward and Reverse Clutch                                |                        |
-| Gear Shift Lever Assembly                                 |                        |
-| Gear Shift Linkage                                        |                        |
-| Input Speed Sensor                                        |                        |
-| Manual Transmission Case and All Internal Parts           |                        |
-| Output Speed Sensor                                       |                        |
-| Planetary Gearset                                         |                        |
-| Primary Variator                                          |                        |
-| Seals and Gaskets                                         | Listed Components Only |
-| Secondary Variator                                        |                        |
-| Shifter Lock Cable                                        |                        |
+| Bell Housing                       | Clutch Hydraulic Fluid Reservoir Hose | Clutch Hydraulic Fluid Reservoir | Clutch Hydraulic Tube | Clutch Master Cylinder | Clutch Release Cable                            | Clutch Release Fork | Clutch Slave Cylinder | Continuously Variable Transmission and All Internal Parts | CVT Belt |
+| ---------------------------------- | ------------------------------------- | -------------------------------- | --------------------- | ---------------------- | ----------------------------------------------- | ------------------- | --------------------- | --------------------------------------------------------- | -------- |
+| CVT Neutral, Safety, Backup Switch | Forward and Reverse Clutch            | Gear Shift Lever Assembly        | Gear Shift Linkage    | Input Speed Sensor     | Manual Transmission Case and All Internal Parts | Output Speed Sensor | Planetary Gearset     | Primary Variator                                          |          |
+|                                    | Seals and Gaskets                     | Listed Components Only           | Secondary Variator    | Shifter Lock Cable     |                                                 |                     |                       |                                                           |          |
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -1302,11 +1298,19 @@ All Extended Care Plans Also Include These Additional Benefits:
 
 # DETAILS (EXPANDABLE/COLLAPSIBLE)
 
-- 24-hour “Sign-and-Go” Towing and Roadside Assistance (up to $100 per occurrence). Benefits include towing, flat-tire change (with your good spare), battery jump, out-of-gas fuel delivery (maximum 2 gallons) and lockout service (i.e., keys locked in car or frozen lock)
-- First Day Rental: $45 First Day Car Rental Allowance or Taxi Reimbursement for any same-day dealership mechanical repair or maintenance service (excluding bodywork)
-- Car Rental Allowance: Up to $45 per day ($175 maximum per occurrence) for Car Rental or Taxi Reimbursement anytime a component covered by the plan or Manufacturer’s Basic or Powertrain Warranty fails, causing the vehicle to be inoperable and repairs take overnight.
-- Trip Interruption Protection: Up to $1,000 for lodging, meals and car rental expenses if: (1) the vehicle is inoperable due to a failure covered by the service contract or the factory warranty and (2) the failure occurs more than 100 miles from home.
-- Key Fob Repair/Replacement: Coverage for up to three (3) key fob repairs or replacements (with a total maximum coverage benefit of $600). Key fob coverage is available even if this component is not operable or recoverable.
+- 24-hour “Sign-and-Go” Towing and Roadside Assistance (up to $100 per occurrence). Benefits include towing, flat-tire change (with your good spare), battery jump, out-of-gas fuel delivery (maximum 2 gallons) and lockout service (i.e., keys locked in car or frozen lock).
+- First Day Rental
+
+$45 First Day Car Rental Allowance or Taxi Reimbursement for any same-day dealership mechanical repair or maintenance service (excluding bodywork).
+- Car Rental Allowance
+
+Up to $45 per day ($175 maximum per occurrence) for Car Rental or Taxi Reimbursement anytime a component covered by the plan or Manufacturer’s Basic or Powertrain Warranty fails, causing the vehicle to be inoperable and repairs take overnight.
+- Trip Interruption Protection
+
+Up to $1,000 for lodging, meals and car rental expenses if: (1) the vehicle is inoperable due to a failure covered by the service contract or the factory warranty and (2) the failure occurs more than 100 miles from home.
+- Key Fob Repair/Replacement
+
+Coverage for up to three (3) key fob repairs or replacements (with a total maximum coverage benefit of $600). Key fob coverage is available even if this component is not operable or recoverable.
 
 # FlexCare Coverage Comparison
 
@@ -1314,13 +1318,22 @@ Compare protection plans at the component level so you can choose coverage tailo
 
 # Plan Comparison
 
-| What’s covered?   | EV Extended Care Premium              | EV Extended Care Plus       | EV Extended Care      |   |
-| ----------------- | ------------------------------------- | --------------------------- | --------------------- | - |
-| TRACTION MOTOR    | EV TRANSMISSION/REDUCER BOX/ TRANSFER | REAR/FRONT-WHEEL DRIVE AXLE |                       |   |
-| STEERING          | AIR CONDITIONING                      | EV COOLING SYSTEM           | FRONT/REAR SUSPENSION |   |
-| EV BRAKING SYSTEM | ELECTRICAL                            | EV ELECTRICAL               | INSTRUMENTATION       |   |
+| **What’s covered?**                   | **EV Extended Care Premium** | **EV Extended Care Plus** | **EV Extended Care** |
+| ------------------------------------- | ---------------------------- | ------------------------- | -------------------- |
+| TRACTION MOTOR                        |                              |                           |                      |
+| EV TRANSMISSION/REDUCER BOX/ TRANSFER |                              |                           |                      |
+| REAR/FRONT-WHEEL DRIVE AXLE           |                              |                           |                      |
+| STEERING                              |                              |                           |                      |
+| AIR CONDITIONING                      |                              |                           |                      |
+| EV COOLING SYSTEM                     |                              |                           |                      |
+| FRONT/REAR SUSPENSION                 |                              |                           |                      |
+| EV BRAKING SYSTEM                     |                              |                           |                      |
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+# EV ELECTRICAL
+
+# INSTRUMENTATION
 
 
 
@@ -1341,19 +1354,23 @@ Your interactions and personal data may be collected on our websites and used by
 
 All Extended Care Plans Also Include These Additional Benefits:
 
-- TOWING/ROADSIDE ASSISTANCE
+# TOWING/ROADSIDE ASSISTANCE
 
 24-hour "Sign-and-Go" Towing and Roadside Assistance (up to $100 per occurrence). Benefits include towing, flat-tire change (with your good spare), battery jump, out-of-gas fuel delivery (maximum 2 gallons) and lockout service (i.e., keys locked in car or frozen lock).
-- FIRST DAY RENTAL
+
+# FIRST DAY RENTAL
 
 $45 First Day Car Rental Allowance or Taxi Reimbursement for any same-day dealership mechanical repair or maintenance service (excluding bodywork).
-- CAR RENTAL ALLOWANCE
+
+# CAR RENTAL ALLOWANCE
 
 Up to $45 per day ($175 maximum per occurrence) for Car Rental or Taxi Reimbursement anytime a component covered by the plan or Manufacturer's Basic or Powertrain Warranty fails, causing the vehicle to be inoperable and repairs take overnight.
-- Trip Interruption Protection
+
+# Trip Interruption Protection
 
 Up to $1,000 for lodging, meals and car rental expenses if: (1) the vehicle is inoperable due to a failure covered by the service contract or the factory warranty and (2) the failure occurs more than 100 miles from home.
-- Key Fob Repair/Replacement
+
+# Key Fob Repair/Replacement
 
 Coverage for up to three (3) key fob repairs or replacements (with a total maximum coverage benefit of $600). Key fob coverage is available even if this component is not operable or recoverable.
 
@@ -1369,6 +1386,8 @@ Compare prepaid maintenance plans so you can choose coverage tailored to your ne
 | Lube, Oil and Oil Filter Changes |              |            |                       |
 | Tire Rotations                   |              |            |                       |
 | Multipoint Vehicle Inspections   |              |            |                       |
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 
 
@@ -1421,13 +1440,15 @@ BUY NOW
 
 # FlexCare Sounds
 
-# Don't Let Your Mechanical Coverage Lapse
+# Jeep Vehicle Info
+
+Don't Let Your Mechanical Coverage Lapse
 
 Is your FlexCare or Mopar® Vehicle Protection close to the end of its term? FlexCare Advantage offers continued mechanical coverage when your existing FlexCare or Mopar® Vehicle Protection plan ends. This factory-backed plan provides similar coverage to your existing plan until your vehicle is 15 years old or reaches 160,000 miles, whichever comes first. Vehicles 11 years old or newer with no more than 140,000 miles are eligible to enroll.
 
 # Jeep Vehicle Info
 
-# Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # Protection Designed for Every Drive
 
@@ -1493,7 +1514,6 @@ Your dealer will complete a Vehicle Inspection to ensure the vehicle is eligible
 
 
 
-
 # What is the length of a Mopar® Vehicle Protection plan or FlexCare?
 
 Mopar® Vehicle Protection or FlexCare is offered with a wide variety of time and mileage terms, up to 8 years and 125,000 miles. New Vehicle plan coverage and Certified Pre-Owned Vehicle plan coverage begin on the vehicle's warranty start date (the date the vehicle was delivered to its original owner) and at zero miles. This coverage does not begin upon expiration of the new vehicle warranty. For example: Your vehicle's warranty start date is July 1, 2019 and the odometer reads 10,000 miles. You purchase a 5-Year / 100,000-Mile Maximum Care℠ plan on November 1, 2019. Your coverage starts on July 1, 2019 and expires on July 1, 2024 or when your odometer reads 100,000 miles, whichever occurs first. Traditional Pre-Owned Vehicle plan coverage and most - but not all - Convenience and Maintenance (non-mechanical) coverage begin on the date and mileage when you purchase the plan. For example: You purchase a pre-owned 2018 Chrysler vehicle on August 1, 2019 and the odometer reads 50,000 miles. On the same day, you purchase a 2-Year / Unlimited Mileage traditional Pre-Owned plan. Your coverage starts on August 1, 2019 and expires on August 1, 2021.
@@ -1542,8 +1562,9 @@ Thank you for your submission
 
 Here is the cancellation quote for your contract:
 
-CANCELLATION POLICY: If you are the original purchaser of the plan, and coverage under the plan has not expired or been terminated, you may cancel if you have not authorized transfer of plan coverage to a new owner. To cancel the plan, you may take your plan to any dealer. The dealer will contact us to request termination of your contract. If your vehicle is repossessed or rendered a total loss, and your plan was financed with your vehicle, your rights under this plan transfer to the lienholder. The lienholder is then responsible for requesting termination of the plan through the dealer where the plan was purchased. If the plan was not financed, any refund due will be paid to you by check in your name from FCA US LLC.
+# CANCELLATION POLICY:
 
+If you are the original purchaser of the plan, and coverage under the plan has not expired or been terminated, you may cancel if you have not authorized transfer of plan coverage to a new owner. To cancel the plan, you may take your plan to any dealer. The dealer will contact us to request termination of your contract. If your vehicle is repossessed or rendered a total loss, and your plan was financed with your vehicle, your rights under this plan transfer to the lienholder. The lienholder is then responsible for requesting termination of the plan through the dealer where the plan was purchased. If the plan was not financed, any refund due will be paid to you by check in your name from FCA US LLC.
 
 
 
@@ -1627,16 +1648,14 @@ Your interactions and personal data may be collected on our websites and used by
 
 Conveniently book an appointment with your preferred dealer
 
-# SIGN IN
-
+SIGN IN
 CONTINUE AS GUEST
 
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
 
-# SIGN IN
-
+SIGN IN
 Skip Sign in
 
 # Select a Vehicle
@@ -1647,16 +1666,17 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
+Select Brand
+
+Select Year
+
 Select Year
 
 Select Model
 
-Make
-
-alfa
+Select Model
 
 ADD VEHICLE
-
 OR
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
@@ -1734,9 +1754,9 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 - CHRYSLER
 - Dodge
-- Jeep®
+- jeep®
 - Ram
-- Fiat®
+- fiat®
 - Alfa Romeo
 - Stellantis Pro One
 
@@ -1750,19 +1770,19 @@ FCA US LLC strives to ensure that its website is accessible to individuals with 
 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
-Sign In
-Skip Sign In
+Sign In Skip Sign In
+
 Your preferred dealer has been successfully updated.
 
 DISMISS
+
 Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue
-Cancel
+Continue Cancel
 
-# modal title
+modal title
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 

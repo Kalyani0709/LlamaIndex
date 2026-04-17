@@ -12,9 +12,12 @@ Resend Email
 Shop Now
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
-Guest
+, Guest
 
 - Visit eStore
 - Find Tires
@@ -41,9 +44,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
@@ -56,13 +61,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -130,15 +132,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Social Media
 
-# Instagram
-
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
 # Visit eStore
 
@@ -149,8 +147,6 @@ our interactions and personal data may be collected on our websites and used by 
 # Schedule Service
 
 # Search
-
-# Type Here
 
 # Popular Searches
 
@@ -390,26 +386,28 @@ Call us: 1-800-399-2668
 
 Call us: 1-800-399-2668
 
-| 08:00AM | 09:00PM | 09:00AM | 05:00PM |
-| ------- | ------- | ------- | ------- |
+Get further assistance
+
+Open 08:00AM 09:00PM 09:00AM 05:00PM
 
 # SHOP FOR YOUR NEXT VEHICLE
 
 # NEED HELP
 
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+NEYour interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-# Roadside Assistance
+Roadside Assistance
 
-# For First Responders
+For First Responders
 
 
 
 
 # RESOURCES
 
-# Find a Dealer
+# RESOURCES
 
+- Find a Dealer
 - Mopar® Dealers by State
 - Recalls
 - Owner's Apps
@@ -472,20 +470,9 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 # By Brand, Year, and Model
 
-Select Brand
-
-Select Brand
-Alfa
-
-Select Year
-
-Select Year
-
-Select Model
-
-Select Model
-
-ADD VEHICLE
+| Select Brand | Select Year | Select Model |
+| ------------ | ----------- | ------------ |
+| Make         | alfa        | ADD VEHICLE  |
 
 # OR
 
@@ -498,17 +485,15 @@ REGISTER
 
 Please wait while we add your vehicle
 
-Vehicle Added Successfully!
+# Vehicle Added Successfully!
 
 Your vehicle has been added in your Garage.
 
-# Help us try to verify your ownership by providing the details below
+Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-*Indicates required field
 
 We’re sorry
 

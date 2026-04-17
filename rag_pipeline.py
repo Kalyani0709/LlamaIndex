@@ -19,7 +19,7 @@ client = OpenAI(
 )
 
 # ------------------ RETRIEVE ------------------
-def retrieve(query, top_k=5):
+def retrieve(query, top_k=10):
     vector = model.encode(query).tolist()
 
     results = qdrant.query_points(
@@ -55,18 +55,22 @@ def generate_answer(query, context):
         messages=[
             {
                 "role": "system",
-                "content": """You are a strict extraction assistant.
+                "content": """You are a precise extraction assistant.
 
 Rules:
-- If the answer exists in the context → return it EXACTLY
-- Do NOT rephrase
-- Do NOT summarize
-- Do NOT add extra explanation
+- If the answer exists directly in the context → return it EXACTLY
+- Do NOT rephrase unnecessarily
+- Do NOT add external knowledge
 - Do NOT mention sources or chunks
 - Do NOT change numbers
 
-If multiple answers exist:
-- Return the most relevant one
+- If the answer appears as a heading followed by content:
+    → return the heading + ALL content under it
+
+- If the section spans across multiple parts of the context:
+    → combine ALL relevant parts into one complete answer
+
+- Prefer copying sentences from the context over generating new ones
 
 If answer is not found:
 - Return exactly: I don't know

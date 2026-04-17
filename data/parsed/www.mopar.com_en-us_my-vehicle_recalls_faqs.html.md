@@ -44,11 +44,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
@@ -256,7 +254,7 @@ A remedy is currently available to fix all trucks affected by this safety recall
 
 After the recall is performed, owners are still able to have an alignment completed by following an approved alignment procedure.
 
-# Toe Adjustment with Welded Drag Link
+Toe Adjustment with Welded Drag Link
 
 FCA US LLC is voluntarily recalling U.S.-market pickup trucks to upgrade their tailgate locking mechanisms. The power locking mechanisms in the tailgates of certain pickups may break over time. If this were to happen, the vehicle's tailgate may unlatch.
 
@@ -266,7 +264,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 VINs are currently searchable on our recalls.mopar.com website.
 
-The redesigned-for-2019 Ram 1500, North American International Auto Show and Motor Trend Truck of the Year Award Winner, is not affected by these safety recalls. Its tailgate mechanism benefits from a new design that delivers enhanced.
+The redesigned-for-2019 Ram 1500, North American International Auto Show and Motor Trend Truck of the Year Award Winner, is not affected by these safety recalls. Its tailgate mechanism benefits from a new design that delivers enhanced
 
 
 
@@ -452,6 +450,7 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
+Select Brand
 alfa
 
 Select Year
@@ -475,7 +474,7 @@ REGISTER
 
 Please wait while we add your vehicle
 
-# Vehicle Added Successfully!
+Vehicle Added Successfully!
 
 Your vehicle has been added in your Garage.
 
@@ -485,14 +484,13 @@ NOTE: Provide your first and last name as they appear on the vehicle registratio
 
 *Indicates required field
 
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 
 
 
 
 
-# We’re sorry
+We’re sorry
 
 Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
@@ -500,7 +498,7 @@ Need additional assistance? Contact Us.
 
 CLOSE
 
-# Great news!
+Great news!
 
 Our latest records now identify you as the current owner of this vehicle. This will now be reflected on your online dashboard.
 
@@ -514,21 +512,22 @@ New  All    Dealer    Services  Recalls  Offers
 
 You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
-Don’t show this again
-
 REMOVE
 CANCEL
+Don’t show this again
+
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
 
-Buy 3 Tires Get the 4th for $11
+Buy 3 Tires Get the 4th for $1
 
 Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.
 
 Expires April 30th—so browse our tire offerings and contact your dealership today!
 
 Find Tires Offer Details
+
 View all fca brands
 
 - CHRYSLER
@@ -546,6 +545,8 @@ Your interactions and personal data may be collected on our websites and used by
 Chrysler, Dodge, Jeep, Ram, Mopar and HEMI are registered trademarks of FCA US LLC.
 
 ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., used with permission.
+
+
 
 
 
@@ -581,4 +582,3 @@ Cancel
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-

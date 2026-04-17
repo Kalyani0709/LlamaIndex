@@ -1,268 +1,8 @@
 [
   {
-    "url": "https://www.mopar.com/en-us/dashboard-warning-lights.html",
-    "raw": "data/raw\\www.mopar.com_en-us_dashboard-warning-lights.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_dashboard-warning-lights.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/services/tire-services.html",
-    "raw": "data/raw\\www.mopar.com_en-us_services_tire-services.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_services_tire-services.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us/shop/parts/bproauto.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_shop_parts_bproauto.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_shop_parts_bproauto.html.md"
-  },
-  {
     "url": "https://www.mopar.com/en-us/shop/parts/bproauto.html",
     "raw": "data/raw\\www.mopar.com_en-us_shop_parts_bproauto.html.html",
     "parsed": "data/parsed\\www.mopar.com_en-us_shop_parts_bproauto.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/services.html",
-    "raw": "data/raw\\www.mopar.com_en-us_services.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_services.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us/care/ram-care.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_care_ram-care.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_care_ram-care.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/care/flexcare-vehicle-protection/plan-details.html",
-    "raw": "data/raw\\www.mopar.com_en-us_care_flexcare-vehicle-protection_plan-details.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_care_flexcare-vehicle-protection_plan-details.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us/my-vehicle/owners-manual.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_my-vehicle_owners-manual.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_my-vehicle_owners-manual.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/service-maintenance/online-scheduling-service/schedule-an-appointment.html",
-    "raw": "data/raw\\www.mopar.com_en-us_service-maintenance_online-scheduling-service_schedule-an-appointment.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_service-maintenance_online-scheduling-service_schedule-an-appointment.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/assistance/collision-assistance.html",
-    "raw": "data/raw\\www.mopar.com_en-us_assistance_collision-assistance.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_assistance_collision-assistance.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/results.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_results.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_results.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/assistance/roadside-assistance.html",
-    "raw": "data/raw\\www.mopar.com_en-us_assistance_roadside-assistance.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_assistance_roadside-assistance.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/lemon-law.html",
-    "raw": "data/raw\\www.mopar.com_en-us_lemon-law.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_lemon-law.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/faqs.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_faqs.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_faqs.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/my-vehicle/vehicle-health-report/details.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_vehicle-health-report_details.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_vehicle-health-report_details.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/contact-us.html",
-    "raw": "data/raw\\www.mopar.com_en-us_contact-us.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_contact-us.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us/care/flexcare-vehicle-protection.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_care_flexcare-vehicle-protection.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_care_flexcare-vehicle-protection.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/shop/affiliated-accessories.html",
-    "raw": "data/raw\\www.mopar.com_en-us_shop_affiliated-accessories.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_shop_affiliated-accessories.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/services/schedule-a-service.html",
-    "raw": "data/raw\\www.mopar.com_en-us_services_schedule-a-service.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_services_schedule-a-service.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/shop/performance/jeep-performance-parts.html",
-    "raw": "data/raw\\www.mopar.com_en-us_shop_performance_jeep-performance-parts.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_shop_performance_jeep-performance-parts.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/shop/mopaw.html",
-    "raw": "data/raw\\www.mopar.com_en-us_shop_mopaw.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_shop_mopaw.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/shop/performance.html",
-    "raw": "data/raw\\www.mopar.com_en-us_shop_performance.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_shop_performance.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us.html",
-    "raw": "data/raw\\www.mopar.com_en-us.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us//sign-in.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us__sign-in.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us__sign-in.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/sign-in.html",
-    "raw": "data/raw\\www.mopar.com_en-us_sign-in.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_sign-in.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/takata-recalls.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_takata-recalls.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_takata-recalls.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/shop/accessories.html",
-    "raw": "data/raw\\www.mopar.com_en-us_shop_accessories.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_shop_accessories.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/directory.html",
-    "raw": "data/raw\\www.mopar.com_en-us_directory.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_directory.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/my-vehicle/vin-lookup.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_vin-lookup.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_vin-lookup.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/dodge-complete-performance-package.html",
-    "raw": "data/raw\\www.mopar.com_en-us_dodge-complete-performance-package.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_dodge-complete-performance-package.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/shop/merchandise.html",
-    "raw": "data/raw\\www.mopar.com_en-us_shop_merchandise.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_shop_merchandise.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/care/mopar-vehicle-protection/contact-a-specialist.html",
-    "raw": "data/raw\\www.mopar.com_en-us_care_mopar-vehicle-protection_contact-a-specialist.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_care_mopar-vehicle-protection_contact-a-specialist.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/ev-ownership.html",
-    "raw": "data/raw\\www.mopar.com_en-us_ev-ownership.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_ev-ownership.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/assistance/first-responders.html",
-    "raw": "data/raw\\www.mopar.com_en-us_assistance_first-responders.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_assistance_first-responders.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/services/cleaner-ingredient-information.html",
-    "raw": "data/raw\\www.mopar.com_en-us_services_cleaner-ingredient-information.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_services_cleaner-ingredient-information.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/technology/uconnect.html",
-    "raw": "data/raw\\www.mopar.com_en-us_technology_uconnect.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_technology_uconnect.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/care/mopar-vehicle-protection/contact.html",
-    "raw": "data/raw\\www.mopar.com_en-us_care_mopar-vehicle-protection_contact.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_care_mopar-vehicle-protection_contact.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/my-vehicle/maintenance-schedule.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_maintenance-schedule.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_maintenance-schedule.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/performance-catalogs.html",
-    "raw": "data/raw\\www.mopar.com_en-us_performance-catalogs.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_performance-catalogs.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/savings/jeep-rewards-mastercard.html",
-    "raw": "data/raw\\www.mopar.com_en-us_savings_jeep-rewards-mastercard.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_savings_jeep-rewards-mastercard.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/legal-trademarks.html",
-    "raw": "data/raw\\www.mopar.com_en-us_legal-trademarks.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_legal-trademarks.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/owners-information-sitemap.html",
-    "raw": "data/raw\\www.mopar.com_en-us_owners-information-sitemap.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_owners-information-sitemap.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/service-maintenance/essential-care.html",
-    "raw": "data/raw\\www.mopar.com_en-us_service-maintenance_essential-care.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_service-maintenance_essential-care.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/technology/smartphone-pairing.html",
-    "raw": "data/raw\\www.mopar.com_en-us_technology_smartphone-pairing.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_technology_smartphone-pairing.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/service-maintenance/express-lane.html",
-    "raw": "data/raw\\www.mopar.com_en-us_service-maintenance_express-lane.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_service-maintenance_express-lane.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/ev-ownership/level-2-charger.html",
-    "raw": "data/raw\\www.mopar.com_en-us_ev-ownership_level-2-charger.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_ev-ownership_level-2-charger.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/care/maintenance-schedule.html",
-    "raw": "data/raw\\www.mopar.com_en-us_care_maintenance-schedule.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_care_maintenance-schedule.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/care/flexcare-vehicle-protection.html",
-    "raw": "data/raw\\www.mopar.com_en-us_care_flexcare-vehicle-protection.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_care_flexcare-vehicle-protection.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/blog.html",
-    "raw": "data/raw\\www.mopar.com_en-us_blog.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_blog.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/service-maintenance/schedule-a-service.html",
-    "raw": "data/raw\\www.mopar.com_en-us_service-maintenance_schedule-a-service.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_service-maintenance_schedule-a-service.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us/my-vehicle/warranty.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_my-vehicle_warranty.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_my-vehicle_warranty.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us/shop/accessories.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_shop_accessories.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_shop_accessories.html.md"
   },
   {
     "url": "https://www.mopar.com",
@@ -270,89 +10,29 @@
     "parsed": "data/parsed\\www.mopar.com.md"
   },
   {
-    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/search.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_search.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_search.html.md"
+    "url": "https://www.mopar.com/en-us/shop/performance.html",
+    "raw": "data/raw\\www.mopar.com_en-us_shop_performance.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_shop_performance.html.md"
   },
   {
-    "url": "https://www.mopar.com/en-us/my-vehicle/vehicle-health-report.html%20",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_vehicle-health-report.html%20.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_vehicle-health-report.html%20.md"
+    "url": "https://www.mopar.com/en-us/assistance/roadside-assistance.html",
+    "raw": "data/raw\\www.mopar.com_en-us_assistance_roadside-assistance.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_assistance_roadside-assistance.html.md"
   },
   {
-    "url": "https://www.mopar.com/en-us/mopar-cap.html",
-    "raw": "data/raw\\www.mopar.com_en-us_mopar-cap.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_mopar-cap.html.md"
+    "url": "https://www.mopar.com/en-us/directory.html",
+    "raw": "data/raw\\www.mopar.com_en-us_directory.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_directory.html.md"
   },
   {
-    "url": "https://www.mopar.com/en-us/site-map.html",
-    "raw": "data/raw\\www.mopar.com_en-us_site-map.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_site-map.html.md"
+    "url": "https://www.mopar.com/en-us/service-coupons-and-offers.html#coupons-section",
+    "raw": "data/raw\\www.mopar.com_en-us_service-coupons-and-offers.html#coupons-section.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_service-coupons-and-offers.html#coupons-section.md"
   },
   {
-    "url": "https://www.mopar.com/en-us/my-garage/select-vehicle.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-garage_select-vehicle.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-garage_select-vehicle.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us/my-vehicle/dashboard.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_my-vehicle_dashboard.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_my-vehicle_dashboard.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/pickup-and-drop-off-service.html",
-    "raw": "data/raw\\www.mopar.com_en-us_pickup-and-drop-off-service.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_pickup-and-drop-off-service.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/my-vehicle/maintenance-records.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_maintenance-records.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_maintenance-records.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/shop/parts.html",
-    "raw": "data/raw\\www.mopar.com_en-us_shop_parts.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_shop_parts.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/my-vehicle/owners-manual.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_owners-manual.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_owners-manual.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us/technology/mobile-app.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_technology_mobile-app.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_technology_mobile-app.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/ramtrucks/en-us/my-garage/select-vehicle.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_my-garage_select-vehicle.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_my-garage_select-vehicle.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/my-vehicle/warranty.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_warranty.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_warranty.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/lifestyle/about-mopar.html",
-    "raw": "data/raw\\www.mopar.com_en-us_lifestyle_about-mopar.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_lifestyle_about-mopar.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/savings/financing.html",
-    "raw": "data/raw\\www.mopar.com_en-us_savings_financing.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_savings_financing.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/eco-diesel-warranty.html",
-    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_eco-diesel-warranty.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_eco-diesel-warranty.html.md"
-  },
-  {
-    "url": "https://www.mopar.com/en-us/care/flexcare-vehicle-protection/faqs.html",
-    "raw": "data/raw\\www.mopar.com_en-us_care_flexcare-vehicle-protection_faqs.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_care_flexcare-vehicle-protection_faqs.html.md"
+    "url": "https://www.mopar.com/en-us/service-maintenance/express-lane.html",
+    "raw": "data/raw\\www.mopar.com_en-us_service-maintenance_express-lane.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_service-maintenance_express-lane.html.md"
   },
   {
     "url": "https://www.mopar.com/en-us/savings/mastercard.html",
@@ -360,9 +40,79 @@
     "parsed": "data/parsed\\www.mopar.com_en-us_savings_mastercard.html.md"
   },
   {
-    "url": "https://www.mopar.com/en-us/technology/mobile-app.html",
-    "raw": "data/raw\\www.mopar.com_en-us_technology_mobile-app.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_technology_mobile-app.html.md"
+    "url": "https://www.mopar.com/en-us/service-maintenance/essential-care.html#essential-care-plan__view",
+    "raw": "data/raw\\www.mopar.com_en-us_service-maintenance_essential-care.html#essential-care-plan__view.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_service-maintenance_essential-care.html#essential-care-plan__view.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/care/flexcare-vehicle-protection.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_care_flexcare-vehicle-protection.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_care_flexcare-vehicle-protection.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/contact-us.html",
+    "raw": "data/raw\\www.mopar.com_en-us_contact-us.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_contact-us.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/eco-diesel-warranty.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_eco-diesel-warranty.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_eco-diesel-warranty.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/my-garage/select-vehicle.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_my-garage_select-vehicle.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_my-garage_select-vehicle.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/service-maintenance/schedule-a-service.html",
+    "raw": "data/raw\\www.mopar.com_en-us_service-maintenance_schedule-a-service.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_service-maintenance_schedule-a-service.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/takata-recalls.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_takata-recalls.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_takata-recalls.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/vehicle-health-report/details.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_vehicle-health-report_details.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_vehicle-health-report_details.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/lemon-law.html",
+    "raw": "data/raw\\www.mopar.com_en-us_lemon-law.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_lemon-law.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/takata-recalls.html#takata_vehicle_impacted",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_takata-recalls.html#takata_vehicle_impacted.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_takata-recalls.html#takata_vehicle_impacted.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/services/tire-services.html",
+    "raw": "data/raw\\www.mopar.com_en-us_services_tire-services.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_services_tire-services.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/dashboard.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_dashboard.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_dashboard.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/technology/smartphone-pairing.html",
+    "raw": "data/raw\\www.mopar.com_en-us_technology_smartphone-pairing.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_technology_smartphone-pairing.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-garage/select-vehicle.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-garage_select-vehicle.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-garage_select-vehicle.html.md"
   },
   {
     "url": "https://www.mopar.com/en-us/my-vehicle/current-model-year-coverage.html",
@@ -370,9 +120,154 @@
     "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_current-model-year-coverage.html.md"
   },
   {
-    "url": "https://www.mopar.com/ramtrucks/en-us/sign-in.html",
-    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_sign-in.html.html",
-    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_sign-in.html.md"
+    "url": "https://www.mopar.com/en-us/care/flexcare-vehicle-protection.html",
+    "raw": "data/raw\\www.mopar.com_en-us_care_flexcare-vehicle-protection.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_flexcare-vehicle-protection.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/performance-catalogs.html",
+    "raw": "data/raw\\www.mopar.com_en-us_performance-catalogs.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_performance-catalogs.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/owners-manual.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_owners-manual.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_owners-manual.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/blog.html",
+    "raw": "data/raw\\www.mopar.com_en-us_blog.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_blog.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/results.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_results.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_results.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/savings/financing.html",
+    "raw": "data/raw\\www.mopar.com_en-us_savings_financing.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_savings_financing.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us//sign-in.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us__sign-in.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us__sign-in.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/services/schedule-a-service.html",
+    "raw": "data/raw\\www.mopar.com_en-us_services_schedule-a-service.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_services_schedule-a-service.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/my-vehicle/dashboard.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_my-vehicle_dashboard.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_my-vehicle_dashboard.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/technology/uconnect.html",
+    "raw": "data/raw\\www.mopar.com_en-us_technology_uconnect.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_technology_uconnect.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/owners-information-sitemap.html",
+    "raw": "data/raw\\www.mopar.com_en-us_owners-information-sitemap.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_owners-information-sitemap.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/savings/jeep-rewards-mastercard.html",
+    "raw": "data/raw\\www.mopar.com_en-us_savings_jeep-rewards-mastercard.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_savings_jeep-rewards-mastercard.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/care/flexcare-vehicle-protection/contact-a-specialist.html",
+    "raw": "data/raw\\www.mopar.com_en-us_care_flexcare-vehicle-protection_contact-a-specialist.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_flexcare-vehicle-protection_contact-a-specialist.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/services/cleaner-ingredient-information.html",
+    "raw": "data/raw\\www.mopar.com_en-us_services_cleaner-ingredient-information.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_services_cleaner-ingredient-information.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/site-map.html",
+    "raw": "data/raw\\www.mopar.com_en-us_site-map.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_site-map.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/shop/mopaw.html",
+    "raw": "data/raw\\www.mopar.com_en-us_shop_mopaw.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_shop_mopaw.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/service-coupons-and-offers.html#coupons-section",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_service-coupons-and-offers.html#coupons-section.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_service-coupons-and-offers.html#coupons-section.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/vin-lookup.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_vin-lookup.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_vin-lookup.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/shop/affiliated-accessories.html",
+    "raw": "data/raw\\www.mopar.com_en-us_shop_affiliated-accessories.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_shop_affiliated-accessories.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/shop/accessories.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_shop_accessories.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_shop_accessories.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/service-maintenance/online-scheduling-service/schedule-an-appointment.html",
+    "raw": "data/raw\\www.mopar.com_en-us_service-maintenance_online-scheduling-service_schedule-an-appointment.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_service-maintenance_online-scheduling-service_schedule-an-appointment.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/shop/accessories.html",
+    "raw": "data/raw\\www.mopar.com_en-us_shop_accessories.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_shop_accessories.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/care/maintenance-schedule.html",
+    "raw": "data/raw\\www.mopar.com_en-us_care_maintenance-schedule.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_maintenance-schedule.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/care/flexcare-vehicle-protection/faqs.html",
+    "raw": "data/raw\\www.mopar.com_en-us_care_flexcare-vehicle-protection_faqs.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_flexcare-vehicle-protection_faqs.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/sign-in.html",
+    "raw": "data/raw\\www.mopar.com_en-us_sign-in.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_sign-in.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/maintenance-records.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_maintenance-records.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_maintenance-records.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/legal-trademarks.html",
+    "raw": "data/raw\\www.mopar.com_en-us_legal-trademarks.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_legal-trademarks.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/faqs.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_faqs.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_faqs.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us.html",
+    "raw": "data/raw\\www.mopar.com_en-us.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/dashboard-warning-lights.html",
+    "raw": "data/raw\\www.mopar.com_en-us_dashboard-warning-lights.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_dashboard-warning-lights.html.md"
   },
   {
     "url": "https://www.mopar.com/en-us/service-maintenance/find-dealer.html",
@@ -380,8 +275,183 @@
     "parsed": "data/parsed\\www.mopar.com_en-us_service-maintenance_find-dealer.html.md"
   },
   {
-    "url": "https://www.mopar.com/en-us/care/flexcare-vehicle-protection/contact-a-specialist.html",
-    "raw": "data/raw\\www.mopar.com_en-us_care_flexcare-vehicle-protection_contact-a-specialist.html.html",
-    "parsed": "data/parsed\\www.mopar.com_en-us_care_flexcare-vehicle-protection_contact-a-specialist.html.md"
+    "url": "https://www.mopar.com/en-us/care/mopar-vehicle-protection.html#prepaid_oil",
+    "raw": "data/raw\\www.mopar.com_en-us_care_mopar-vehicle-protection.html#prepaid_oil.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_mopar-vehicle-protection.html#prepaid_oil.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/service-maintenance/essential-care.html",
+    "raw": "data/raw\\www.mopar.com_en-us_service-maintenance_essential-care.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_service-maintenance_essential-care.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/shop/merchandise.html",
+    "raw": "data/raw\\www.mopar.com_en-us_shop_merchandise.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_shop_merchandise.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/assistance/collision-assistance.html",
+    "raw": "data/raw\\www.mopar.com_en-us_assistance_collision-assistance.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_assistance_collision-assistance.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/care/mopar-vehicle-protection.html#compare-section",
+    "raw": "data/raw\\www.mopar.com_en-us_care_mopar-vehicle-protection.html#compare-section.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_mopar-vehicle-protection.html#compare-section.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/contact-us.html#faq-content",
+    "raw": "data/raw\\www.mopar.com_en-us_contact-us.html#faq-content.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_contact-us.html#faq-content.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/services.html",
+    "raw": "data/raw\\www.mopar.com_en-us_services.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_services.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/technology/mobile-app.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_technology_mobile-app.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_technology_mobile-app.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/vehicle-health-report.html%20",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_vehicle-health-report.html%20.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_vehicle-health-report.html%20.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/care/mopar-vehicle-protection.html#tab-content-slides",
+    "raw": "data/raw\\www.mopar.com_en-us_care_mopar-vehicle-protection.html#tab-content-slides.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_mopar-vehicle-protection.html#tab-content-slides.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/dodge-complete-performance-package.html",
+    "raw": "data/raw\\www.mopar.com_en-us_dodge-complete-performance-package.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_dodge-complete-performance-package.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/pickup-and-drop-off-service.html",
+    "raw": "data/raw\\www.mopar.com_en-us_pickup-and-drop-off-service.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_pickup-and-drop-off-service.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/care/mopar-vehicle-protection.html",
+    "raw": "data/raw\\www.mopar.com_en-us_care_mopar-vehicle-protection.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_mopar-vehicle-protection.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/recalls/search.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_recalls_search.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_recalls_search.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/care/mopar-vehicle-protection.html#flexcare-tabbed-container",
+    "raw": "data/raw\\www.mopar.com_en-us_care_mopar-vehicle-protection.html#flexcare-tabbed-container.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_mopar-vehicle-protection.html#flexcare-tabbed-container.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/mopar-cap.html",
+    "raw": "data/raw\\www.mopar.com_en-us_mopar-cap.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_mopar-cap.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/assistance/first-responders.html",
+    "raw": "data/raw\\www.mopar.com_en-us_assistance_first-responders.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_assistance_first-responders.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/my-vehicle/warranty.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_my-vehicle_warranty.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_my-vehicle_warranty.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/warranty.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_warranty.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_warranty.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/sign-in.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_sign-in.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_sign-in.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/care/flexcare-vehicle-protection/plan-details.html",
+    "raw": "data/raw\\www.mopar.com_en-us_care_flexcare-vehicle-protection_plan-details.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_flexcare-vehicle-protection_plan-details.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/care/mopar-vehicle-protection/contact-a-specialist.html",
+    "raw": "data/raw\\www.mopar.com_en-us_care_mopar-vehicle-protection_contact-a-specialist.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_mopar-vehicle-protection_contact-a-specialist.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/lifestyle/about-mopar.html",
+    "raw": "data/raw\\www.mopar.com_en-us_lifestyle_about-mopar.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_lifestyle_about-mopar.html.md"
+  },
+  {
+    "url": "https://www.mopar.com#ownerEssentials",
+    "raw": "data/raw\\www.mopar.com#ownerEssentials.html",
+    "parsed": "data/parsed\\www.mopar.com#ownerEssentials.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/ev-ownership/level-2-charger.html",
+    "raw": "data/raw\\www.mopar.com_en-us_ev-ownership_level-2-charger.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_ev-ownership_level-2-charger.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/services/tire-services.html#tirefinder",
+    "raw": "data/raw\\www.mopar.com_en-us_services_tire-services.html#tirefinder.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_services_tire-services.html#tirefinder.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/shop/parts/bproauto.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_shop_parts_bproauto.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_shop_parts_bproauto.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/ev-ownership.html",
+    "raw": "data/raw\\www.mopar.com_en-us_ev-ownership.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_ev-ownership.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/service-coupons-and-offers.html#offers",
+    "raw": "data/raw\\www.mopar.com_en-us_service-coupons-and-offers.html#offers.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_service-coupons-and-offers.html#offers.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/shop/performance/jeep-performance-parts.html",
+    "raw": "data/raw\\www.mopar.com_en-us_shop_performance_jeep-performance-parts.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_shop_performance_jeep-performance-parts.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/shop/parts.html",
+    "raw": "data/raw\\www.mopar.com_en-us_shop_parts.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_shop_parts.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/care/ram-care.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_care_ram-care.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_care_ram-care.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/ramtrucks/en-us/my-vehicle/owners-manual.html",
+    "raw": "data/raw\\www.mopar.com_ramtrucks_en-us_my-vehicle_owners-manual.html.html",
+    "parsed": "data/parsed\\www.mopar.com_ramtrucks_en-us_my-vehicle_owners-manual.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/my-vehicle/maintenance-schedule.html",
+    "raw": "data/raw\\www.mopar.com_en-us_my-vehicle_maintenance-schedule.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_my-vehicle_maintenance-schedule.html.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/care/mopar-vehicle-protection.html#faq-section",
+    "raw": "data/raw\\www.mopar.com_en-us_care_mopar-vehicle-protection.html#faq-section.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_care_mopar-vehicle-protection.html#faq-section.md"
+  },
+  {
+    "url": "https://www.mopar.com/en-us/technology/mobile-app.html",
+    "raw": "data/raw\\www.mopar.com_en-us_technology_mobile-app.html.html",
+    "parsed": "data/parsed\\www.mopar.com_en-us_technology_mobile-app.html.md"
   }
 ]

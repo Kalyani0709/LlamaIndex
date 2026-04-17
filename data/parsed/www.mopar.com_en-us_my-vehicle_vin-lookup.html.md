@@ -10,16 +10,16 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
 Guest
 
-- Visit eStore
+# Visit
+
+- eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -106,7 +106,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-# Assistance
+Assistance
 
 # Roadside Assistance
 
@@ -172,8 +172,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 Enter your Vehicle Identification Number (VIN) to learn about your vehicle's features, specs and more.
 
-Enter your Vehicle Identification Number (VIN) to learn about your vehicle's features, specs and more.
-
 
 
 
@@ -184,12 +182,13 @@ Enter your Vehicle Identification Number (VIN) to learn about your vehicle's fea
 VIN*
 
 FIND YOUR VEHICLE
-HELP ME FIND MY VIN
-BROWSE MORE
+Help Me Find My Vin
 
-# Everything About Vin
+0/17
 
-# FREQUENTLY ASKED QUESTIONS
+FIND YOUR VEHICLE
+
+# Here's How to Find Your Vin
 
 # What is a VIN?
 
@@ -395,9 +394,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 CLOSE
 
-# Great news!
-
-
 
 
 
@@ -434,15 +430,15 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-# Explore FCA Brands
+# Brands
 
-View all fca brands:
+View all FCA brands:
 
 - CHRYSLER
 - Dodge
-- jeep®
+- Jeep®
 - Ram
-- fiat®
+- Fiat®
 - Alfa Romeo
 - Stellantis Pro One
 
@@ -458,7 +454,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
-Sign In Skip Sign In
+Sign In | Skip Sign In
 
 
 

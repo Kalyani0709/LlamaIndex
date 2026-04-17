@@ -61,13 +61,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -111,7 +108,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
+# Assistance
 
 # Roadside Assistance
 
@@ -135,11 +132,15 @@ Assistance
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
@@ -180,9 +181,7 @@ Life’s journey can be full of twists and turns, but financing your vehicle sho
 
 
 
-# mySFS App—and more
 
-You can proceed with confidence knowing that we’re here to support you every step of the way. Life’s journey can be full of twists and turns, but financing your vehicle shouldn’t be. Stellantis Financial Services (SFS) is dedicated to making your auto financing experience easy and hassle free. With features like auto pay, e-statements, the mySFS App—and more—you can proceed with confidence knowing that we’re here to support you every step of the way.
 
 # VALUABLE RESOURCES FOR YOUR FINANCING JOURNEY
 
@@ -308,7 +307,7 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 Select Brand
 
 Select Brand
-alfa
+Alfa
 
 Select Year
 
@@ -413,10 +412,11 @@ Sign In Skip Sign In
 
 
 
-Your preferred dealer has been successfully updated.
+
+# Your preferred dealer has been successfully updated.
 
 DISMISS
-Your preferred dealer has been successfully updated
+# Your preferred dealer has been successfully updated
 
 DISMISS
 Thanks for visiting
@@ -430,3 +430,4 @@ Cancel
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+

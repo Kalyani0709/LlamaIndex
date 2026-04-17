@@ -10,16 +10,16 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
-Guest
+, Guest
 
-# Visit
-
-- eStore
+- Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -44,13 +44,16 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
-# VIN Lookup
+
+VIN Lookup
 
 # Dashboard Lights
 
@@ -105,7 +108,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
+# Assistance
 
 # Roadside Assistance
 
@@ -171,8 +174,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-# EARN 7X POINTS ON ALL MOPAR® SERVICE, PARTS AND ACCESSORIES - EVERYDAY
+EARN 7X POINTS ON ALL MOPAR® SERVICE, PARTS AND ACCESSORIES - EVERYDAY
 
 APPLY NOW SIGN INTO YOUR ACCOUNT
 
@@ -215,8 +217,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-
 ENJOY EVERY DAY SPECIAL FINANCING
 
 Get 0% APR for six billing cycles every time you use your Jeep® Rewards Mastercard for dealership purchases of $499 or more. After that, a variable rate of 25.99% to 29.49% APR, based on the Prime Rate. Minimum monthly payments required. And don’t forget, your card also comes with other great benefits!
@@ -233,7 +233,7 @@ Get 0% APR for six billing cycles every time you use your Jeep® Rewards Masterc
 
 # EARN EVEN MORE WITH THE JEEP® REWARDS MASTERCARD®
 
-- $100 Statement Credit: Spend $100 within your first billing cycle after your account is open and earn a $100 statement credit1.
+- $100 STATEMENT CREDIT: Spend $100 within your first billing cycle after your account is open and earn a $100 statement credit1.
 - $1,000 Bonus Certificate: Earn a $1,000 bonus certificate toward your next new FCA US LLC vehicle when you spend $7,500 in your reward year.
 
 SPEND $500 ON MOPAR SERVICE, PARTS OR ACCESSORIES IN THE FIRST BILLING CYCLE AND EARN:
@@ -388,7 +388,7 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 Select Brand
 
 Select Brand
-Alfa
+alfa
 
 Select Year
 
@@ -458,7 +458,9 @@ REMOVE
 CANCEL
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
-# Our limited-time tire offer is here!
+# Special Offer
+
+Our limited-time tire offer is here!
 
 Buy 3 Tires Get the 4th for $1
 
@@ -468,7 +470,9 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-# View all FCA brands
+# Brands
+
+View all FCA brands:
 
 - CHRYSLER
 - Dodge

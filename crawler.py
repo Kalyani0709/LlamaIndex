@@ -43,7 +43,7 @@ def is_valid(url, base_domain):
         parsed.scheme in ["http", "https"]
         and parsed.netloc.endswith(base_domain)
         and not any(x in url.lower() for x in [
-            "#", "login", "account", "cart", "javascript", "mailto"
+            "login", "account", "cart", "javascript", "mailto"
         ])
     )
 

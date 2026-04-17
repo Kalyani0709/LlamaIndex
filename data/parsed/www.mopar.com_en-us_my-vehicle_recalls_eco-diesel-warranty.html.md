@@ -48,11 +48,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
-# Service Records
 
-# Recalls &#x26; Campaigns
 
 
 
@@ -112,15 +112,12 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
+# Assistance
 
-# Roadside Assistance
-
-# Collision Assistance
-
-# Branded Owner's App
-
-# Smartphone Pairing
+- Roadside Assistance
+- Collision Assistance
+- Branded Owner's App
+- Smartphone Pairing
 
 # Contact Us
 
@@ -128,11 +125,9 @@ Assistance
 
 # Lifestyle &#x26; Merchandise
 
-# Merchandise
-
-# Mopar® Blog
-
-# About Mopar®
+- Merchandise
+- Mopar® Blog
+- About Mopar®
 
 # Social Media
 
@@ -144,11 +139,9 @@ Assistance
 
 # Visit eStore
 
-# Find Tires
-
-# Schedule Appointment
-
-# Schedule Service
+- Find Tires
+- Schedule Appointment
+- Schedule Service
 
 # Search
 
@@ -278,13 +271,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-
 # SERVICE SCHEDULING MADE EASY
 
 Conveniently book an appointment with your preferred dealer
 
 SIGN IN
 CONTINUE AS GUEST
+
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
@@ -300,7 +293,6 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
-Select Brand
 alfa
 
 Select Year
@@ -388,8 +380,6 @@ View all fca brands
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Stellantis Pro One
-
-image
 
 
 

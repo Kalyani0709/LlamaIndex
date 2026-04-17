@@ -12,7 +12,10 @@ Resend Email
 Shop Now
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
 Guest
 
@@ -41,9 +44,15 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
+
+OK
+
+
 
 
 
@@ -102,7 +111,6 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-
 Assistance
 
 # Roadside Assistance
@@ -127,11 +135,15 @@ Assistance
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
@@ -142,6 +154,8 @@ Assistance
 # Schedule Service
 
 # Search
+
+Type Here
 
 # Popular Searches
 
@@ -179,13 +193,9 @@ Offer Disclaimer
 
 Offer valid March 1, 2026 – April 30, 2026. Available on select tires at participating dealerships. Continental, Dunlop, General, Giti, Laufenn, OMNIMAX, Toyo medium truck and Mickey Thompson Baja Pro X, Baja Pro XS, Baja Boss X, Baja Boss XS, plus all street tires, DOT-approved and non-DOT Drag tires, tubes, and wheels are excluded. Not compatible with the Tire Price Match Guarantee.
 
-# FIND TIRES
-
+FIND TIRES
 Find a Dealer
-
 PRINT/SAVE
-
-# Schedule Appointment
 
 # FIND THE RIGHT TIRE
 
@@ -199,17 +209,13 @@ Be sure to check out our latest offers regularly. It's the easiest way to save m
 
 NOTE: Additional savings may be available. Contact your local dealer for details.
 
-# Showing 7 Offers
+# Showing 7 offers
 
-| Get $100 Back by Online or Mail-In Rebate | Expires: 04/20/26                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Rebate                                    | Get $100 Back by Online or Mail-In Rebate via a Pirelli Visa® Prepaid Card with the purchase of 4 qualifying Pirelli tires. Offer valid 4/7/26 - 4/20/26.                                                                                                                                                                                                                                                                            |
-| Buy 3 Tires Get the 4th for $1\*          | Expires: 04/30/26                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Featured Offer                            | Buy 3 Tires Get the 4th for $1 — Offer valid March 1, 2026 – April 30, 2026. Available on select tires at participating dealerships. Continental, Dunlop, General, Giti, Laufenn, OMNIMAX, Toyo medium truck and Mickey Thompson Baja Pro X, Baja Pro XS, Baja Boss X, Baja Boss XS, plus all street tires, DOT-approved and non-DOT Drag tires, tubes, and wheels are excluded. Not compatible with the Tire Price Match Guarantee. |
-| General Tire                              | Expires: 04/30/26                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Featured Offer                            | Get up to $80 Back by Online Rebate General Tire Prepaid Mastercard® with the purchase of four (4) qualifying General Tires. Offer valid 3/1/26 - 4/30/26. Not stackable with the Buy 3 Tire Offer.                                                                                                                                                                                                                                  |
-| Get $80 Back by Online Rebate\*           | Expires: 04/30/26                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Rebate                                    | Earn a $100 rebate with the purchase of 4 qualifying Mickey Thompson® tires or 4 qualifying Mickey Thompson® wheels. Visit MickeyThompsonTires.com/offer for details. Offer valid 3/15/26 - 4/30/26.                                                                                                                                                                                                                                 |
+| Get $100 Back by Online or Mail-In Rebate | Expires: 04/20/26 | Rebate         | Get $100 Back by Online or Mail-In Rebate via a Pirelli Visa® Prepaid Card with the purchase of 4 qualifying Pirelli tires. Offer valid 4/7/26 - 4/20/26.                                                                                                                                                                                                                                                                            | Read More | Explore Details |
+| ----------------------------------------- | ----------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | -------------------- |
+| Buy 3 Tires Get the 4th for $1\*          | Expires: 04/30/26 | Featured Offer | Buy 3 Tires Get the 4th for $1 — Offer valid March 1, 2026 – April 30, 2026. Available on select tires at participating dealerships. Continental, Dunlop, General, Giti, Laufenn, OMNIMAX, Toyo medium truck and Mickey Thompson Baja Pro X, Baja Pro XS, Baja Boss X, Baja Boss XS, plus all street tires, DOT-approved and non-DOT Drag tires, tubes, and wheels are excluded. Not compatible with the Tire Price Match Guarantee. | Read More | Explore Details |
+| General Tire                              | Expires: 04/30/26 | Featured Offer | Get up to $80 Back by Online Rebate General Tire Prepaid Mastercard® with the purchase of four (4) qualifying General Tires. Offer valid 3/1/26 - 4/30/26. Not stackable with the Buy 3 Tire Offer.                                                                                                                                                                                                                                  | Read More | Explore Details |
+| Get $80 Back by Online Rebate\*           | Expires: 04/30/26 | Rebate         | Earn a $100 rebate with the purchase of 4 qualifying Mickey Thompson® tires or 4 qualifying Mickey Thompson® wheels. Visit MickeyThompsonTires.com/offer for details. Offer valid 3/15/26 - 4/30/26.                                                                                                                                                                                                                                 | Read More | Explore Details |
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -224,7 +230,8 @@ Expires: 04/30/26
 
 Get a $80 Firestone Prepaid Mastercard® with a purchase of 4 Firestone All Season tires. Offer valid 4/1/26 - 4/30/26.
 
-Read More | Explore Details
+Read More
+Explore Details
 
 # Get XXX Off
 
@@ -234,7 +241,8 @@ Expires: 12/31/26
 
 Spend More Save More — Maximum value: $50.00. Discount applies to regular retail pricing. Not valid with any offers of warranty work or on the sale of tires and batteries. Not valid on special order items. Offer valid at participating FCA US LLC dealers only. Customer is responsible for local tax and Shop Supplies fee. Valid for most makes and models. One coupon per vehicle. Must present original coupon upon arrival for initial service. See Service Advisor for complete details. Offer expires 12/31/2026.
 
-Read More | Explore Details
+Read More
+Explore Details
 
 # 10%* off Dealership Services
 
@@ -244,11 +252,8 @@ Expires: 12/31/26
 
 10%* off Dealership Services — Discount on service and/or parts purchase. Total purchase must be $15 or more. Redeemable at our dealership only. Not applicable to previous charges or existing accounts. Not redeemable for cash or body shop repairs. Must present the original coupon upon arrival for initial service. Not valid with other offers. Customer is responsible for local tax and Shop Supplies fee. Valid for most makes and models. See Service Advisor for complete details. Maximum Value: $200.00. Offer expires 12/31/2026.
 
-Read More | Explore Details
-
-# Show More
-
-# Featured Offer
+Read More
+Explore Details
 
 # DISCLAIMER
 
@@ -256,9 +261,8 @@ Offer valid March 1, 2026 – April 30, 2026. Available on select tires at parti
 
 OFFER EXPIRES 04/30/26
 
-SCHEDULE NOW | PRINT
-
-# Featured Offer
+SCHEDULE NOW
+PRINT
 
 # DISCLAIMER
 
@@ -266,11 +270,10 @@ Maximum value: $50.00. Discount applies to regular retail pricing. Not valid wit
 
 OFFER EXPIRES 12/31/26
 
-SCHEDULE NOW | PRINT
+SCHEDULE NOW
+PRINT
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-SCHEDULE NOW | PRINT
 
 
 
@@ -282,8 +285,6 @@ Discount on service and/or parts purchase. Total purchase must be $15 or more. R
 # OFFER EXPIRES
 
 12/31/26
-
-SCHEDULE NOW PRINT
 
 SCHEDULE NOW PRINT
 
@@ -467,47 +468,57 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-# Dodge Ram Trucks
+Dodge Ram Trucks
 
 # Selected below
 
-Clear
+# Clear
 
-# Search Radius
+# 10 Miles
 
-- 10 Miles
-- 25 Miles
-- 50 Miles
-- 100 Miles
+# 25 Miles
+
+# 50 Miles
+
+# 100 Miles
 
 # Search
 
 Dealer Name
 
-Current location not detected; please enter a location using a ZIP Code
+Current location not detected; sho
+
+Please enter a location using a C
 
 Based on Your Browser or Device
 
 # Select Vehicle Type
 
-# Location Information
+# ZIP Code
 
-Please enter a valid 5-digit ZIP Code
+Please enter a valid 5-digit ZIP C
 
 Please enter a valid ZIP code.
 
-City, State
+# City, State
 
-Current Location: Location unavailable. Please select
+Current Location
 
-Search By
+Location unavailable. Please sele
 
-- All Vehicles
-- Electric Vehicle
+Location unavailable. Please sele
 
-# Shop for Your Next Vehicle
+# Search By
 
-# Need Help
+All Vehicles
+
+Electric Vehicle
+
+no oss
+
+# SHOP FOR YOUR NEXT VEHICLE
+
+# NEED HELP
 
 - Roadside Assistance
 - For First Responders
@@ -515,7 +526,7 @@ Search By
 - FAQs
 - Site Map
 
-# Resources
+# RESOURCES
 
 - Find a Dealer
 - Mopar® Dealers by State
@@ -527,11 +538,13 @@ Search By
 - Lemon Law, Warranty &#x26; Repair Help
 - Parts &#x26; Accessory Brochures
 
-# Owner's Info Sitemap
+Y Owners Info Sitemap
 
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # For Dealers
+
+
 
 
 
@@ -580,8 +593,9 @@ Skip Sign in
 
 Add a vehicle by selecting Brand, Year, and Model or sign into your account to add by VIN.
 
-- By Brand, Year, and Model
-- Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+# By Brand, Year, and Model
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Select Brand
 
@@ -659,7 +673,6 @@ Don’t show this again
 
 REMOVE
 CANCEL
-
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -706,9 +719,7 @@ DISMISS
 
 
 
-
-
-# Thanks for visiting
+Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 

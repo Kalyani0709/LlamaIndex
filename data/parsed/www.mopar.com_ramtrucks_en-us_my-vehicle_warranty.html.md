@@ -10,16 +10,13 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
 EN / US
 
-, Guest
+Guest
 
-# Visit
-
-- eStore
+- Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -44,11 +41,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
@@ -107,9 +102,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-
-# Assistance
-
+Assistance
 # Roadside Assistance
 
 # Collision Assistance
@@ -132,15 +125,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Social Media
 
-# Instagram
-
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
 # Visit eStore
 
@@ -183,15 +172,15 @@ Sign in today to view your complete owner's manual—plus video tutorials, your 
 
 
 
-
-
 # Vehicle Information at Your Fingertips
 
 Get to know the full capabilities of your vehicle and how to keep it running strong with your online vehicle resource center. Sign in today to view your complete owner's manual—plus video tutorials, your vehicle’s warranty and everything else in your glovebox—available anytime, anywhere. Don't have your vehicle added? Add it now to start exploring.
 
-SIGN IN Select a Vehicle View Owner’s Manual Sitemap
+SIGN IN Select a Vehicle
 
-# Online Publications at a Glance
+View Owner’s Manual Sitemap
+
+# ONLINE PUBLICATIONS AT A GLANCE
 
 - Owner’s Manual
 - Warranty Coverage
@@ -270,29 +259,18 @@ Privacy Policy
 
 
 
-
-
-
-# Data Privacy Framework Policy
-
-# Manage Your Privacy Choices
-
-# Cookie Settings
-
+Data Privacy Framework Policy
 # SERVICE SCHEDULING MADE EASY
 
 Conveniently book an appointment with your preferred dealer
 
-# SIGN IN
-
+SIGN IN
 CONTINUE AS GUEST
-
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
 
-# SIGN IN
-
+SIGN IN
 Skip Sign in
 
 # Select a Vehicle
@@ -303,13 +281,15 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
+Select Brand
+
+Select Year
+
 Select Year
 
 Select Model
 
-Make
-
-alfa
+Select Model
 
 ADD VEHICLE
 
@@ -319,7 +299,8 @@ ADD VEHICLE
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
-SIGN IN REGISTER
+SIGN IN
+REGISTER
 
 Please wait while we add your vehicle
 
@@ -328,6 +309,8 @@ Vehicle Added Successfully!
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Your vehicle has been added in your Garage.
+
+
 
 
 
@@ -407,18 +390,13 @@ ALFA ROMEO and FIAT are registered trademarks of FCA Group Marketing S.p.A., use
 
 FCA US LLC strives to ensure that its website is accessible to individuals with disabilities. Should you encounter an issue accessing any content on Mopar.com, please Contact Us or call at 1-800-399-2668, for further assistance or to report a problem. Access to https://fcagroup.my.site.com/Mopar/s/knowledge?language=en_US is subject to FCA US LLC’s Privacy Policy and Terms of Use.
 
-# Select a vehicle to explore.
+Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
-Sign in (or create an account) to receive access to even more exciting content
+Sign In (or create an account) to receive access to even more exciting content.
 
-Sign In
 Skip Sign In
 
 Your preferred dealer has been successfully updated.
-
-DISMISS
-
-Your preferred dealer has been successfully updated
 
 DISMISS
 
@@ -426,10 +404,9 @@ Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue
-Cancel
+Continue Cancel
 
-# modal title
+modal title
 
 One moment please
 

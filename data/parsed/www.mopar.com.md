@@ -10,6 +10,7 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
 EN / US
@@ -48,7 +49,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-VIN Lookup
+# VIN Lookup
 
 # Dashboard Lights
 
@@ -209,6 +210,9 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
+
+
+
 Get more out of every mile with our limited-time offer. Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.
 
 # 4.26 Is HEMI® Day—Gear Up with FAST-MOVING MERCH TODAY
@@ -253,7 +257,6 @@ Schedule Appointment
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-Connected Services
 
 
 
@@ -271,27 +274,49 @@ Manuals, Warranty &#x26; More
 
 A truly personalized ownership experience awaits you.
 
+xcvbn
+
+cvbn
+
+xcvbn
+
+cvbn
+
+cvbn
+
 # CUSTOM DASHBOARD
 
 Get important alerts and recall notifications, access your connected services, check out your warranty coverage--and more. All personalized and tailored to you and your vehicle.
+
+Personalized Accessible 24/7
 
 # YOUR PROFILE &#x26; GARAGE
 
 Create and update your account, manage the vehicles in your garage, and view all of your coverage and subscriptions, anytime, anywhere. Even link your social account for easy access.
 
+Easy to Manage All About You
+
 # DIGITAL GLOVEBOX
 
 All of your important vehicle resources, only a click away. Get to know your vehicle's features, access your owner's manual and warranty, explore helpful how-to-videos, and much more.
+
+Handy &#x26; Convenient Anytime, Anywhere
 
 # VEHICLE SERVICE RECORDS
 
 Forget the paperwork and access your vehicle's maintenance history online and all in one place. View dealer service records automatically and add other new service records with ease.
 
+Saves Time All in One Place
+
 # PERSONALIZED CONTENT &#x26; MORE
 
 Find valuable offers from your dealership. Explore merchandise and product offers featuring your favorite brand. View your branded credit card points and more. It's all about you.
 
-Not signed up yet? Register or sign-in now to take your ownership journey to a new level.
+Special Features Tailored to You
+
+# Not signed up yet?
+
+Register or sign-in now to take your ownership journey to a new level.
 
 SIGN IN
 
@@ -318,15 +343,23 @@ Your preferred and nearest dealers
 
 Apparel, garage gear and more
 
-Ready for even more deals on the service you trust? Look no further. VIEW ALL OFFERS
+# Ready for even more deals on the service you trust? Look no further.
 
-When your vehicle needs service, our specialists are ready to help. Find A Dealer
+VIEW ALL OFFERS
 
-When it comes to your favorite brand, we have even more in store. SHOP MERCHANDISE
+# When your vehicle needs service, our specialists are ready to help.
+
+Find A Dealer
+
+# When it comes to your favorite brand, we have even more in store.
+
+SHOP MERCHANDISE
 
 # HERE WHEN YOU NEED US
 
-Have a question or need some help? We're here for you. Explore the site or contact us by chat or phone - whichever works best for you.
+Have a question or need some help? We're here for you.
+
+Explore the site or contact us by chat or phone - whichever works best for you.
 
 # Vehicle Health Report
 
@@ -348,7 +381,7 @@ Chat with us
 
 Call us: 1-800-399-2668
 
-Get further assistance
+# Get further assistance
 
 | Open    | Open    |
 | ------- | ------- |
@@ -364,6 +397,8 @@ Your interactions and personal data may be collected on our websites and used by
 # ED HELP
 
 # Roadside Assistance
+
+
 
 
 
@@ -409,7 +444,7 @@ For First Responders
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-# RVICE SCHEDULING MADE EASY
+# SERVICE SCHEDULING MADE EASY
 
 Conveniently book an appointment with your preferred dealer
 
@@ -466,6 +501,8 @@ Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
 *Indicates required field
 
 
@@ -496,22 +533,21 @@ New  All    Dealer    Services  Recalls  Offers
 
 You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
+REMOVE
+CANCEL
 Don’t show this again
-
-REMOVE      CANCEL
 
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
 
-Buy 3 Tires Get the 4th for $1 1
+Buy 3 Tires Get the 4th for $1
 
 Save on trusted tire brands and professional installation from the Mopar® experts who know your vehicle best to keep your ride running at peak performance.
 
 Expires April 30th—so browse our tire offerings and contact your dealership today!
 
 Find Tires Offer Details
-
 View all fca brands
 
 - CHRYSLER
@@ -566,3 +602,4 @@ Cancel
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+

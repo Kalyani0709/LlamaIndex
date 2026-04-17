@@ -10,18 +10,14 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
-es / us
-
-en / ca
-
-fr / ca
-
-, Guest
+Guest
 
 - Visit eStore
 - Find Tires
@@ -57,7 +53,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-# VIN Lookup
+VIN Lookup
 
 # Dashboard Lights
 
@@ -65,10 +61,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Service
 
-- Find a Dealer
-- Schedule Appointment
-- Find Tires
-- FlexCare Vehicle Protection
+# Find a Dealer
+
+# Schedule Appointment
+
+# Find Tires
+
+# FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -237,8 +236,7 @@ Learn more about pairing your smartphone with your Uconnect radio to get the mos
 
 
 
-# GET THE MOST OUT OF YOUR SMARTPHONE
-
+GET THE MOST OUT OF YOUR SMARTPHONE
 Stay in touch and in control of your vehicle like never before with our all-new Branded Vehicle Apps. Access your digital glovebox, schedule service visits, view special offers, manage your connected services and much more-right from your fingertips.
 
 LEARN MORE
@@ -249,18 +247,13 @@ LEARN MORE
 
 # Uconnect® Bluetooth Pairing Guide
 
-# Step 1: Complete the following steps on the system:
-
+1. Complete the following steps on the system:
 1. First, press the 'Phone' icon on the Uconnect® Touch Screen.
 2. Press 'Yes'
-
-# Step 2: Complete the following steps in the phone:
-
+2. Complete the following steps in the phone:
 1. Select 'Uconnect' as the paired device.
 2. When prompted on the phone, enter the 4-digit PIN number shown on the Uconnect Touch Screen and accept.
-
-# Step 3: Complete the following steps on the system
-
+3. Complete the following steps on the system:
 1. Once paired, you can set your phone as the favorite by pressing 'Yes.'
 2. Your phone is now paired and ready for hands-free calling.
 3. Press the Uconnect Phone button on your steering wheel to begin.
@@ -286,7 +279,8 @@ LEARN MORE
 
 our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-text messaging through your system doesn't work
+Text messaging through your system doesn't work
+
 
 
 
@@ -348,6 +342,7 @@ text messaging through your system doesn't work
 
 
 
+
 # Uconnect® 3 with the 5-Inch Touchscreen
 
 # Disconnecting a Specific Smartphone or Bluetooth® Audio Device
@@ -400,8 +395,6 @@ Your interactions and personal data may be collected on our websites and used by
 
 1. Step 1: Complete the following steps on the system: First, press the 'Phone' icon on the Uconnect® Touch Screen. Press 'Yes'
 2. Step 2: Complete the following steps in the phone: Select 'Uconnect' as the paired device. When prompted on the phone, enter the 4-digit PIN number shown on the Uconnect Touch Screen and accept.
-
-
 
 
 
@@ -539,11 +532,11 @@ Select Brand
 Select Brand
 Alfa
 
-Year
+Select Year
 
 Select Year
 
-Model
+Select Model
 
 Select Model
 
@@ -619,9 +612,9 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-# Explore FCA Brands
+# FCA Brands
 
-View all FCA brands:
+View all fca brands
 
 - CHRYSLER
 - Dodge

@@ -44,11 +44,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
@@ -108,15 +106,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
 
-# Roadside Assistance
+# Assistance
 
-# Collision Assistance
-
-# Branded Owner's App
-
-# Smartphone Pairing
+- Roadside Assistance
+- Collision Assistance
+- Branded Owner's App
+- Smartphone Pairing
 
 # Contact Us
 
@@ -124,11 +120,9 @@ Assistance
 
 # Lifestyle &#x26; Merchandise
 
-# Merchandise
-
-# Mopar® Blog
-
-# About Mopar®
+- Merchandise
+- Mopar® Blog
+- About Mopar®
 
 # Social Media
 
@@ -140,11 +134,9 @@ Assistance
 
 # Visit eStore
 
-# Find Tires
-
-# Schedule Appointment
-
-# Schedule Service
+- Find Tires
+- Schedule Appointment
+- Schedule Service
 
 # Search
 
@@ -171,6 +163,8 @@ Assistance
 # EVEN MORE WAYS TO PERSONALIZE
 
 our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+
 
 
 
@@ -243,6 +237,10 @@ Shop Now Find A Dealer
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
+# Let the Sky In—And Keep the Elements Out
+
+Experience the road like never before with Clearlidz Clear Roof Panels — the ultimate upgrade for Jeep® Wrangler and Gladiator owners who crave open-air freedom and panoramic views without sacrificing protection.
+
 
 
 
@@ -283,11 +281,10 @@ Whether you're navigating rugged terrain or weaving through overgrown trails, ME
 - Maintenance Schedule
 - Warranty Information
 - Lemon Law, Warranty &#x26; Repair Help
+- our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 - Parts &#x26; Accessory Brochures
 - Owners Info Sitemap
 - FlexCare Vehicle Protection
-
-our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 
 
@@ -347,6 +344,7 @@ Select Brand
 
 
 
+
 # Year
 
 Select Year
@@ -399,9 +397,7 @@ GOT IT!
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-# New
-
-All Dealer Services Recalls Offers
+New  All    Dealer      Services  Recalls        Offers
 
 
 
@@ -462,7 +458,7 @@ DISMISS
 
 
 
-# Thanks for visiting
+Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 

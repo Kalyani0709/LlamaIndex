@@ -15,7 +15,7 @@ Learn More
 
 EN / US
 
-Guest
+, Guest
 
 # Visit
 
@@ -59,13 +59,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -182,7 +179,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 Enhance your vehicle with authentic Mopar® accessories to create a driving experience all your own. Explore the eStore for hundreds of offerings to fit your style—and be sure to check out the new Mopar® Customizer to bring your personalized dream vehicle to life.
 
+Enhance your vehicle with authentic Mopar® accessories to create a driving experience all your own. Explore the eStore for hundreds of offerings to fit your style—and be sure to check out the new Mopar® Customizer to bring your personalized dream vehicle to life.
+
 # Celebrating Decades of Trail-Built Toughness
+
+Jeep® brand and Jeep Performance Parts (JPP) by Mopar are heading back to Moab, Utah to celebrate the 60th Easter Jeep Safari with our boldest-ever lineup of trail-ready concept vehicles. Follow us below and see what happens when legendary performance meets the unforgettable red-rock landscape.
 
 Jeep® brand and Jeep Performance Parts (JPP) by Mopar are heading back to Moab, Utah to celebrate the 60th Easter Jeep Safari with our boldest-ever lineup of trail-ready concept vehicles. Follow us below and see what happens when legendary performance meets the unforgettable red-rock landscape.
 
@@ -283,9 +284,13 @@ Shop Now
 
 # Mirrors
 
-Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+Shop Now
 
 # Door Handles
+
+Shop Now
+
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 
 
@@ -317,7 +322,9 @@ Kick-start your new adventure by optimizing your Jeep® Brand Vehicle with genui
 
 Select a brand and model below to get started.
 
-Explore more Features
+/content/dam/mopar/dreamCards/
+
+# Explore more Features
 
 # Browse Our Accessory Brochures
 
@@ -332,34 +339,55 @@ Explore more Features
 
 Mopar® Accessory Brochure - Dodge Charger Daytona
 
-# Explore More
+# Dodge Durango
 
-- Dodge Durango
-- Mopar® Accessory Brochure - Dodge Durango
-- Explore More
-- Dodge Hornet
-- Mopar® Accessory Brochure - Dodge Hornet
-- Explore More
-- Fiat 500e
-- Mopar® Accessory Brochure - Fiat 500e
-- Explore More
-- Jeep Wrangler
-- Mopar® Accessory Brochure - Jeep® Wrangler
-- Explore More
-- Dodge Durango
-- Mopar® Accessory Brochure - Jeep® Gladiator
-- Explore More
-- Jeep Grand Cherokee L
-- Jeep® Performance Parts Catalog
-- Explore More
-- Jeep Grand Cherokee L
-- Mopar® Accessory Brochure - Jeep® Grand Cherokee WL
-- Explore More
-- Ram 1500
-- Mopar® Accessory Brochure - Jeep® Grand Wagoneer
-- Explore More
-- Jeep Cherokee
-- Mopar® Accessory Brochure - Jeep® Cherokee
+Mopar® Accessory Brochure - Dodge Durango
+
+Explore More
+
+# Dodge Hornet
+
+Mopar® Accessory Brochure - Dodge Hornet
+
+Explore More
+
+# Fiat 500e
+
+Mopar® Accessory Brochure - Fiat 500e
+
+Explore More
+
+# Jeep Wrangler
+
+Mopar® Accessory Brochure - Jeep® Wrangler
+
+Explore More
+
+# Dodge Durango
+
+Mopar® Accessory Brochure - Jeep® Gladiator
+
+Explore More
+
+# Jeep Grand Cherokee L
+
+Jeep® Performance Parts Catalog
+
+# Jeep Grand Cherokee L
+
+Mopar® Accessory Brochure - Jeep® Grand Cherokee WL
+
+Explore More
+
+# Ram 1500
+
+Mopar® Accessory Brochure - Jeep® Grand Wagoneer
+
+Explore More
+
+# Jeep Cherokee
+
+Mopar® Accessory Brochure - Jeep® Cherokee
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -615,7 +643,7 @@ Conveniently book an appointment with your preferred dealer
 
 # SIGN IN
 
-# CONTINUE AS GUEST
+CONTINUE AS GUEST
 
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
@@ -758,3 +786,4 @@ modal title
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+

@@ -44,11 +44,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
@@ -61,13 +59,10 @@ VIN Lookup
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -114,10 +109,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Assistance
 
-- Roadside Assistance
-- Collision Assistance
-- Branded Owner's App
-- Smartphone Pairing
+# Roadside Assistance
+
+# Collision Assistance
+
+# Branded Owner's App
+
+# Smartphone Pairing
 
 # Contact Us
 
@@ -125,9 +123,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-- Merchandise
-- Mopar® Blog
-- About Mopar®
+# Merchandise
+
+# Mopar® Blog
+
+# About Mopar®
 
 # Social Media
 
@@ -139,9 +139,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Visit eStore
 
-- Find Tires
-- Schedule Appointment
-- Schedule Service
+# Find Tires
+
+# Schedule Appointment
+
+# Schedule Service
 
 # Search
 
@@ -190,24 +192,26 @@ watch video
 
 Access everything you need right from your smartphone - anytime, anywhere.
 
-- APPLE STORE
-- GOOGLE PLAY
+| APPLE STORE | GOOGLE PLAY |
+| ----------- | ----------- |
 
 # Available Apps
 
-- Jeep Cherokee Chrysler app
-- Jeep Cherokee Dodge app
-- Jeep Cherokee Jeep app
-- Jeep Cherokee Ram app
-- Wagoneer app
-- Jeep Cherokee FIAT app
-- Jeep Cherokee Alfa Romeo app
+| Jeep Cherokee | Chrysler app   |
+| ------------- | -------------- |
+| Jeep Cherokee | Dodge app      |
+| Jeep Cherokee | Jeep app       |
+| Jeep Cherokee | Ram app        |
+| Wagoneer app  |                |
+| Jeep Cherokee | FIAT app       |
+| Jeep Cherokee | Alfa Romeo app |
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # MY DEALER
 
 MY DEALER
+
 
 
 
@@ -221,6 +225,8 @@ No problem—simply use the My Dealer feature to find your preferred dealership�
 # MY GARAGE AND DIGITAL GLOVEBOX
 
 Easily access your vehicle’s info—including the owner’s manual, service history and more—with the My Garage and Digital Glovebox features.
+
+# vehicle health report
 
 # VEHICLE HEALTH REPORT AND RECALL ALERT
 
@@ -263,7 +269,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-# For Dealers
+For Dealers
 
 # Mopar® Repair Connection
 
@@ -335,7 +341,7 @@ alfa
 
 # OR
 
-# By VIN
+By VIN
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
@@ -371,7 +377,7 @@ GOT IT!
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-# All Dealer Services Recalls Offers
+All Dealer Services Recalls Offers
 
 
 

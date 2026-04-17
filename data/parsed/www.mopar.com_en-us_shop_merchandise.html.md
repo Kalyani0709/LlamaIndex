@@ -10,16 +10,12 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
-EN / US
-
-es / us
-
-en / ca
-
-fr / ca
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
 Guest
 
@@ -48,11 +44,9 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
@@ -88,9 +82,10 @@ VIN Lookup
 - DrivePlusSM Mastercard®
 - Jeep® Rewards Mastercard®
 
-# Buy 3 Tires Get the 4th for $1
+# Promotions
 
-# Vehicle Financing
+- Buy 3 Tires Get the 4th for $1
+- Vehicle Financing
 
 # Parts &#x26; Accessories
 
@@ -118,10 +113,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Assistance
 
-- Roadside Assistance
-- Collision Assistance
-- Branded Owner's App
-- Smartphone Pairing
+# Roadside Assistance
+
+# Collision Assistance
+
+# Branded Owner's App
+
+# Smartphone Pairing
 
 # Contact Us
 
@@ -129,25 +127,35 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-- Merchandise
-- Mopar® Blog
-- About Mopar®
+# Merchandise
+
+# Mopar® Blog
+
+# About Mopar®
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
-- Find Tires
-- Schedule Appointment
-- Schedule Service
+# Find Tires
+
+# Schedule Appointment
+
+# Schedule Service
 
 # Search
+
+# Type Here
 
 # Popular Searches
 
@@ -259,6 +267,9 @@ Your interactions and personal data may be collected on our websites and used by
 
 # EXPLORE OTHER POPULAR BRANDS
 
+SHOP NOW
+
+
 
 
 Jeep® Brand Gear
@@ -274,11 +285,9 @@ Jeep® Brand Gear
 
 # MORE IN STORE
 
-# Parts
-
-# Accessories
-
-# Performance
+- Parts
+- Accessories
+- Performance
 
 # SHOP FOR YOUR NEXT VEHICLE
 
@@ -301,6 +310,8 @@ Jeep® Brand Gear
 - Warranty Information
 
 our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+
 
 
 
@@ -369,27 +380,25 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 
 
-# By Brand, Year, and Model
 
-# Select Brand
+
+# By Brand, Year, and Model
 
 Select Brand
 
-# Year
+Select Brand
+
+Year
 
 Select Year
 
-# Model
+Model
 
 Select Model
 
-# MakeMake
+ADD VEHICLE
 
-alfa
-
-# ADD VEHICLE
-
-OR
+# OR
 
 # By VIN
 
@@ -404,7 +413,7 @@ Please wait while we add your vehicle
 
 Your vehicle has been added in your Garage.
 
-# Help us try to verify your ownership by providing the details below
+Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -414,7 +423,7 @@ NOTE: Provide your first and last name as they appear on the vehicle registratio
 
 Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
-# Need additional assistance? Contact Us.
+Need additional assistance? Contact Us.
 
 CLOSE
 
@@ -429,15 +438,28 @@ GOT IT!
 
 
 
+
+
 Notifications
 
-You are permanently removing this notification from your Owner Site Notification Feed.
+# New
 
-Do you wish to proceed?
+# All
+
+# Dealer
+
+# Services
+
+# Recalls
+
+# Offers
+
+You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
 Don’t show this again
 REMOVE
 CANCEL
+
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -470,9 +492,8 @@ FCA US LLC strives to ensure that its website is accessible to individuals with 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
 Sign In
-Y  Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-your preferred dealer has been successfully updated.
+Skip Sign In
+Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 DISMISS
 
@@ -494,4 +515,3 @@ Cancel
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-

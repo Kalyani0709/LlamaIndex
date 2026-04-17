@@ -10,10 +10,12 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
-
 Learn More
 
-EN / US
+- EN / US
+- es / us
+- en / ca
+- fr / ca
 
 Guest
 
@@ -42,14 +44,16 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-- Maintenance Schedule
-- Service Records
-- Recalls &#x26; Campaigns
+# Maintenance Schedule
+
+# Service Records
+
+# Recalls &#x26; Campaigns
 
 
 
 
-# VIN Lookup
+VIN Lookup
 
 # Dashboard Lights
 
@@ -104,13 +108,15 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-
 # Assistance
 
-- Roadside Assistance
-- Collision Assistance
-- Branded Owner's App
-- Smartphone Pairing
+# Roadside Assistance
+
+# Collision Assistance
+
+# Branded Owner's App
+
+# Smartphone Pairing
 
 # Contact Us
 
@@ -118,9 +124,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-- Merchandise
-- Mopar® Blog
-- About Mopar®
+# Merchandise
+
+# Mopar® Blog
+
+# About Mopar®
 
 # Social Media
 
@@ -132,9 +140,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Visit eStore
 
-- Find Tires
-- Schedule Appointment
-- Schedule Service
+# Find Tires
+
+# Schedule Appointment
+
+# Schedule Service
 
 # Search
 
@@ -163,8 +173,6 @@ our interactions and personal data may be collected on our websites and used by 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 Jeep® brand and Jeep Performance Parts (JPP) by Mopar are heading back to Moab, Utah to celebrate the 60th Easter Jeep Safari with our boldest-ever lineup of trail-ready concept vehicles. Follow us below and see what happens when legendary performance meets the unforgettable red-rock landscape.
-
-
 
 
 
@@ -226,11 +234,18 @@ Jeep® Performance Parts Lift Kit
 
 
 
+
+
+
 # Shop Now
 
 # JPP High-Performance Windshield Wiper
 
+Shop Now
+
 # JPP High-Top Steel Fender
+
+Shop Now
 
 # Browse Our Jeep® Brochures
 
@@ -238,29 +253,43 @@ Jeep® Performance Parts Lift Kit
 
 Mopar® Accessory Brochure - Jeep® Wrangler
 
+Explore More
+
 # Dodge Durango
 
 Mopar® Accessory Brochure - Jeep® Gladiator
+
+Explore More
 
 # Jeep Grand Cherokee L
 
 Jeep® Performance Parts Catalog
 
+Explore More
+
 # Jeep Grand Cherokee L
 
 Mopar® Accessory Brochure - Jeep® Grand Cherokee WL
+
+Explore More
 
 # Ram 1500
 
 Mopar® Accessory Brochure - Jeep® Wagoneer/Grand Wagoneer
 
+Explore More
+
 # Jeep Cherokee
 
 Mopar® Accessory Brochure - Jeep® Cherokee
 
+Explore More
+
 # Dodge Durango
 
 Mopar® Accessory Brochure - Jeep® Compass
+
+Explore More
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -269,7 +298,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-Mopar® Accessory Brochure - Jeep® Wagoneer S
+# Mopar® Accessory Brochure - Jeep® Wagoneer S
 
 # Explore More
 
@@ -297,12 +326,13 @@ Whether you’re looking for ways to care for your vehicle or an enthusiast that
 
 Learn More
 
-# Featured Products
+# Jeep® Performance Parts Tube Door Kit
 
-- Jeep® Performance Parts Tube Door Kit
-- Jeep® Performance Parts Snorkel
-- Branded App
-- Blog
+# Jeep® Performance Parts Snorkel
+
+# Branded App
+
+# Blog
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -405,6 +435,8 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
+# Cookie Settings
+
 # SERVICE SCHEDULING MADE EASY
 
 Conveniently book an appointment with your preferred dealer
@@ -459,9 +491,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
-
-
-# Help us try to verify your ownership by providing the details below
+Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -487,7 +517,9 @@ GOT IT!
 
 New  All    Dealer      Services  Recalls  Offers
 
-You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
+You are permanently removing this notification from your Owner Site Notification Feed.
+
+Do you wish to proceed?
 
 Don’t show this again
 

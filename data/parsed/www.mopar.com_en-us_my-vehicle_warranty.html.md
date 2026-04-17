@@ -10,19 +10,25 @@ Resend Email
 # NOW OPEN – DIRECT CONNECTION BROUGHT TO YOU BY DODGE POWER BROKERS
 
 Shop Now
+
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
-Guest
+es / us
+
+en / ca
+
+fr / ca
+
+, Guest
 
 - Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
+
+# Home
 
 # My Vehicle
 
@@ -110,13 +116,10 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Assistance
 
-# Roadside Assistance
-
-# Collision Assistance
-
-# Branded Owner's App
-
-# Smartphone Pairing
+- Roadside Assistance
+- Collision Assistance
+- Branded Owner's App
+- Smartphone Pairing
 
 # Contact Us
 
@@ -124,35 +127,25 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-# Merchandise
-
-# Mopar® Blog
-
-# About Mopar®
+- Merchandise
+- Mopar® Blog
+- About Mopar®
 
 # Social Media
 
-# Instagram
-
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
 # Visit eStore
 
-# Find Tires
-
-# Schedule Appointment
-
-# Schedule Service
+- Find Tires
+- Schedule Appointment
+- Schedule Service
 
 # Search
-
-# Type Here
 
 # Popular Searches
 
@@ -187,11 +180,14 @@ Sign in today to view your complete owner's manual—plus video tutorials, your 
 
 
 
+
 # Vehicle Information at Your Fingertips
 
 Get to know the full capabilities of your vehicle and how to keep it running strong with your online vehicle resource center. Sign in today to view your complete owner's manual—plus video tutorials, your vehicle’s warranty and everything else in your glovebox—available anytime, anywhere. Don't have your vehicle added? Add it now to start exploring.
 
-SIGN IN Select a Vehicle
+# SIGN IN
+
+Select a Vehicle
 
 View Owner’s Manual Sitemap
 
@@ -220,7 +216,7 @@ Step-by-step guides help you get started with your radio and Connected Services 
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
-SHOP FOR YOUR NEXT VEHICLE
+# SHOP FOR YOUR NEXT VEHICLE
 
 
 
@@ -276,20 +272,13 @@ Privacy Policy
 
 
 
-
-# Data Privacy Framework Policy
-
-# Manage Your Privacy Choices
-
-# Cookie Settings
-
+Data Privacy Framework Policy
 # SERVICE SCHEDULING MADE EASY
 
 Conveniently book an appointment with your preferred dealer
 
 SIGN IN
 CONTINUE AS GUEST
-
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
 Sign in to access (or create) your account for VIN-specific resources, personalized content, and more. Otherwise, you may proceed as a guest.
@@ -305,7 +294,14 @@ Add a vehicle by selecting Brand, Year, and Model or sign into your account to a
 
 Select Brand
 
+Select Brand
+Alfa
+
 Select Year
+
+Select Year
+
+Select Model
 
 Select Model
 
@@ -332,13 +328,15 @@ Your vehicle has been added in your Garage.
 
 
 
+
+
 Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
 *Indicates required field
 
-We’re sorry
+# We’re sorry
 
 Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
@@ -346,7 +344,7 @@ Need additional assistance? Contact Us.
 
 CLOSE
 
-Great news!
+# Great news!
 
 Our latest records now identify you as the current owner of this vehicle. This will now be reflected on your online dashboard.
 
@@ -358,17 +356,15 @@ GOT IT!
 
 New  All    Dealer      Services  Recalls  Offers
 
-You are permanently removing this notification from your Owner Site Notification Feed.
-
-Do you wish to proceed?
+You are permanently removing this notification from your Owner Site Notification Feed. Do you wish to proceed?
 
 Don’t show this again
 
-REMOVE      CANCEL
-
+REMOVE
+CANCEL
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
-Our limited-time tire offer is here!
+# Our limited-time tire offer is here!
 
 Buy 3 Tires Get the 4th for $1
 
@@ -413,14 +409,17 @@ Sign In Skip Sign In
 Your preferred dealer has been successfully updated.
 
 DISMISS
+
 Your preferred dealer has been successfully updated
 
 DISMISS
+
 Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
 Continue Cancel
+
 modal title
 
 One moment please

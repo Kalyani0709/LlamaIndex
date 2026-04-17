@@ -15,11 +15,9 @@ Learn More
 
 EN / US
 
-, Guest
+Guest
 
-# Visit
-
-- eStore
+- Visit eStore
 - Find Tires
 - Schedule Service
 - Find a Dealer
@@ -53,7 +51,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-# VIN Lookup
+VIN Lookup
 
 # Dashboard Lights
 
@@ -108,7 +106,7 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-Assistance
+# Assistance
 
 # Roadside Assistance
 
@@ -132,15 +130,11 @@ Assistance
 
 # Social Media
 
-# Instagram
-
-# X
-
-# Facebook
-
-# Pinterest
-
-# YouTube
+- Instagram
+- X
+- Facebook
+- Pinterest
+- YouTube
 
 # Visit eStore
 
@@ -149,8 +143,6 @@ Assistance
 # Schedule Appointment
 
 # Schedule Service
-
-# Type Here
 
 # Search
 
@@ -180,7 +172,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 Whether you want to inquire about new coverage or have questions about your current plan, you’ve come to the right place.
 
-Wish to purchase a plan? 1-866-818-9929
+Wish to purchase a plan? Call 1-866-818-9929
 
 
 
@@ -322,6 +314,8 @@ Your interactions and personal data may be collected on our websites and used by
 
 # Privacy Center
 
+# Privacy Center
+
 # Privacy Policy
 
 # Data Privacy Framework Policy
@@ -336,7 +330,7 @@ Conveniently book an appointment with your preferred dealer
 
 # SIGN IN
 
-CONTINUE AS GUEST
+# CONTINUE AS GUEST
 
 Did you know creating an account allows us to save vehicle information and preferences so future bookings are even simpler? Register Now
 
@@ -379,6 +373,7 @@ Your interactions and personal data may be collected on our websites and used by
 
 
 
+
 Please wait while we add your vehicle
 
 # Vehicle Added Successfully!
@@ -415,8 +410,8 @@ You are permanently removing this notification from your Owner Site Notification
 
 Don’t show this again
 
-REMOVE
-CANCEL
+REMOVE CANCEL
+
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
 # Our limited-time tire offer is here!
@@ -456,20 +451,23 @@ FCA US LLC strives to ensure that its website is accessible to individuals with 
 
 Select a vehicle to explore. Sign in (or create an account) to receive access to even more exciting content.
 
-Sign In
+# Sign In
+
 Skip Sign In
+
 Your preferred dealer has been successfully updated.
 
 DISMISS
+
 Your preferred dealer has been successfully updated
 
 DISMISS
+
 Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue
-Cancel
+Continue  Cancel
 
 # modal title
 

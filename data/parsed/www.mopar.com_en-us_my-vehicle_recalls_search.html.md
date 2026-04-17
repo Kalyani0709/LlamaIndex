@@ -1,7 +1,5 @@
 
-# WELCOME TO MOPAR!
-
-YOUR OWNER PROFILE IS NEARLY COMPLETE − PLEASE CHECK YOUR EMAIL TO VERIFY YOUR ACCOUNT
+WELCOME TO MOPAR! YOUR OWNER PROFILE IS NEARLY COMPLETE − PLEASE CHECK YOUR EMAIL TO VERIFY YOUR ACCOUNT
 
 Didn't receive AN email?
 
@@ -13,10 +11,7 @@ Shop Now
 
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
 Guest
 
@@ -45,20 +40,14 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
-
-OK
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
 
-
-
-# VIN Lookup
+VIN Lookup
 
 # Dashboard Lights
 
@@ -66,10 +55,13 @@ OK
 
 # Service
 
-- Find a Dealer
-- Schedule Appointment
-- Find Tires
-- FlexCare Vehicle Protection
+# Find a Dealer
+
+# Schedule Appointment
+
+# Find Tires
+
+# FlexCare Vehicle Protection
 
 # Mopar® Services
 
@@ -113,13 +105,15 @@ our interactions and personal data may be collected on our websites and used by 
 
 
 
-
 # Assistance
 
-- Roadside Assistance
-- Collision Assistance
-- Branded Owner's App
-- Smartphone Pairing
+# Roadside Assistance
+
+# Collision Assistance
+
+# Branded Owner's App
+
+# Smartphone Pairing
 
 # Contact Us
 
@@ -127,9 +121,11 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-- Merchandise
-- Mopar® Blog
-- About Mopar®
+# Merchandise
+
+# Mopar® Blog
+
+# About Mopar®
 
 # Social Media
 
@@ -179,7 +175,6 @@ VIN not formatted correctly
 
 
 
-
 # Help me find my VIN
 
 # Here's How to Find Your Vin
@@ -194,7 +189,11 @@ The VIN can be found on the VIN plate located on the driver's side of the dashbo
 
 Mopar agent in dealership showroom checks FCA recall information for a mother with her child
 
-Already have a Mopar® account? Sign in to see recall information related to your vehicle(s). Don't drive a Chrysler, Dodge, Jeep®, Ram, FIAT® or Alfa Romeo vehicle but need recall information? Visit the CheckToProtect.org website
+# Already have a Mopar® account?
+
+Sign in to see recall information related to your vehicle(s).
+
+Don't drive a Chrysler, Dodge, Jeep®, Ram, FIAT® or Alfa Romeo vehicle but need recall information? Visit the CheckToProtect.org website.
 
 # TAKATA AIRBAG STOP-DRIVE ADVISORY
 
@@ -208,9 +207,7 @@ Get certified service for your Chrysler, Jeep®, Dodge, Ram or FIAT brand vehicl
 
 brands
 
-Mile Radius
-
-Selected below
+Mile Radius Selected below
 
 Clear
 
@@ -230,9 +227,6 @@ Clear
 - Drop-Off Service
 
 our interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-
-
-
 
 
 
@@ -475,7 +469,9 @@ You are permanently removing this notification from your Owner Site Notification
 
 Do you wish to proceed?
 
-REMOVE CANCEL
+Don’t show this again
+
+REMOVE      CANCEL
 
 To set preferences about the types of site notifications you wish to receive, click here. Set Preferences
 
@@ -524,7 +520,8 @@ FCA US LLC strives to ensure that its website is accessible to individuals with 
 
 Sign in (or create an account) to receive access to even more exciting content
 
-Sign In Skip Sign In
+Sign In
+Skip Sign In
 
 Your preferred dealer has been successfully updated.
 
@@ -538,11 +535,11 @@ Thanks for visiting
 
 You are now leaving the Mopar® U.S. site and will be logged out of your account.
 
-Continue Cancel
+Continue
+Cancel
 
 # modal title
 
 One moment please
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
-

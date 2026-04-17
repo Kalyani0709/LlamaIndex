@@ -12,14 +12,9 @@ Resend Email
 Shop Now
 Learn More
 
-- EN / US
-- es / us
-- en / ca
-- fr / ca
+EN / US
 
 Guest
-
-# EN-US
 
 - Visit eStore
 - Find Tires
@@ -46,16 +41,14 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Vehicle Health Report
 
-# Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
+- Maintenance Schedule
+- Service Records
+- Recalls &#x26; Campaigns
 
 
 
 
-# VIN Lookup
+VIN Lookup
 
 # Dashboard Lights
 
@@ -112,10 +105,13 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Assistance
 
-- Roadside Assistance
-- Collision Assistance
-- Branded Owner's App
-- Smartphone Pairing
+# Roadside Assistance
+
+# Collision Assistance
+
+# Branded Owner's App
+
+# Smartphone Pairing
 
 # Contact Us
 
@@ -123,25 +119,35 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Lifestyle &#x26; Merchandise
 
-- Merchandise
-- Mopar® Blog
-- About Mopar®
+# Merchandise
+
+# Mopar® Blog
+
+# About Mopar®
 
 # Social Media
 
-- Instagram
-- X
-- Facebook
-- Pinterest
-- YouTube
+# Instagram
+
+# X
+
+# Facebook
+
+# Pinterest
+
+# YouTube
 
 # Visit eStore
 
-- Find Tires
-- Schedule Appointment
-- Schedule Service
+# Find Tires
+
+# Schedule Appointment
+
+# Schedule Service
 
 # Search
+
+# Type Here
 
 # Popular Searches
 
@@ -163,11 +169,15 @@ our interactions and personal data may be collected on our websites and used by 
 
 # Account Management
 
-- Back to Login
-- Forgot password?
-- Don't have an account? Create an account.
-- Already have an account? Sign in.
-- Cancel Profile Update? Sign in.
+# Back to Login
+
+# Forgot password?
+
+# Don't have an account? Create an account.
+
+# Already have an account? Sign in.
+
+# Cancel Profile Update? Sign in.
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -177,7 +187,9 @@ Welcome to Mopar.com. You will receive an email shortly with instructions on com
 
 
 
+No Email?
 
+Resend Email
 
 # Custom Dashboard
 
@@ -269,7 +281,12 @@ Sign in to access (or create) your account for VIN-specific resources, personali
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
+SIGN IN
+Skip Sign in
+
 # Select a Vehicle
+
+
 
 
 
@@ -280,20 +297,16 @@ Your interactions and personal data may be collected on our websites and used by
 
 Select Brand
 
-Select Brand
+Select Year
+
+Select Model
+
+MakeMake
+
 alfa
 
-Select Year
-
-Select Year
-
-Select Model
-
-Select Model
-
 ADD VEHICLE
-
-# OR
+OR
 
 # By VIN
 
@@ -308,7 +321,7 @@ Please wait while we add your vehicle
 
 Your vehicle has been added in your Garage.
 
-# Help us try to verify your ownership by providing the details below
+Help us try to verify your ownership by providing the details below
 
 NOTE: Provide your first and last name as they appear on the vehicle registration.
 
@@ -316,10 +329,11 @@ NOTE: Provide your first and last name as they appear on the vehicle registratio
 
 # We’re sorry
 
-Your records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
+Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
 Need additional assistance? Contact Us.
 
+CLOSE
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
 # Great news!
@@ -390,7 +404,7 @@ Skip Sign In
 Your preferred dealer has been successfully updated.
 
 DISMISS
-Your preferred dealer has been successfully updated.
+Your preferred dealer has been successfully updated
 
 DISMISS
 Thanks for visiting

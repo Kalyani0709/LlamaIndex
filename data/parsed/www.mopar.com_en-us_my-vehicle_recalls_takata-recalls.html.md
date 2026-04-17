@@ -41,55 +41,38 @@ OK
 
 
 
+
+
+
 # Maintenance Schedule
-
-# Service Records
-
-# Recalls &#x26; Campaigns
-
-# VIN Lookup
-
-# Dashboard Lights
-
-# Vehicle Health Report
 
 # Service
 
-# Find a Dealer
-
-# Schedule Appointment
-
-# Find Tires
-
-# FlexCare Vehicle Protection
+- Find a Dealer
+- Schedule Appointment
+- Find Tires
+- FlexCare Vehicle Protection
 
 # Mopar® Services
 
-# Express Lane
-
-# Ram Care
-
-# Pickup &#x26; Drop-Off
-
-# Prepaid Oil Changes
-
-# Cleaner Ingredient Info
+- Express Lane
+- Ram Care
+- Pickup &#x26; Drop-Off
+- Prepaid Oil Changes
+- Cleaner Ingredient Info
 
 # Savings
 
-# Coupons &#x26; Offers
-
-# Service Rebates
-
-# DrivePlusSM Mastercard®
-
-# Jeep® Rewards Mastercard®
-
-# Buy 3 Tires Get the 4th for $1
-
-# Vehicle Financing
+- Coupons &#x26; Offers
+- Service Rebates
+- DrivePlusSM Mastercard®
+- Jeep® Rewards Mastercard®
+- Buy 3 Tires Get the 4th for $1
+- Vehicle Financing
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
+
+
 
 
 
@@ -217,12 +200,15 @@ Search
 
 # Takata Airbag Inflator Recalls
 
-In 2026, FCA US LLC issued a Stop-Drive advisory for all vehicles with unrepaired recalled Takata airbags in the United States. The longer these defective airbags remain in the vehicle, the greater the risk of an airbag rupture in a crash. FCA US LLC remains fully committed to supporting its customers and ensuring their safety. We are urging all affected vehicle owners to take this matter seriously. We have parts in stock and technicians standing by to replace your recalled airbag for free, including at your home.
+In 2026, FCA US LLC issued a Stop-Drive advisory for all vehicles with unrepaired recalled Takata airbags in the United States. The longer these defective airbags remain in the vehicle, the greater the risk of an airbag rupture in a crash.
 
-In 2026, FCA US LLC issued a Stop-Drive advisory for all vehicles with unrepaired recalled Takata airbags in the United States. The longer these defective airbags remain in the vehicle, the greater the risk of an airbag rupture in a crash. FCA US LLC remains fully committed to supporting its customers and ensuring their safety. We are urging all affected vehicle owners to take this matter seriously. We have parts in stock and technicians standing by to replace your recalled airbag for free, including at your home.
+FCA US LLC remains fully committed to supporting its customers and ensuring their safety. We are urging all affected vehicle owners to take this matter seriously. We have parts in stock and technicians standing by to replace your recalled airbag for free, including at your home.
 
-Check Vin
-SCHEDULE YOUR REPAIR
+In 2026, FCA US LLC issued a Stop-Drive advisory for all vehicles with unrepaired recalled Takata airbags in the United States. The longer these defective airbags remain in the vehicle, the greater the risk of an airbag rupture in a crash.
+
+FCA US LLC remains fully committed to supporting its customers and ensuring their safety. We are urging all affected vehicle owners to take this matter seriously. We have parts in stock and technicians standing by to replace your recalled airbag for free, including at your home.
+
+# Check Vin SCHEDULE YOUR REPAIR
 
 Your interactions and personal data may be collected on our websites and used by us and our partners in accordance with our Privacy Policy.
 
@@ -322,6 +308,8 @@ The risk of airbag inflator explosion increases over time. FCA US LLC sent the S
 # How do I get my vehicle to the dealer for repair if it is under a Stop-Drive advisory?
 
 Several options are available, including towing the vehicle in for service free of charge or having a certified technician come to your home for mobile repair. Alternate transportation may be available as well. Call 833-585-0144 or your dealer to discuss what works best for you.
+
+
 
 
 
@@ -430,7 +418,7 @@ alfa
 
 # OR
 
-# By VIN
+By VIN
 
 Please sign in or register if you're a current owner and wish to add a vehicle by VIN.
 
@@ -450,7 +438,7 @@ NOTE: Provide your first and last name as they appear on the vehicle registratio
 
 # We’re sorry
 
-Your our records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
+Your records do not yet reflect you as the owner of this vehicle. If you recently purchased your vehicle, you may want to check back again soon as our records may not yet be updated.
 
 Need additional assistance? Contact Us.
 
@@ -488,7 +476,7 @@ Expires April 30th—so browse our tire offerings and contact your dealership to
 
 Find Tires Offer Details
 
-# View all fca brands
+# View all FCA brands
 
 - CHRYSLER
 - Dodge
