@@ -1,9 +1,9 @@
 import os
-import re
 from openai import OpenAI
 from qdrant_client import QdrantClient
 from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
+
 load_dotenv()
 
 # ------------------ CONFIG ------------------
@@ -18,8 +18,8 @@ client = OpenAI(
     timeout=30
 )
 
-# ------------------ RETRIEVE ------------------
-def retrieve(query, top_k=10):
+# ------------------ RETRIEVE + EXPAND ------------------
+def retrieve(query, top_k=5):
     vector = model.encode(query).tolist()
 
     results = qdrant.query_points(
@@ -28,66 +28,90 @@ def retrieve(query, top_k=10):
         limit=top_k
     ).points
 
-    return results
+    expanded = []
+    seen_ids = set()
+
+    for r in results:
+        expanded.append(r)
+        seen_ids.add(r.id)
+
+        meta = r.payload.get("metadata", {})
+        source = meta.get("source")
+        chunk_id = meta.get("chunk_id")
+
+        if chunk_id is None:
+            continue
+
+        # 🔥 FETCH NEXT CHUNK
+        next_chunks, _ = qdrant.scroll(
+            collection_name=COLLECTION_NAME,
+            scroll_filter={
+                "must": [
+                    {"key": "metadata.source", "match": {"value": source}},
+                    {"key": "metadata.chunk_id", "match": {"value": chunk_id + 1}}
+                ]
+            },
+            limit=1
+        )
+
+        for n in next_chunks:
+            if n.id not in seen_ids:
+                expanded.append(n)
+                seen_ids.add(n.id)
+
+    return expanded
 
 
 # ------------------ BUILD CONTEXT ------------------
 def build_context(results):
     context_blocks = []
+    seen = set()
 
-    for r in results[:3]:   # balanced
+    for r in results:
         text = r.payload.get("content", "").strip()
-        if text:
-            context_blocks.append(text)
 
-    context = "\n\n".join(context_blocks)
+        if text and text not in seen:
+            context_blocks.append(text)
+            seen.add(text)
+
+    context = "\n\n".join(context_blocks[:5])  # limit
 
     print("\n===== CONTEXT =====\n", context)
-    print("\n===============================================================================================\n")
+    print("\n=====================================================\n")
 
     return context
 
 
-# ------------------ GENERATE (OPENAI) ------------------
+# ------------------ GENERATE ------------------
 def generate_answer(query, context):
+    if not context.strip():
+        return "I don't know"
+
     response = client.chat.completions.create(
-        model="gpt-4o-mini",   # 🔥 fast + accurate
+        model="gpt-4o-mini",
         messages=[
             {
                 "role": "system",
-                "content": """You are a precise extraction assistant.
+                "content": """You are a strict context extraction assistant.
 
 Rules:
-- If the answer exists directly in the context → return it EXACTLY
-- Do NOT rephrase unnecessarily
+- Return the FULL relevant section from the context
+- Do NOT summarize
+- Do NOT skip lines
+- If heading + content → return all
+- Combine chunks if needed
 - Do NOT add external knowledge
-- Do NOT mention sources or chunks
-- Do NOT change numbers
 
-- If the answer appears as a heading followed by content:
-    → return the heading + ALL content under it
-
-- If the section spans across multiple parts of the context:
-    → combine ALL relevant parts into one complete answer
-
-- Prefer copying sentences from the context over generating new ones
-
-If answer is not found:
+If answer not found:
 - Return exactly: I don't know
 """
             },
             {
                 "role": "user",
-                "content": f"""
-Context:
-{context}
-
-Question:
-{query}
-"""
+                "content": f"Context:\n{context}\n\nQuestion:\n{query}"
             }
         ],
-        temperature=0.0   # 🔥 critical for accuracy
+        temperature=0.0
     )
 
     return response.choices[0].message.content.strip()
@@ -96,9 +120,6 @@ Question:
 # ------------------ MAIN ------------------
 def ask(query):
     results = retrieve(query)
-
     context = build_context(results)
-
     answer = generate_answer(query, context)
-
     return answer, results

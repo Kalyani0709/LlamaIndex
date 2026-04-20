@@ -5,35 +5,77 @@ import re
 INPUT_DIR = "data/parsed"
 OUTPUT_FILE = "data/chunked.json"
 
-CHUNK_SIZE = 800
-OVERLAP = 120
+MAX_CHUNK_WORDS = 200
 
 
-# ================= SPLIT BY HEADINGS =================
-def split_sections(text):
-    sections = re.split(r"\n#{1,6} ", text)  # supports H1-H6
-    return [s.strip() for s in sections if s.strip()]
+def clean_text(text):
+    text = re.sub(r"\n+", "\n", text)
+    return text.strip()
 
 
-# ================= SMART CHUNKING =================
-def chunk_text(text):
-    words = text.split()
+def split_blocks(text):
+    """
+    Keeps headings WITH content
+    """
+    lines = text.split("\n")
+    
+    blocks = []
+    current_block = []
+
+    for line in lines:
+        if line.startswith("#"):
+            if current_block:
+                blocks.append("\n".join(current_block).strip())
+            current_block = [line]  # keep heading
+        else:
+            current_block.append(line)
+
+    if current_block:
+        blocks.append("\n".join(current_block).strip())
+
+    return blocks
+
+
+def merge_small_blocks(blocks):
+    """
+    Merge tiny blocks (like nav items) together
+    """
+    merged = []
+    buffer = ""
+
+    for block in blocks:
+        word_count = len(block.split())
+
+        if word_count < 20:
+            buffer += "\n" + block
+        else:
+            if buffer:
+                merged.append(buffer.strip())
+                buffer = ""
+            merged.append(block)
+
+    if buffer:
+        merged.append(buffer.strip())
+
+    return merged
+
+
+def split_large_block(block):
+    words = block.split()
     chunks = []
 
-    step = CHUNK_SIZE - OVERLAP
-
-    for i in range(0, len(words), step):
-        chunk_words = words[i:i + CHUNK_SIZE]
-
-        if len(chunk_words) < 50:
-            continue
-
-        chunks.append(" ".join(chunk_words))
+    for i in range(0, len(words), MAX_CHUNK_WORDS):
+        chunk = " ".join(words[i:i + MAX_CHUNK_WORDS])
+        chunks.append(chunk)
 
     return chunks
 
 
-# ================= MAIN =================
+def extract_heading(block):
+    first_line = block.split("\n")[0]
+    return first_line.replace("#", "").strip()
+
+
 def run():
     final_chunks = []
 
@@ -44,36 +86,38 @@ def run():
         path = os.path.join(INPUT_DIR, file)
 
         with open(path, "r", encoding="utf-8") as f:
-            content = f.read()
+            content = clean_text(f.read())
 
-        sections = split_sections(content)
+        # Step 1: split properly
+        blocks = split_blocks(content)
 
-        for sec in sections:
-            lines = sec.split("\n")
-            title = lines[0] if lines else "unknown"
+        # Step 2: merge tiny junk
+        blocks = merge_small_blocks(blocks)
 
-            word_count = len(sec.split())
+        for block in blocks:
+            heading = extract_heading(block)
 
-            # 🔥 small section → keep as is
-            if word_count < CHUNK_SIZE:
-                final_chunks.append({
-                    "text": sec,
-                    "metadata": {
-                        "source": file,
-                        "heading": title
-                    }
-                })
-            else:
-                chunks = chunk_text(sec)
+            word_count = len(block.split())
 
-                for c in chunks:
+            if word_count > MAX_CHUNK_WORDS:
+                sub_chunks = split_large_block(block)
+
+                for sub in sub_chunks:
                     final_chunks.append({
-                        "text": c,
+                        "text": sub,
                         "metadata": {
                             "source": file,
-                            "heading": title
+                            "heading": heading
                         }
                     })
+            else:
+                final_chunks.append({
+                    "text": block,
+                    "metadata": {
+                        "source": file,
+                        "heading": heading
+                    }
+                })
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_chunks, f, indent=2)

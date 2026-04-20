@@ -2,6 +2,7 @@ import os
 import uuid
 import json
 import time
+from collections import defaultdict
 from dotenv import load_dotenv
 
 from qdrant_client import QdrantClient
@@ -27,7 +28,6 @@ RETRY = 3
 
 # ------------------ TEXT CLEANING ------------------
 def clean_text(text):
-    # remove extra spaces/newlines
     return " ".join(text.split())
 
 
@@ -70,23 +70,35 @@ def safe_upsert(points):
 # ------------------ ADD DOCUMENTS ------------------
 def add_documents_to_qdrant(docs):
     total = len(docs)
-
     print(f"\n🚀 Total chunks: {total}")
 
-    for i in range(0, total, BATCH_SIZE):
-        batch = docs[i:i + BATCH_SIZE]
+    # 🔥 GROUP BY SOURCE
+    grouped = defaultdict(list)
+    for doc in docs:
+        source = doc.get("metadata", {}).get("source", "unknown")
+        grouped[source].append(doc)
+
+    all_docs = []
+
+    # 🔥 ASSIGN CHUNK IDs PER FILE
+    for source, items in grouped.items():
+        for idx, doc in enumerate(items):
+            doc["metadata"]["chunk_id"] = idx  # ✅ KEY FIX
+            doc["metadata"]["source"] = source
+            all_docs.append(doc)
+
+    # ------------------ BATCH PROCESS ------------------
+    for i in range(0, len(all_docs), BATCH_SIZE):
+        batch = all_docs[i:i + BATCH_SIZE]
 
         print(f"\n📦 Batch {i} → {i + len(batch)}")
 
-        # ✅ FIX: avoid mismatch between texts and embeddings
         valid_docs = [doc for doc in batch if doc["text"].strip()]
-
         texts = [clean_text(doc["text"]) for doc in valid_docs]
 
         if not texts:
             continue
 
-        # 🔥 batch embedding
         embeddings = model.encode(texts, batch_size=16).tolist()
 
         points = []
@@ -94,7 +106,7 @@ def add_documents_to_qdrant(docs):
         for doc, emb in zip(valid_docs, embeddings):
             payload = {
                 "content": doc["text"],
-                "metadata": doc.get("metadata", {})  # ✅ keep full metadata
+                "metadata": doc["metadata"]  # now includes chunk_id
             }
 
             points.append(
@@ -105,9 +117,7 @@ def add_documents_to_qdrant(docs):
                 )
             )
 
-        # 🔥 SAFE UPSERT
         safe_upsert(points)
-
         print("✅ Uploaded batch")
 
     print("\n🎉 ALL DONE")
